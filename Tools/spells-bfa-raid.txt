@@ -1,0 +1,455 @@
+; Type: Battle for Azeroth Raid
+
+; -------------------------------------
+;    Zone: Uldir, Halls of Control
+; -------------------------------------
+
+; Boss: Trash
+277047y	Verderbender Blick
+276540	Blutschild
+
+; Boss: Taloc the Corrupted
+271224y	Plasmaentladung
+270290	Blutsturm
+271296	Blutkeule
+271728	Keule aufheben
+271895y	Blutstatik
+275270	Fixieren
+275432	Verteidigungsstrahl von Uldir
+275189y	Verhärtete Arterien
+275205y	Vergrößertes Herz
+
+; Boss: MOTHER
+268198	Festsitzende Verderbnis
+274205	Erschöpfte Energie
+269051	Tilgende Läuterung
+267787	Sterilisierender Schlag
+267795	Läuternde Flamme
+267878	Windtunnel
+268253	Verteidigungsstrahl von Uldir
+279662y	Endemisches Virus
+
+; Boss: Fetid Devourer
+262277	Heftiges Hauen
+breath	Fauliges Erbrechen
+262288	Schockwellenstampfer
+262313y	Stinkendes Miasma
+262314y	Fäulnisanfall
+262364	Verführerische Essenz
+262378	Ranzige Raserei
+
+; Boss: Zek'voz, Herald of N'zoth
+265530	Wogende Dunkelheit
+265231	Leerenpeitsche
+265248	Zertrümmern
+264382y	Augenstrahl
+-18390	Silithidkrieger
+265360y	Aufwühlender Betrug
+-18397	Nerubischer Leerenweber
+267180	Leerenblitz
+267239	Kugel der Verderbnis
+265662y	Verderbnispakt
+265646	Wille des Verderbers
+
+; Boss: Vectis
+265143	Omegavektor
+265127	Anhaltende Infektion
+265178	Evolvierendes Gebrechen
+267242	Ansteckung
+265212	Heranwachsen
+265206	Immununterdrückung
+265217	Verflüssigen
+266459	Seuchenbombe
+274990	Aufplatzende Wunden
+
+; Boss: Zul, Reborn
+269936y	Fixieren
+-18530	Diener von Zul
+273365y	Dunkle Offenbarung
+273360	Lache der Dunkelheit
+273889	Ruf des Blutes
+; TODO crusher	Crusher spawning soon
+; TODO bloodhexer	Blood Hexer spawning soon
+; TODO crawg	Crawg spawning soon
+273288	Pochender Impuls
+273451	Blutgerinnung
+273350	Blutsplitter
+276299	Aufplatzen
+274358	Ausbrechendes Blut
+274271	Todeswunsch
+
+; Boss: Mythrax the Unraveler
+272146	Vernichtung
+273282	Essenz abscheren
+273538	Auslöschungsschlag
+272404	Vergessenssphäre
+272536y	Nahender Untergang
+279013	Essenzbruch
+273810	Xalzaix' Erwachen
+274230	Vergessensschleier
+272115	Auslöschungsstrahl
+273949	Visionen des Wahnsinns
+276922	Lebende Waffe
+279157	Leerenechos
+
+; Boss: G'huun
+-18109	Energiematrix
+263482	Neuerschaffungsexplosion
+272506y	Explosive Verderbnis
+270287	Verseuchte Erde
+267509	Tausend Mäuler
+267427	Qual
+267412	Massives Schmettern
+267409	Finsterer Handel
+267462	Verrottende Eruption
+270447	Wachsende Verderbnis
+270373	Welle der Verderbnis
+263235	Blutschmaus
+263307	Gedankenbenebelndes Gerede
+274582	Bösartiges Gewächs
+275160	G'huuns Blick
+263321	Wogende Masse
+277007	Platzendes Geschwür
+268074	Finstere Entschlossenheit
+
+
+; -------------------------------------
+;    Zone: Battle of Dazar'alor
+; -------------------------------------
+
+; Boss: Trash
+288815	Feuerodem
+289772y	Durchbohren
+289937	Donnerndes Stampfen
+289917	Bwonsamdis Pakt
+290578	Bwonsamdis Messer
+
+; Boss: Champion of the Light
+283573	Heilige Klinge
+283598	Woge des Lichts
+284469	Siegel der Vergeltung
+283933	Richturteil: Rechtschaffenheit
+284436	Siegel der Abrechnung
+284474	Richturteil: Abrechnung
+283662	Ruf zu den Waffen
+282113	Zornige Vergeltung
+284595	Sühne
+283628	Heilen
+283650	Blendender Glaube
+287469	Gebet für die Gefallenen
+
+; Boss: Jadefire Masters
+286436	Wirbelnder Jadesturm
+282030	Schlag der Hundert Fäuste
+285645	Geister von Xuen
+285632	Pirschen
+282037	Aufsteigende Flammen
+286379	Pyroschlag
+286425	Feuerschild
+286988	Sengende Funken
+284374	Magmafalle
+285428	Feuer aus dem Nebel
+284656	Ring der Feindseligkeit
+282040	Lodernder Phönix
+286396	Drachenodem
+
+; Boss: Grong
+285671	Zerquetscht
+285875	Verwundender Biss
+289401y	Bestialischer Wurf
+285994	Wildes Brüllen
+; Alliance
+282399	Totenglocke
+286450	Nekrotische Combo
+282543	Tödliches Schmettern
+282471	Voodooentladung
+286373	Kälte des Todes
+282526	Gespenst des Todes
+282533	Todeserfüllung
+286434	Nekrotischer Kern
+286435	Nekrotischen Kern entladen
+; Horde
+281936	Tobsuchtsanfall
+282082	Bestialische Combo
+282179	Hallendes Schmettern
+282215	Megatomare Zielsuchrakete
+283069	Megatomares Feuer
+282247	Affenreizer 3000
+282243	Affenreizer 3000
+285659	Affenreizerkern
+285660	Affenreizerkern entladen
+
+; Boss: Opulence
+286541	Verzehrende Flamme
+-19494	Die Kronjuwelen der Zandalari
+284645y	Topas des strahlenden Sonnenlichts
+283606	Zermalmen
+289383	Chaotische Verschiebung
+283507y	Unstete Ladung
+282939	Flammen der Bestrafung
+285479	Flammenstrahl
+284424	Sengender Boden
+284493	Pulsbeschleunigendes Gift
+284519	Beschleunigter Puls
+284470y	Verhexung der Lethargie
+287070	Macht ansammeln
+287072y	Flüssiges Gold
+287074	Geschmolzenes Gold
+285995	Geister des Goldes
+286026	Gold kanalisieren
+285014y	Münzregen
+284941	Klagelied der Gier
+287037	Münzenschwung
+289155	Wallendes Gold
+
+; Boss: Conclave of the Chosen
+282079	Pakt der Loa
+282098	Geschenk des Windes
+285945	Eilende Winde
+282107	Pa'kus Zorn
+282135y	Schleichende Verhexung
+285893	Wildes Zerfleischen
+282155	Gonks Zorn
+282209y	Mal der Beute
+282444	Aufschlitzende Klaue
+282447y	Kimbuls Zorn
+282411	Donnernder Sturm
+285879	Gedankentilgung
+286811y	Akundas Zorn
+282636	Krag'was Zorn
+
+; Boss: King Rastakhan
+284831	Sengende Detonation
+284933	Krötenplage
+285172	Großes Schlangentotem
+290450y	Siegel der Läuterung
+284686	Meteorsprung
+284719	Zerschmetternder Sprung
+284781	Verheerende Axt
+285346y	Feuerplage
+285003	Zombiestaubtotem
+285213	Liebkosung des Todes
+288449y	Schwelle des Todes
+287333	Unausweichliches Ende
+286742	Nekrotisches Schmettern
+
+; Boss: High Tinker Mekkatorque
+282153	Sprengkanone
+282205	Abschuss
+286646y	Gigavoltladung
+287952	Wurmlochgenerator
+288410	Funkenbot anfordern
+286693	Weltvergrößerer
+284168	Geschrumpft
+287929	Explodierende Schafe rufen
+
+; Boss: Stormwall Blockade
+287995	Elektrische Umhüllung
+284262	Voltaischer Blitz
+284106	Knisternder Blitz
+286558	Gezeitenhülle
+284362	Meeressturm
+284383	Versuchung des Meeres
+284406	Verlockendes Lied
+288696	Katastrophale Fluten
+285000	Seetangwickel
+285118	Meeresflut
+285017	Zorn der Tiefe
+285350y	Sturmesheulen
+
+; Boss: Lady Jaina Proudmoore
+287993	Eiskalte Berührung
+287490	Zu Eis erstarrt
+288038	Markiertes Ziel
+285725	Sprengladungen vorbereiten
+287365	Sengendes Pech
+285253	Eissplitter
+285254y	Lawine
+287925	Zeitkrümmung
+287626	Frostgriff
+285177	Eisiger Stoß
+285459	Ring des Eises
+288297	Arktischer Boden
+288212y	Breitseite
+288374y	Belagerungsbrecherschlag
+288345	Gletscherstrahl
+288441	Eismeteor
+289220	Frostherz
+289219	Frostnova
+290084	Wasserblitzsalve
+289940	Kristallstaub
+288619	Kugel des Frosts
+288747	Prismatisches Abbild
+289387	Eisiges Blut
+289488	Belagerungsfrost
+288169	Heulender Wind
+-19825	Eisgebundenes Abbild
+
+
+; -------------------------------------
+;    Zone: Crucible of Storms
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: The Restless Cabal
+282738	Umklammerung der Leere
+282741	Umbralhülle
+282750	Obhut der Tiefe
+282742	Sturm der Vernichtung
+282914	Überwältigende Macht
+282675	Pakt der Rastlosen
+282386	Aphotischer Blitz
+282540	Verkörperung des Todes
+282589	Zerebralattacke
+282561	Dunkler Bote
+282562	Machtversprechen
+282517	Furchterregendes Echo
+282384	Gedankenschnitt
+282407	Leerengeschoss
+282432y	Erdrückende Zweifel
+287876	Einhüllende Dunkelheit
+
+; Boss: Uu'nat, Harbinger of the Void
+284722	Umbralhülle
+284804	Obhut der Tiefe
+284583	Sturm der Vernichtung
+284851	Berührung des Untergangs
+285185	Riss des Vergessens
+285416	Leerengeschoss
+285376	N'Zoths Augen
+285345	Unerträgliche Augen von N'Zoth
+285367	N'Zoths durchdringender Blick
+285453	N'Zoths Geschenk: Obskurität
+285820	Unsterblichen Wächter rufen
+285638	N'Zoths Geschenk: Hysterie
+-19118	Urzeitlicher Geistbeuger
+285427	Essenz verzehren
+285562	Unbegreiflicher Schrecken
+285652y	Unstillbare Qualen
+285685	N'Zoths Geschenk: Wahnsinn
+285307	Fressen
+
+
+; -------------------------------------
+;    Zone: The Eternal Palace
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Blackwater Behemoth
+292127	Tiefschwarze Tiefen
+292205	Biolumineszente Wolke
+292133	Biolumineszenz
+292307	Starren aus der Tiefe
+292138	Strahlende Biomasse
+298428	Fressrausch
+292159	Toxischer Stachel
+292270	Schockimpuls
+301494y	Durchbohrender Dorn
+292083	Kavitation
+301180	Wirbelströmung
+
+; Boss: Za'qul, Harbinger of Ny'alotha
+298192	Dunkle Weiten
+292971	Hysterie
+295444	Geistesbindung
+294535	Portal des Wahnsinns
+301141	Schmettergriff
+292963	Schrecken
+293509y	Alptraummanifestationen
+292996	Unerträgliche Eruption
+295099	Durchbrochene Dunkelheit
+304733	Abstieg ins Delirium
+303971	Dunkler Impuls
+299702	Dunkle Passage
+296018	Manischer Schrecken
+295814	Psychotische Teilung
+
+; Boss: Orgozoa
+298156	Desensibilisierender Stich
+298103	Tröpfelndes Sekret
+298242	Inkubationsflüssigkeit
+305048	Überspringender Strom
+298465	Amniotische Spritzer
+298548	Gewaltiger Inkubator
+295779y	Aqualanze
+295822	Konduktiver Impuls
+296691	Mächtiges Stampfen
+
+; Boss: Abyssal Commander Sivara
+294726	Schimärenzeichen
+295332	Vernichtender Widerhall
+-20300y	Frosttoxinbenetzt
+296551	Überwältigendes Sperrfeuer
+-20006y	Ausbruch
+295601y	Frostschockblitze
+295791y	Inversion
+
+; Boss Radiance of Azshara
+296546	Gezeitenfaust
+296428	Arkanadoexplosion
+296459	Sturmböenfalle
+296737y	Arkane Bombe
+296894	Entfesselte Macht
+295916	Uralter Sturm
+296701	Heftiger Windstoß
+
+; Boss: Lady Ashvane
+296569	Korallenstruktur
+296662	Kräuselnde Welle
+297397y	Salzblase
+298056	Aufwogen
+296725	Seepockenschlag
+-20096	Überspringendes Azerit
+
+; Boss: The Queen's Court
+300088	Verzweifelte Maßnahmen
+296716	Gewaltentrennung
+298050	Reihen schließen
+301244	Leistungswiederholung
+297656	Allein stehen
+297566	Aufgeschobenes Urteil
+297585	Gehorsam oder Leid
+
+; Boss: Silivaz the Zealous
+299914y	Frenetischer Ansturm
+300545	Mächtiger Riss
+301807	Fanatische Eruption
+
+; Boss: Pashmar the Fanatical
+301830	Pashmars Berührung
+296851y	Fanatisches Urteil
+297325	Heftiger Ausbruch
+301947	Mächtiger Funke
+
+; Boss: Queen Azshara
+300074	Druckanstieg
+298569	Ausgelaugte Seele
+297937	Schmerzhafte Erinnerungen
+297934	Sehnsucht
+297912	Qual
+297907	Verfluchtes Herz
+298121	Blitzkugeln
+297972	Kettenblitzschlag
+298014	Kälteschlag
+298021	Eissplitter
+298756	Gezackte Klinge
+301078y	Geladener Speer
+-20480	Übereifriger Koloss
+298531	Bodenhämmern
+300428	Erzürnt
+298787	Arkane Kugeln
+299094	Anlocken
+299250	Erlass der Königin
+302999	Arkanverwundbarkeit
+304475	Arkaner Schock
+300519	Arkane Detonation
+297371	Wendung des Schicksals
+303657y	Arkaner Impuls
+300492y	Statischer Schock
+300620	Kristallschild
+297372	Große Wendung des Schicksals
+300743	Leerenberührt
+303980	Netherportal
+300807	Überladung
