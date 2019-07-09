@@ -1,0 +1,98 @@
+// This is a script for LINQPad
+
+void Main()
+{
+	var path = @"D:\Code\BigWigs_Voice_RU";
+
+	var spells = new List<(string Type, string Zone, string Boss, string Name, string Text)>();
+	string type = null;
+	string zone = null;
+	string boss = null;
+	
+	var lines = Directory
+		.EnumerateFiles(Path.Combine(path, "Tools"), "Spells-*.txt")
+		.SelectMany(file => File.ReadAllLines(file));
+
+	foreach (var line in lines)
+	{
+		if (line.StartsWith(";"))
+		{
+			var typeMatch = Regex.Match(line, "Type: (.*)");
+			var zoneMatch = Regex.Match(line, "Zone: (.*)");
+			var bossMatch = Regex.Match(line, "Boss: (.*)");
+
+			if (typeMatch.Success)
+				type = typeMatch.Groups[1].Value;
+			else if (zoneMatch.Success)
+				zone = zoneMatch.Groups[1].Value;
+			else if (bossMatch.Success)
+				boss = bossMatch.Groups[1].Value;
+		}
+		else if (!String.IsNullOrWhiteSpace(line))
+		{
+			if (type == null || zone == null || boss == null)
+				throw new InvalidOperationException(line);
+
+			var split = line.Split(new[] { '\t' }, StringSplitOptions.RemoveEmptyEntries);
+
+			if (split.Length != 2)
+				throw new InvalidOperationException(line);
+
+			spells.Add((type, zone, boss, split[0], split[1]));
+		}
+	}
+	
+	var duplicates = spells.GroupBy(x => x.Name).Where(x => x.Count() > 1).ToList();
+	
+	if (duplicates.Any())
+		throw new InvalidOperationException(duplicates.First().Key);
+	
+	var removed = Directory
+		.EnumerateFiles(Path.Combine(path, "Sounds"), "*.ogg")
+		.Except(spells.Select(x => x.Name), new FileNameWithoutExtensionEqualityComparer());
+	
+	foreach (var file in removed)
+		File.Delete(file);
+	
+	foreach (var spell in spells)
+	{
+		using (var synth = new SpeechSynthesizer())
+		{
+			synth.SelectVoice("Microsoft Irina Desktop");
+			synth.SetOutputToWaveFile($"{Path.Combine(path, "Sounds", spell.Name)}.wav");
+			synth.SpeakSsml(GetSsml(spell.Text));
+		}
+	}
+}
+
+string GetSsml(string text)
+{
+	var ns = XNamespace.Get("http://www.w3.org/2001/10/synthesis");
+
+	return new XDocument(
+		new XElement(ns + "speak",
+			new XAttribute("version", "1.0"),
+			new XAttribute(XNamespace.Xml + "lang", "ru"),
+			text.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+				.Select(x => x.Split('='))
+				.Select(x => new { Word = x.ElementAt(0) + " ", WordIpa = x.ElementAtOrDefault(1) })
+				.Select(x => x.WordIpa == null
+					? new XText(x.Word) as XNode
+					: new XElement(ns + "phoneme", new XAttribute("ph", x.WordIpa), x.Word)
+				)
+			)
+		).ToString();
+}
+
+class FileNameWithoutExtensionEqualityComparer : IEqualityComparer<string>
+{
+	public bool Equals(string x, string y)
+	{
+		return Path.GetFileNameWithoutExtension(x) == Path.GetFileNameWithoutExtension(y);
+	}
+
+	public int GetHashCode(string obj)
+	{
+		return Path.GetFileNameWithoutExtension(obj).GetHashCode();
+	}
+}
