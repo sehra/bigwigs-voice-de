@@ -1,0 +1,282 @@
+; Type: Shadowlands Dungeon
+
+; -------------------------------------
+;    Zone: De Other Side
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Hakkar the Soulflayer
+322746	Verderbtes Blut
+322759	Blutbarriere
+
+; Boss: The Manastorms
+320787	Machtkristall beschwören
+323877	Fingerlaser Echo X-trem
+320823	Experimentelle Eichhörnchenbombe
+321061	Interkontinentale Raketenhühnchensalve
+
+; Boss: Dealer Xy'exa
+321948	Ortsgebundene explosive Vorrichtung
+320230	Explosive Vorrichtung
+323687	Arkaner Blitzschlag
+
+; Boss: Mueh'zala
+325725	Kosmischer Kunstgriff
+325258	Meister des Todes
+326171	Realitätszersplitterung
+334970	Verdichten
+
+
+; -------------------------------------
+;    Zone: Halls of Atonement
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Halkias, the Sin-Stained Goliath
+323001	Glassplitter
+322936	Zerbröckelndes Zerschmettern
+322943	Trümmer wuchten
+322711	Gebrochenes Sündenlicht
+322977	Sündenlichtvisionen
+
+; Boss: Echelon
+319733	Steinruf
+328206	Fluch des Steins
+319941	Steinzerschmetternder Sprung
+326389	Blutstrom
+
+; Boss: High Adjudicator Aleez
+323538	Machtblitz
+323552	Machtsalve
+323650	Heimsuchende Fixierung
+329340	Animabrunnen
+
+; Boss: Lord Chamberlain
+329104	Schattentor
+328791	Ritual des Kummers
+323150	Telekinetischer Wurf
+323236	Entfesseltes Leid
+323437	Stigma des Stolzes
+
+
+; -------------------------------------
+;    Zone: Mists of Tirna Scithe
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Ingra Maloch
+323057	Geistblitz
+328756	Abstoßendes Antlitz
+323149	Die Dunkelheit begrüßen
+323137	Befremdlicher Pollen
+323177	Tränen des Waldes
+323059	Zorn der Dromanin
+
+; Boss: Mistcaller
+336499	Ratespiel
+321834	Völkerball
+321828	Klatschspiel
+326180	Fangspiel
+
+; Boss: Tred'ova
+322450	Verschlingen
+322550	Beschleunigtes Ausbrüten
+322614	Gedankenverbindung
+322563	Markierte Beute
+322651	Säureausstoß
+parasitic	Parasitic
+
+
+; -------------------------------------
+;    Zone: Plaguefall
+; -------------------------------------
+
+; Boss: Trash
+323572	Seuchensturm
+327515	Sumpfstachel
+329239	Gruselige Kriecher
+330403	Flügelstoß
+327882	Seuchenschnabel
+327233	Seuchenrülpsen
+320512	Verrostete Klauen
+318949	Schwärendes Rülpsen
+320517	Gezackte Stacheln
+328180	Packende Infektion
+321935	Ausdörrender Dreck
+336451	Bollwerk von Maldraxxus
+328395	Giftdurchbohrer
+328475	Einhüllende Netze
+330786	Schleimiger Kadaver
+330816	Geisterschritt
+328016	Wundersames Wachstum
+327995	Verdammnispilz
+328177	Fungisturm
+
+; Boss: Globgrog
+324490	Schleim anlocken
+324527	Seuchenstampfen
+324667	Schleimwelle
+
+; Boss: Doctor Ickus
+322358	Brennender Erreger
+67382	Sprung
+329217	Schleimsprung
+329110	Schleiminjektion
+332617	Pestilenzwoge
+321406	Virulente Explosion
+
+; Boss: Domina Vendomblade
+332313	Brutassassinen
+325552	Zytotoxisches Schlitzen
+325245	Schattenhafter Hinterhalt
+336258	Einzelgängerische Beute
+
+; Boss: Margrave Stradama
+322232	Infektiöser Regen
+322304	Bösartiges Gewächs
+322475	Seuchenschmettern
+
+
+; -------------------------------------
+;    Zone: Sanguine Depths
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Kryxis the Voracious
+319650	Boshafter Kopfstoß
+319654	Lechzender Entzug
+319713	Niederwalzen
+319685	Trennendes Schmettern
+
+; Boss: Executor Tarvold
+322554	Züchtigen
+322573	Manifestation formen
+328494	Sündenbehaftete Anima
+323551	Rückstände
+
+; Boss: Grand Proctor Beryllia
+325254	Eisenstacheln
+325360	Ritus der Vorherrschaft
+328737	Fragment des Strahlens
+326039	Unaufhörliche Qual
+
+; Boss: General Kaal
+323845	Tückischer Ansturm
+323821	Durchdringendes Verschwimmen
+322903	Dunkelbö
+324086	Glänzendes Strahlen
+
+
+; -------------------------------------
+;    Zone: Spires of Ascension
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Kin-Tara
+320966	Überkopfschlitzer
+327481	Dunkle Lanze
+321009	Geladener Speer
+324368	Gedämpfter Beschuss
+
+; Boss: Ventunax
+324146	Dunkler Schritt
+324205	Blendendes Licht
+334485	Wiederaufladen
+
+; Boss: Oryphrion
+323878	Ausgelaugt
+324046	Anima wiederaufladen
+324427	Himmlische Munition
+334053	Läuternde Druckwelle
+324608	Geladenes Stampfen
+
+; Boss: Devos, Paragon of Doubt
+334625	Abgründige Detonation
+322818	Verlorenes Selbstvertrauen
+323943	Durchstoßen
+
+; -------------------------------------
+;    Zone: The Necrotic Wake
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Blightbone
+320596	Erbrechendes Würgen
+320630	Blut verschlingen
+320637	Fauliges Gas
+320655	Knirschen
+
+; Boss: Amarth, The Harvester
+321226	Land der Toten
+321247	Letzte Ernte
+333488	Nekrotischer Hauch
+320012	Unheilige Raserei
+320171	Nekrotischer Blitz
+
+; Boss: Surgeon Stichflesh
+320358	Schöpfung erwecken
+322681	Fleischerhaken
+320376	Verstümmeln
+334476	Einbalsamierungssekret
+320200	Nähnadel
+334488	Fleisch trennen
+320359	Flucht
+
+; Boss: Nalthor the Rimebinder
+320772	Kometenhagel
+321368	Eisgebundene Aegis
+320788	Frostige Fesseln
+321894	Dunkles Exil
+
+
+; -------------------------------------
+;    Zone: Theater of Pain
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: An Affront of Challengers
+320063	Zerschmettern
+320069	Tödlicher Stoß
+326892	Fixieren
+324085	Wutanfall
+320248	Genetische Veränderung
+333231	Sengender Tod
+320293	Eins mit dem Tod
+320272	Spektrale Übertragung
+333540	Zusätzliche Angriffe
+
+; Boss: Gorechop
+323515	Hasserfüllter Stoß
+322795	Fleischerhaken
+318406	Weichklopfendes Schmettern
+
+; Boss: Xav the Unfallen
+320644	Brutale Combo
+320102	Blut und Ruhm
+331618	Banner der Unterdrückung
+320050	Macht von Maldraxxus
+320729	Massives Spalten
+317231	Schmetterhieb
+339415	Ohrenbetäubender Aufprall
+
+; Boss: Kul'tharok
+319521	Seele entziehen
+319637	Zurückgeforderte Seele
+319626	Phantomparasit
+319669	Spektralreichweite
+
+; Boss: Mordretha, the Endless Empress
+324079	Sensenschwung
+323608	Dunkle Verwüstung
+323683	Greifender Riss
+324449	Manifestierter Tod
+339573	Echos des Gemetzels
+339706	Geisterhafter Ansturm
+339550	Echo der Schlacht
