@@ -15,6 +15,7 @@
 343005	Blinder Hieb
 328857	Schröpfender Biss
 328897	Geschröpft
+345936	Ohrenbetäubender Schrei
 328921	Blutverhüllung
 329362	Echosonar
 341684	Die Blutlaterne
@@ -93,9 +94,14 @@
 ; Boss: The Council of Blood
 346690	Duellantenriposte
 346698	Pflichtbewussten Diener rufen
+330978	Gräberdiener
+330965	Kader des Kastellans
+346790	Sündenberührte Klinge
 346651	Essenz entziehen
 337110	Schreckensblitzsalve
 346657	Stolze Eruption
+346945	Schmerz manifestieren
+346681	Seelenstacheln
 327497	Ausweichender Sprung
 331634	Dunkler Vortrag
 346800	Blutwalzer
@@ -106,7 +112,6 @@
 ; Boss: Sludgefist
 331209	Hasserfüllter Blick
 331314	Zerstörerischer Einschlag
-341102	Fragmentierter Felsbrocken
 335293	Kettenverbindung
 332318	Zerstörerisches Stampfen
 335361	Steinbeben
@@ -149,6 +154,7 @@
 328276	Marsch der Bußfertigen
 329906	Gemetzel
 329951	Durchbohren
+-22131	Blutroter Kabalist
 335873	Groll
 329181	Zermürbender Schmerz
 333932	Hand der Zerstörung
@@ -157,6 +163,5 @@
 332619	Zersplitternder Schmerz
 332794	Fatale Finesse
 336008	Schwelender Zorn
-333979	Finstere Reflexion
-332937	Verheeren
-333111	Massaker
+332849	Reflexion: Verheeren
+333980	Reflexion: Massaker

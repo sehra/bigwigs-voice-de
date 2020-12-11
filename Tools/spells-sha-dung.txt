@@ -22,6 +22,7 @@
 323687	Arkaner Blitzschlag
 
 ; Boss: Mueh'zala
+327646	Seelenbrecher
 325725	Kosmischer Kunstgriff
 325258	Meister des Todes
 326171	Realitätszersplitterung
