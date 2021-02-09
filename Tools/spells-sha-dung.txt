@@ -5,10 +5,28 @@
 ; -------------------------------------
 
 ; Boss: Trash
+328740	Dunkler Lotus
+333227	Unvergängliche Wut
+333787	Wut
+334051	Ausbrechende Dunkelheit
+332678	Klaffende Wunde
+332672	Klingensturm
+332706	Heilung
+332612	Welle der Heilung
+332605	Verhexen
+332608	Blitzentladung
+331927	Durchgebrannt
+331548	Metallkiefer
+331846	W4U
+332084	Selbstreinigungszyklus
+332157	Aufdrehen
+340026	Klagende Trauer
 
 ; Boss: Hakkar the Soulflayer
+322736	Durchbohrender Dorn
 322746	Verderbtes Blut
 322759	Blutbarriere
+323569	Vergossene Essenz
 
 ; Boss: The Manastorms
 320787	Machtkristall beschwören
@@ -34,6 +52,17 @@
 ; -------------------------------------
 
 ; Boss: Trash
+326450	Treue Tiere
+325799	Schnellfeuer
+344993	Gezackter Rundumschlag
+346866	Steinatem
+325523	Tödliches Zustoßen
+325876	Fluch der Auslöschung
+325700	Sünden sammeln
+325701	Lebensentzug
+326409	Hauen
+326607	In Stein verwandeln
+326997	Mächtiger Prankenhieb
 
 ; Boss: Halkias, the Sin-Stained Goliath
 323001	Glassplitter
@@ -67,6 +96,30 @@
 ; -------------------------------------
 
 ; Boss: Trash
+324909	Wütendes Hauen
+324923	Dornenausbruch
+322938	Essenzernte
+322569	Hand von Thros
+322557	Seelenspaltung
+331718	Speerhagel
+340304	Giftige Absonderungen
+340305	Zerschmetternder Sprung
+340300	Zungenschläge
+331743	Aufbäumendes Toben
+340189	Lache des Glanzes
+340160	Strahlender Atem
+340208	Rüstung schreddern
+340289	Dreifachbiss
+340279	Giftige Entladung
+324776	Stacheldornmantel
+324987	Nebelschleierbiss
+325224	Animainjektion
+324914	Waldpflege
+325418y	Flüchtige Säure
+340544	Regeneration anregen
+326046	Widerstand stimulieren
+321968	Befremdlicher Pollen
+322486	Wildes Wachstum
 
 ; Boss: Ingra Maloch
 323057	Geistblitz
@@ -88,7 +141,9 @@
 322614	Gedankenverbindung
 322563	Markierte Beute
 322651	Säureausstoß
-parasitic	Parasitic
+337235	Parasitäre Besänftigung
+337249	Parasitäre Lähmung
+337255	Parasitäre Kontrolle
 
 
 ; -------------------------------------
@@ -102,13 +157,13 @@ parasitic	Parasitic
 330403	Flügelstoß
 327882	Seuchenschnabel
 327233	Seuchenrülpsen
+327584	Schleim anlocken
 320512	Verrostete Klauen
 318949	Schwärendes Rülpsen
 320517	Gezackte Stacheln
 328180	Packende Infektion
 321935	Ausdörrender Dreck
 336451	Bollwerk von Maldraxxus
-328395	Giftdurchbohrer
 328475	Einhüllende Netze
 330786	Schleimiger Kadaver
 330816	Geisterschritt
@@ -183,6 +238,7 @@ parasitic	Parasitic
 327481	Dunkle Lanze
 321009	Geladener Speer
 324368	Gedämpfter Beschuss
+331251	Tiefe Verbindung
 
 ; Boss: Ventunax
 324146	Dunkler Schritt
@@ -190,7 +246,6 @@ parasitic	Parasitic
 334485	Wiederaufladen
 
 ; Boss: Oryphrion
-323878	Ausgelaugt
 324046	Anima wiederaufladen
 324427	Himmlische Munition
 334053	Läuternde Druckwelle
@@ -201,11 +256,30 @@ parasitic	Parasitic
 322818	Verlorenes Selbstvertrauen
 323943	Durchstoßen
 
+
 ; -------------------------------------
 ;    Zone: The Necrotic Wake
 ; -------------------------------------
 
 ; Boss: Trash
+334748	Flüssigkeiten entziehen
+323190	Fleischschild
+323347	Anhaftende Dunkelheit
+322756	Zorn von Zolramus
+328667	Frostblitzsalve
+324293	Krächzender Schrei
+335143	Knochenflicken
+335141	Dunkler Schleier
+327396	Finsteres Schicksal
+324394	Zertrümmern
+324387	Frostige Stacheln
+324372	Sensenwinde
+338353	Blutspritzer
+338456	Verstümmeln
+338357	Weichklopfen
+327130	Fleisch reparieren
+323496	Spaltbeil werfen
+338606	Morbide Fixierung
 
 ; Boss: Blightbone
 320596	Erbrechendes Würgen
@@ -225,9 +299,10 @@ parasitic	Parasitic
 322681	Fleischerhaken
 320376	Verstümmeln
 334476	Einbalsamierungssekret
-320200	Nähnadel
+320200y	Nähnadel
 334488	Fleisch trennen
 320359	Flucht
+343556	Morbide Fixierung
 
 ; Boss: Nalthor the Rimebinder
 320772	Kometenhagel
@@ -241,12 +316,17 @@ parasitic	Parasitic
 ; -------------------------------------
 
 ; Boss: Trash
+330562	Demoralisierender Ruf
+341969	Verdorrender Ausstoß
+330614	Abscheulicher Ausbruch
+330868	Nekrotische Blitzsalve
+342675	Knochenspeer
 
 ; Boss: An Affront of Challengers
 320063	Zerschmettern
 320069	Tödlicher Stoß
-326892	Fixieren
 324085	Wutanfall
+326892	Fixieren
 320248	Genetische Veränderung
 333231	Sengender Tod
 320293	Eins mit dem Tod
@@ -268,8 +348,8 @@ parasitic	Parasitic
 339415	Ohrenbetäubender Aufprall
 
 ; Boss: Kul'tharok
-319521	Seele entziehen
-319637	Zurückgeforderte Seele
+319521y	Seele entziehen
+319637y	Zurückgeforderte Seele
 319626	Phantomparasit
 319669	Spektralreichweite
 
