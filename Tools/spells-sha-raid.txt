@@ -16,7 +16,6 @@
 341352	Meisterhaft gefertigte Schlinge des Manipulators
 341735	Stein wiederherstellen
 340630	Verrottend
-329298	Gefräßiges Miasma
 339553	Verbleibende Anima
 339557	Abgefüllte Anima
 339528	Verzerrte Begierden
@@ -61,7 +60,7 @@
 325442	Bezwungen
 325506	Erschütterndes Schmettern
 -21993	Ödschwingenassassine
-326583y	Blutroter Schlaghagel
+326583	Blutroter Schlaghagel
 333145	Steinabbild
 -21952	Übler Okkultist
 333002	Vulgäres Brandmal
@@ -88,7 +87,7 @@
 328789	Vernichten
 
 ; Boss: Hungering Destroyer
-329298y	Gefräßiges Miasma
+329298	Gefräßiges Miasma
 334522	Verschlingen
 329725	Ausmerzen
 334266y	Instabiler Ausstoß
@@ -106,7 +105,7 @@
 325713	Verbleibende Anima
 324983y	Geteiltes Leid
 332664y	Konzentrierte Anima
-331573	Unerhörte Schuld
+331573y	Unerhörte Schuld
 331550	Verurteilen
 
 ; Boss: The Council of Blood
@@ -115,7 +114,7 @@
 330978	Gräberdiener
 330965	Kader des Kastellans
 346790	Sündenberührte Klinge
-346651	Essenz entziehen
+346651y	Essenz entziehen
 337110	Schreckensblitzsalve
 346657	Stolze Eruption
 346945	Schmerz manifestieren
@@ -125,12 +124,12 @@
 346800	Blutwalzer
 346303	Heftiger Aufruhr
 330959	Totentanz
-330848	Falsche Tanzschritte
+330848y	Falsche Tanzschritte
 -22433	Nachbild von Baronin Frieda
 347350y	Tanzfieber
 
 ; Boss: Sludgefist
-331209	Hasserfüllter Blick
+331209y	Hasserfüllter Blick
 331314	Zerstörerischer Einschlag
 335293y	Kettenverbindung
 332318	Zerstörerisches Stampfen
@@ -144,11 +143,11 @@
 
 ; Boss: Stone Legion Generals
 329636	Gehärtete Steingestalt
-333387y	Heimtückische Klinge
+333387	Heimtückische Klinge
 333913	Tückische Fleischwunde
 334765	Herzreißer
 334929	Zackenhieb
-339690	Kristallisieren
+339690y	Kristallisieren
 342544	Pulverisierender Meteor
 343063	Steinstachel
 342733	Unersättliches Schmausen
@@ -159,7 +158,7 @@
 332683	Zerschmetternde Eruption
 329808	Gehärtete Steingestalt
 342425	Steinfaust
-334009	Schallender Sprung
+344496y	Hallende Eruption
 334498	Seismischer Aufruhr
 342256	Schattenstreitkräfte rufen
 342655	Flüchtige Animainfusion
@@ -172,13 +171,13 @@
 326707	Läuternder Schmerz
 326851	Blutpreis
 327039y	Fütterungszeit
-327796	Nachtjäger
+327796y	Nachtjäger
 327227	Befehl: Verheeren
 327122	Verheeren
 327992	Verwüstung
 328276	Marsch der Bußfertigen
 329906	Gemetzel
-329951	Durchbohren
+329951y	Durchbohren
 -22131	Blutroter Kabalist
 336162	Crescendo
 335873	Groll
@@ -194,3 +193,180 @@
 344776	Rachsüchtiges Klagen
 338738	Durch den Spiegel
 333979	Finstere Reflexion
+
+
+; -------------------------------------
+;    Zone: Sanctum of Domination
+; -------------------------------------
+
+; Boss: The Tarragrue
+346985	Überwältigen
+346986	Zermalmte Rüstung
+347269y	Ketten der Ewigkeit
+347274	Vernichtendes Schmettern
+347283y	Raubtierheulen
+347286	Unerschütterlicher Schrecken
+347679	Hungernder Nebel
+352368	Überrest vergessener Qualen
+352382	Überrest: Macht der Oberen Ebenen
+352389	Überrest: Mort'regars Echos
+352398	Überrest: Seelenschmiedehitze
+347668	Todesgriff
+347490	Zorn der Zeiten
+347369	Blick des Kerkermeisters
+
+; Boss: The Eye of the Jailer
+350828	Todesverbindung
+349979	Zerrende Ketten
+348074	Angriffslanze
+349028	Titanischer Todesblick
+350847y	Verwüstungsstrahl
+350022y	Seele fragmentieren
+351825	Geteiltes Leid
+350713	Träge Verderbnis
+351827y	Elendsverbreitung
+348974	Sofortige Auslöschung
+351413	Vernichtendes Starren
+350604y	Hoffnungslose Lethargie
+355232	Verachtung und Zorn
+
+; Boss: The Nine
+350542	Fragmente des Schicksals
+350555	Splitter des Schicksals
+350202	Unendlicher Stoß
+350342	Formlose Masse
+350339	Vitalität entziehen
+350365	Schwingen der Wut
+350286	Lied der Auflösung
+350385	Nachhallender Refrain
+350467	Ruf der Val'kyr
+350031	Agathas ewige Klinge
+350184y	Daschlas mächtiger Einschlag
+350158	Annhyldes strahlende Aegis
+350098	Aradnes stürzender Schlag
+350109y	Brynjas trauriges Klagelied
+350039	Arthuras zerschmetternder Blick
+350475	Seelenberster
+351399	Abneigung
+350482	Essenz verbinden
+350687	Wort des Rückrufs
+
+; Boss: Soulrender Dormazain
+350217	Qual
+349985	Gequälte Eruptionen
+350647y	Brandmal der Qual
+350422	Klinge des Ruins
+350615	Schlundgebundene rufen
+351779	Peinigende Nova
+350650	Trotz
+350411	Höllschrei
+354231	Seelenfesseln
+351229	Zerfetzte Seele
+
+; Boss: Remnant of Ner'zhul
+350676	Kugel der Qual
+350073	Qual
+350388	Kummervolle Prozession
+350469y	Böswilligkeit
+350489	Verbleibende Böswilligkeit
+349890	Leid
+355123	Griff der Bösartigkeit
+351066	Zerschmettern
+
+; Boss: Painsmith Raznal
+348508	Schallender Hammer
+355568	Kreuzaxt
+355778	Doppelklingensichel
+355786	Geschwärzte Rüstung
+352052	Stachelige Bälle
+348456	Flammengrifffalle
+355505y	Schattenstahlketten
+355534	Schattenstahlglut
+
+; Boss: Guardian of the First Ones
+352385	Energetisierendes Band
+350455	Instabile Energie
+352394	Strahlende Energie
+352589	Kernschmelze
+352538	Läuterungsprotokoll
+350735	Beseitigungsmuster
+355352	Auslöschen
+350732	Zerreißen
+352833	Desintegration
+352660	Spähdrohne erschaffen
+347359	Unterdrückungsfeld
+350496y	Bedrohungsneutralisierung
+
+; Boss: Fatescribe Roh-Kalo
+351680y	Schicksal herbeirufen
+353432	Bürde der Bestimmung
+353398	Anomale Explosion
+353603	Prüfung des Wahrsagers
+353931	Schicksalszerrung
+350421	Schicksalskonjunktion
+350568y	Ruf der Ewigkeit
+357739	Schicksal neu ausrichten
+357144	Verzweiflung
+353122	Finsterstes Schicksal
+353195	Improvisiertes Schicksal
+354367	Finsteres Omen
+354964	Runische Affinität
+
+; Boss: Kel'Thuzad
+354198	Heulender Blizzard
+352530	Dunkle Hervorrufung
+355389	Unerbittliche Heimsuchung
+348071	Seelenfraktur
+348978	Seelenerschöpfung
+348428	Durchdringendes Geheul
+346459	Gletscherzorn
+346530y	Gefrorene Zerstörung
+347292y	Echo der Vergessenheit
+348760y	Frostschlag
+354289	Finsteres Miasma
+352051	Nekrotische Woge
+352293	Rachsüchtige Zerstörung
+355137	Schattenpfütze
+352379	Eisiger Stoß
+355055	Gletscherwinde
+355127	Besudelte Winde
+352355	Unvergänglicher Zorn
+352141	Bansheeschrei
+354639	Tieffrieren
+352348	Offensive der Verdammten
+
+; Boss: Sylvanas Windrunner
+347504	Windläufer
+347807	Hakenpfeil
+356377	Entweihender Schuss
+347670	Schattendolch
+349458y	Herrschaftsketten
+347704	Schleier der Dunkelheit
+347609y	Klagender Pfeil
+352650	Herzsucher der Waldläuferin
+347607	Mal der Banshee
+353417	Aufreißen
+348109	Bansheeheulen
+350857	Bansheeschleier
+355540	Ruin
+352271	Welle der Heimsuchung
+351180	Peitschende Wunde
+351117	Erdrückende Angst
+351353	Kugeln des Zerfalls beschwören
+351939	Fluch der Trägheit
+351672	Zorn
+353929	Bann der Banshee
+354011	Bannpfeile
+353965	Herzsucher der Banshee
+354068	Zorn der Banshee
+353952	Bansheekreischen
+354147	Einreißen
+358704y	Schwarzer Pfeil
+358711	Wut
+356021	Dunkle Kommunion
+351591	Schmutz
+351562	Ausstoß
+358185	Waffen der Banshee
+358181	Klingen der Banshee
+358434	Todesmesser
+358588	Gnadenlos

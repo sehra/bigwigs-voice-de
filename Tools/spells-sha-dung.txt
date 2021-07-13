@@ -63,6 +63,7 @@
 326409	Hauen
 326607	In Stein verwandeln
 326997	Mächtiger Prankenhieb
+326891	Seelenpein
 
 ; Boss: Halkias, the Sin-Stained Goliath
 323001	Glassplitter
@@ -122,25 +123,27 @@
 322486	Wildes Wachstum
 
 ; Boss: Ingra Maloch
-323057	Geistblitz
-328756	Abstoßendes Antlitz
-323149	Die Dunkelheit begrüßen
 323137	Befremdlicher Pollen
 323177	Tränen des Waldes
 323059	Zorn der Dromanin
+323057	Geistblitz
+328756	Abstoßendes Antlitz
+323149	Die Dunkelheit begrüßen
 
 ; Boss: Mistcaller
 336499	Ratespiel
 321834	Völkerball
 321828	Klatschspiel
 326180	Fangspiel
+321891y	Fangspielfixierung
 
 ; Boss: Tred'ova
+322651	Säureausstoß
 322450	Verschlingen
 322550	Beschleunigtes Ausbrüten
+322563y	Markierte Beute
+326309	Zersetzende Säure
 322614	Gedankenverbindung
-322563	Markierte Beute
-322651	Säureausstoß
 337235	Parasitäre Besänftigung
 337249	Parasitäre Lähmung
 337255	Parasitäre Kontrolle
@@ -165,6 +168,7 @@
 321935	Ausdörrender Dreck
 336451	Bollwerk von Maldraxxus
 328475	Einhüllende Netze
+summon_stealthlings	Stealthlings
 330786	Schleimiger Kadaver
 330816	Geisterschritt
 328016	Wundersames Wachstum
@@ -201,6 +205,22 @@
 ; -------------------------------------
 
 ; Boss: Trash
+341321	Animasammler beschwören
+328170	Felsfraktur
+322429	Trennendes Schlitzen
+322433	Steinhaut
+335305	Gezackte Fesseln
+335308	Zerschmetternder Schlag
+334558	Entzündliche Falle
+324103	Dunkelbö
+326827	Schreckensbindungen
+334329	Weiter Schlitzer
+334326	Prügelknüppel
+321178	Zerschmettern
+334918	Umbralaufprall
+320991	Widerhallender Stoß
+334377	Explosives Pergament
+326836	Fluch der Unterdrückung
 
 ; Boss: Kryxis the Voracious
 319650	Boshafter Kopfstoß
@@ -232,6 +252,18 @@
 ; -------------------------------------
 
 ; Boss: Trash
+317661	Heimtückisches Gift
+317963	Bürde des Wissens
+327655	Waffe verzaubern
+327413	Rebellische Faust
+327648	Innere Zwietracht
+317936	Doktrin der Verschmähten
+327332	Waffe verzaubern
+317985	Schmetternder Schlag
+328295	Große Besserung
+328288	Waffe segnen
+328458	Diminuendo
+328462	Geladener Speer
 
 ; Boss: Kin-Tara
 320966	Überkopfschlitzer
@@ -361,3 +393,67 @@
 339573	Echos des Gemetzels
 339706	Geisterhafter Ansturm
 339550	Echo der Schlacht
+
+
+; -------------------------------------
+;	Zone: Tazavesh the Veiled Market
+; -------------------------------------
+
+; Boss: Zo'phex the Sentinel
+347949	Verhör
+345990	Eindämmungszelle
+345770	Schmuggelware beschlagnahmen
+346204	Armierte Sicherheit
+
+; Boss: Myza's Oasis
+350922	Bedrohlicher Schrei
+350919	Kontrollverlust
+355438	Unterdrückungsfunke
+350916	Sicherheitsschmettern
+356482	Verfaultes Essen
+
+; Boss: Mailroom Mayhem
+346286	Gefährliche Flüssigkeiten
+346742	Rundschreiben
+346962	Postanweisung
+346947	Instabile Waren
+
+; Boss: The Grand Menagerie
+349627	Maßlosigkeit
+350010y	Verschlungene Anima
+349663	Griff des Hungers
+349797	Großer Verzehr
+349954	Reinigungsprotokoll
+349934	Geißelungsprotokoll
+349987	Entlüftungsprotokoll
+350101	Ketten der Verdammnis
+350086	Wirbelnde Vernichtung
+
+; Boss: So'azmi
+357188	Doppeltechnik
+347610	Shuri
+347249	Teilen
+347623	Schnellklinge
+
+; Boss: Hylbrande
+;346971	[DNT] Summon Vault Defender
+346116	Scherende Schwünge
+347094	Titanenschmettern
+346957	Läuterung durch Feuer
+346766	Sterilisierungszyklus
+
+; Boss: Timecap'n Hooktail
+347149	Unendlicher Atem
+347151	Hakenhieb
+354334	Am Haken!
+352345y	Ankerschuss
+347371	Kartätschenschuss
+350517	Zeitverdopplung
+
+; Boss: So'leah
+351124	Assassinen beschwören
+353635	Kollabierender Stern
+350804	Kollabierende Energie
+350796	Hyperlichtfunken
+351086	Überwältigende Macht
+351096	Energiefragmentierung
