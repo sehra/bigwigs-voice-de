@@ -221,7 +221,7 @@
 348074	Angriffslanze
 349028	Titanischer Todesblick
 350847y	Verwüstungsstrahl
-350022y	Seele fragmentieren
+350022	Seele fragmentieren
 351825	Geteiltes Leid
 350713	Träge Verderbnis
 351827y	Elendsverbreitung
@@ -247,7 +247,7 @@
 350109y	Brynjas trauriges Klagelied
 350039	Arthuras zerschmetternder Blick
 350475	Seelenberster
-351399	Abneigung
+355294	Abneigung
 350482	Essenz verbinden
 350687	Wort des Rückrufs
 
@@ -257,6 +257,7 @@
 350647y	Brandmal der Qual
 350422	Klinge des Ruins
 350615	Schlundgebundene rufen
+-23517	Schlundgebundener Oberanführer
 351779	Peinigende Nova
 350650	Trotz
 350411	Höllschrei
