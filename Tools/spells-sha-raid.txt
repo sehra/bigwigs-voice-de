@@ -286,6 +286,7 @@
 
 ; Boss: Guardian of the First Ones
 352385	Energetisierendes Band
+356093	Energieabsorption
 350455	Instabile Energie
 352394	Strahlende Energie
 352589	Kernschmelze
@@ -293,6 +294,7 @@
 350735	Beseitigungsmuster
 355352	Auslöschen
 350732	Zerreißen
+358301	Energieerschöpfung
 352833	Desintegration
 352660	Spähdrohne erschaffen
 347359	Unterdrückungsfeld
@@ -371,3 +373,110 @@
 358181	Klingen der Banshee
 358434	Todesmesser
 358588	Gnadenlos
+
+
+; -------------------------------------
+;    Zone: Sepulcher of the First Ones
+; -------------------------------------
+
+; Boss: Vigilant Guardian
+360403	Kraftfeld
+360458	Instabiler Kern
+360658	Vorgefertigte Wache
+361001	Welle der Desintegration
+364447	Dissonanz
+365315	Flüchtige Materie
+360906	Gebrochene Explosion
+359610	Deresolution
+360412	Freigelegter Kern
+364881	Materiezerfall
+360162	Geteilte Resolution
+360414	Pneumatischer Einschlag
+364962	Kernüberladung
+
+; Boss: Skolex, the Insatiable Ravener
+359770	Gefräßiges Eingraben
+359829	Staubflegel
+360451	Würgen
+359979	Verwunden
+359975	Rissschlund
+364778	Zerstören
+
+; Boss: Artificer Xy'mox
+364465	Vorreiterringe
+364040	Hyperlichtaufstieg
+364030	Entkräftender Strahl
+362721	Dimensionenriss
+362803	Glyphe der Verlagerung
+362849	Hyperlichtfunkennova
+362885	Stasisfalle
+363485	Elite des Kartells
+365681	Gewaltiger Schuss
+365701	Befehle des Aufsehers
+
+; Boss: Dausegne, the Fallen Oracle
+361966	Erfüllte Schläge
+361018	Erschütterndes Bombardement
+359483	Herrschaftskern
+361225	Übergreifende Herrschaft
+361513	Auslöschungsbogen
+363200	Desintegrationskranz
+361630	Teleport
+361651	Entzogene Barriere
+365418	Totale Herrschaft
+
+; Boss: Prototype Pantheon
+360295	Nekrotisches Ritual
+360687	Todesberührung des Runenmetzes
+360259	Düsterer Blitz
+364941	Windgepeitschte Schwingen
+361067	Schutz der Bastion
+365269	Demütigende Schläge
+361304	Wilde Stampede
+361568	Welkende Samenkörner
+366234	Animasturm
+361789	Hand der Zerstörung
+364839	Sündhafte Projektion
+361689	Zermürbender Schmerz
+361608	Bürde der Sünde
+361745	Nachtjäger
+
+; Boss: Lihuvim, Principal Architech
+368027	Resonanz
+364652	Protoformkaskade
+363088	Kosmische Verschiebung
+362622	Instabiles Partikel
+363795	Dekonstruktionsenergie
+363130	Synthetisieren
+360869	Requiriert
+366012	Erlösungspartikel
+
+; Boss: Halondrus the Reclaimer
+360115	Zurückgewinnen
+367079	Seismische Beben
+361676	Erdbrechergeschosse
+369207	Planetenknackerstrahl
+360977	Lichtsplitterstrahl
+365297	Erdrückendes Prisma
+364979	Zerschmettern
+368529	Ewigkeitsturbogang
+
+; Boss: Anduin Wrynn
+362405	Königsgram hungert
+361989	Blasphemie
+365295	Besudelte Barriere
+365021	Tückischer Stern
+361815	Hoffnungsbrecher
+366849	Wort der Herrschaft: Schmerz
+364248	Dunkler Eifer
+362771	Seelenernter
+362862	Armee der Toten
+363024	Nekrotische Detonation
+365120	Düstere Reflexionen
+363233	Marsch der Verdammten
+365872	Flamme der Hoffnung
+365958	Hoffnungslosigkeit
+
+; Boss: Lords of Dread
+; Boss: Rygelon
+; Boss: The Jailer
