@@ -176,7 +176,7 @@ summon_stealthlings	Stealthlings
 328177	Fungisturm
 
 ; Boss: Globgrog
-324490	Schleim anlocken
+324490	Lebenden Schleim beschwören
 324527	Seuchenstampfen
 324667	Schleimwelle
 
@@ -398,6 +398,34 @@ summon_stealthlings	Stealthlings
 ; -------------------------------------
 ;	Zone: Tazavesh the Veiled Market
 ; -------------------------------------
+
+; Boss: Trash
+356031	Stasisstrahl
+356001	Schneidstrahl
+356929	Aufsichtskette
+356942	Abriegeln
+356404	Lavaodem
+356407	Uralter Schrecken
+357512	Rasender Ansturm
+356967	Hyperlichtrückhand
+357029	Hyperlichtbombe
+355980	Refraktionsschild
+355934	Hartlichtbarriere
+347721	Käfig öffnen
+355637	Unterdrückender Stoß
+355782	Kraftmultiplikator
+355477	Energietritt
+355480	Tödliche Gewalt
+355132	Kräftigendes Fischstäbchen
+355057	Schrei von Mrrggllrrgg
+355429	Gezeitenstampfen
+355584	Geladener Impuls
+355577	Knistern
+356133	Supersaisonbier
+357226	Treibender Stern
+357238	Wandernder Pulsar
+357260	Instabiler Riss
+357284	Neu stärken
 
 ; Boss: Zo'phex the Sentinel
 347949	Verhör

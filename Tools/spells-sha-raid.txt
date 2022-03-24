@@ -20,6 +20,11 @@
 339557	Abgefüllte Anima
 339528	Verzerrte Begierden
 339525	Animakonzentration
+342770	Ausrottungssaaten
+339975	Erbitterter Schlag
+342752	Weinende Bürde
+341146	Sündenblitzsalve
+343271	Unersättliches Schmausen
 
 ; Boss: Shriekwing
 330711	Ohrenbetäubender Schrei
@@ -37,7 +42,7 @@
 341489	Blutlicht
 
 ; Boss: Huntsman Altimor
-335114	Sündensucher
+335114y	Sündensucher
 334404	Streuschuss
 334971	Gezackte Klauen
 334945	Grausamer Sprung
@@ -45,7 +50,7 @@
 334884	Seele verschlingen
 334757	Schemen von Bargast
 334860	Zerschmetternder Stein
-334852y	Versteinerndes Heulen
+334852	Versteinerndes Heulen
 334893	Steinsplitter
 
 ; Boss: Sun King's Salvation
@@ -60,7 +65,7 @@
 325442	Bezwungen
 325506	Erschütterndes Schmettern
 -21993	Ödschwingenassassine
-326583	Blutroter Schlaghagel
+341473	Blutroter Schlaghagel
 333145	Steinabbild
 -21952	Übler Okkultist
 333002	Vulgäres Brandmal
@@ -104,7 +109,7 @@
 325769	Abgefüllte Anima
 325713	Verbleibende Anima
 324983y	Geteiltes Leid
-332664y	Konzentrierte Anima
+332664	Konzentrierte Anima
 331573y	Unerhörte Schuld
 331550	Verurteilen
 
@@ -126,7 +131,7 @@
 330959	Totentanz
 330848y	Falsche Tanzschritte
 -22433	Nachbild von Baronin Frieda
-347350y	Tanzfieber
+347350	Tanzfieber
 
 ; Boss: Sludgefist
 331209y	Hasserfüllter Blick
@@ -151,7 +156,7 @@
 342544	Pulverisierender Meteor
 343063	Steinstachel
 342733	Unersättliches Schmausen
-342985	Steinböenbildnis
+343898	Bildnis der Seelenbesudelung
 332406	Animainfusion
 339885	Animainfektion
 342722	Steinzornausstoß
@@ -221,7 +226,7 @@
 348074	Angriffslanze
 349028	Titanischer Todesblick
 350847y	Verwüstungsstrahl
-350022	Seele fragmentieren
+350022y	Seele fragmentieren
 351825	Geteiltes Leid
 350713	Träge Verderbnis
 351827y	Elendsverbreitung
@@ -283,6 +288,8 @@
 348456	Flammengrifffalle
 355505y	Schattenstahlketten
 355534	Schattenstahlglut
+355536	Schattenstahlschrecken beschwören
+357735	Letzter Schrei
 
 ; Boss: Guardian of the First Ones
 352385	Energetisierendes Band
@@ -323,7 +330,7 @@
 348978	Seelenerschöpfung
 348428	Durchdringendes Geheul
 346459	Gletscherzorn
-346530y	Gefrorene Zerstörung
+346530	Gefrorene Zerstörung
 347292y	Echo der Vergessenheit
 348760y	Frostschlag
 354289	Finsteres Miasma
@@ -400,19 +407,21 @@
 360451	Würgen
 359979	Verwunden
 359975	Rissschlund
+364522	Blutgelage
 364778	Zerstören
+359778	Ephemerastaub
+366070	Flüchtige Rückstände
 
 ; Boss: Artificer Xy'mox
 364465	Vorreiterringe
-364040	Hyperlichtaufstieg
-364030	Entkräftender Strahl
 362721	Dimensionenriss
 362803	Glyphe der Verlagerung
-362849	Hyperlichtfunkennova
 362885	Stasisfalle
-363485	Elite des Kartells
+362849	Hyperlichtfunkennova
 365681	Gewaltiger Schuss
-365701	Befehle des Aufsehers
+364040	Hyperlichtaufstieg
+364030	Entkräftender Strahl
+363485	Elite des Kartells
 
 ; Boss: Dausegne, the Fallen Oracle
 361966	Erfüllte Schläge
@@ -446,23 +455,29 @@
 364652	Protoformkaskade
 363088	Kosmische Verschiebung
 362622	Instabiles Partikel
+360159	Instabiles Partikel
 363795	Dekonstruktionsenergie
 363130	Synthetisieren
 360869	Requiriert
 366012	Erlösungspartikel
+362659	Ausrichtungsverschiebung
 
 ; Boss: Halondrus the Reclaimer
+368969	Unstete Ladung
 360115	Zurückgewinnen
 367079	Seismische Beben
+360114	Ephemerer Riss
 361676	Erdbrechergeschosse
 369207	Planetenknackerstrahl
 360977	Lichtsplitterstrahl
 365297	Erdrückendes Prisma
+368363	Zerschmettertes Prisma
 364979	Zerschmettern
 368529	Ewigkeitsturbogang
 
 ; Boss: Anduin Wrynn
 362405	Königsgram hungert
+362055	Verlorene Seele
 361989	Blasphemie
 365295	Besudelte Barriere
 365021	Tückischer Stern
@@ -478,5 +493,55 @@
 365958	Hoffnungslosigkeit
 
 ; Boss: Lords of Dread
+360374	Schwarm der Raserei
+360319	In die Dunkelheit
+360012	Wolke der Fäulnis
+361913	Schatten manifestieren
+361934	Unvollständige Gestalt
+359960	Lechzende Klauen
+359963	Geöffnete Adern
+360717	Infiltration des Schreckens
+360146	Furchtsames Verzagen
+360229	Schlummerwolke
+360284	Quälender Schlag
+
 ; Boss: Rygelon
+362806	Verdunkelung
+362275	Himmlischer Kollaps
+362206	Ereignishorizont
+362390	Kosmos manifestieren
+362184	Verderbte Stöße
+362172	Verderbte Wunde
+363533	Gewaltiger Knall
+364386	Gravitationszusammenbruch
+366606	Strahlendes Plasma
+362207	Die Singularität
+364114	Sphäre zerschmettern
+362088	Kosmische Unregelmäßigkeit
+366379	Stellarschleier
+362798	Kosmische Strahlung
+368080	Dunkler Quasar
+
 ; Boss: The Jailer
+362028	Unerbittliche Herrschaft
+362075	Herrschaft
+366132	Tyrannei
+359809	Ketten der Unterdrückung
+363893	Martyrium
+366545	Verfolgung
+365436	Qual
+360281	Rune der Verdammnis
+360373	Unheilige Abstimmung
+363332	Eiserner Griff
+359856	Zerschmetternde Eruption
+366285	Rune des Zwangs
+360562	Dezimierer
+365033	Verwüstung
+365150	Rune der Herrschaft
+365212	Ketten der Pein
+365169	Entweihen
+362012	Ende der Ewigkeit
+366377	Weltenzermalmer
+366776	Weltenknacker
+367053	Weltzerschmetterer
+365810	Fallende Trümmer
