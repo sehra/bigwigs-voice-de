@@ -523,6 +523,7 @@
 368080	Dunkler Quasar
 
 ; Boss: The Jailer
+362012	Ende der Ewigkeit
 362028	Unerbittliche Herrschaft
 362075	Herrschaft
 366132	Tyrannei
@@ -530,7 +531,7 @@
 363893	Martyrium
 366545	Verfolgung
 365436	Qual
-360281	Rune der Verdammnis
+360281y	Rune der Verdammnis
 360373	Unheilige Abstimmung
 363332	Eiserner Griff
 359856	Zerschmetternde Eruption
@@ -540,8 +541,9 @@
 365150	Rune der Herrschaft
 365212	Ketten der Pein
 365169	Entweihen
-362012	Ende der Ewigkeit
-366377	Weltenzermalmer
-366776	Weltenknacker
-367053	Weltzerschmetterer
-365810	Fallende Trümmer
+366374	Weltenzermalmer
+366678	Weltenknacker
+367051	Weltzerschmetterer
+368383	Umgeleiteter Lebensschild
+360378	Meteorspalten
+368591	Todesurteil
