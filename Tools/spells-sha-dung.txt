@@ -176,7 +176,7 @@ summon_stealthlings	Stealthlings
 328177	Fungisturm
 
 ; Boss: Globgrog
-324490	Lebenden Schleim beschwören
+324490	Schleim anlocken
 324527	Seuchenstampfen
 324667	Schleimwelle
 
@@ -312,6 +312,8 @@ summon_stealthlings	Stealthlings
 327130	Fleisch reparieren
 323496	Spaltbeil werfen
 338606	Morbide Fixierung
+333477	Bauchschlitzen
+333479	Krankheit spucken
 
 ; Boss: Blightbone
 320596	Erbrechendes Würgen
@@ -401,6 +403,7 @@ summon_stealthlings	Stealthlings
 
 ; Boss: Trash
 356031	Stasisstrahl
+356324	Ermächtigte Glyphe der Bändigung
 356001	Schneidstrahl
 356929	Aufsichtskette
 356942	Abriegeln
@@ -413,6 +416,7 @@ summon_stealthlings	Stealthlings
 355934	Hartlichtbarriere
 347721	Käfig öffnen
 355637	Unterdrückender Stoß
+355642	Hyperlichtsalve
 355782	Kraftmultiplikator
 355477	Energietritt
 355480	Tödliche Gewalt
@@ -434,11 +438,15 @@ summon_stealthlings	Stealthlings
 346204	Armierte Sicherheit
 
 ; Boss: Myza's Oasis
+356482	Verfaultes Essen
+353783	Teleport
+353835	Unterdrückung
+350916	Sicherheitsschmettern
+353706	Ungehobelt
 350922	Bedrohlicher Schrei
 350919	Kontrollverlust
 355438	Unterdrückungsfunke
-350916	Sicherheitsschmettern
-356482	Verfaultes Essen
+359028	Sicherheitsschmettern
 
 ; Boss: Mailroom Mayhem
 346286	Gefährliche Flüssigkeiten
@@ -465,6 +473,7 @@ summon_stealthlings	Stealthlings
 
 ; Boss: Hylbrande
 ;346971	[DNT] Summon Vault Defender
+353312	Läuternder Ausbruch
 346116	Scherende Schwünge
 347094	Titanenschmettern
 346957	Läuterung durch Feuer
@@ -485,3 +494,4 @@ summon_stealthlings	Stealthlings
 350796	Hyperlichtfunken
 351086	Überwältigende Macht
 351096	Energiefragmentierung
+351119	Shurikenblitz

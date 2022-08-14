@@ -547,3 +547,11 @@
 368383	Umgeleiteter Lebensschild
 360378	Meteorspalten
 368591	Todesurteil
+
+
+; Zone: Season 4
+; Boss: Affixes
+372634	Chaotische Essenz
+369505	Schöpfungsfunke
+371447	Protoformbarriere
+371254	Rekonfigurationsemitter

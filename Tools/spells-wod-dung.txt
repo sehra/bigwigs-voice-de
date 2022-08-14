@@ -1,0 +1,79 @@
+; Type: Warlords of Draenor Dungeon
+
+; -------------------------------------
+;    Zone: Grimrail Depot
+; -------------------------------------
+
+; Boss: Trash
+163966	Aktivierung
+164192	50.000 Volt
+164168	Spurt
+166675	Schrapnellexplosion
+176032	Flammenzunge
+156301	Schwarzfelsmörser
+176127	Kanonensperrfeuer
+166335	Sturmschild
+166341	Donnerzone
+166380	Tollkühner Hieb
+166397	Arkaner Blitz
+
+; Boss: Railmaster Rocketspark
+162407	Raketensalve X21-01A
+163947	Aufrappeln
+162171	Bessere Position
+162500	Zieleliminierer VX18-B
+161091	Neuer Plan!
+161090	Rasender Sprint
+162617	Zerschmettern
+161092	Ungezügelte Aggression
+
+; Boss: Nitrogg Thundertower
+161073	Schwarzfelsgranate
+160965	Schwarzfelsmörsergranaten
+160681	Sperrfeuer
+166570	Schlackeschlag
+
+; Boss: Skylord Tovra
+161801	Donneratem
+162058	Wirbelnder Speer
+161588	Diffusionsenergie
+162066	Frostige Verlangsamung
+163447	Mal des Jägers
+
+
+; -------------------------------------
+;    Zone: Iron Docks
+; -------------------------------------
+
+; Boss: Trash
+167233	Klingensturm
+173148	Flammende Pfeile
+172636	Rutschiger Schleim
+172982	Schmetterschlag
+172952	Torbrecher werfen
+172963	Torbrecher
+172943	Brutale Inspiration
+173135	Donnerndes Stampfen
+173105	Wirbelnde Ketten
+167815	Zerreißendes Spalten
+173324	Zackenkrähenfüße
+173384	Zerstampfende Stampede
+158337	Raserei
+173514	Lavaschlag
+173480	Lavabeschuss
+
+; Boss: Fleshrender Nok'gar
+164426	Tollkühne Provokation
+164632	Brandpfeile
+164837	Wildes Zerfleischen
+164835	Geheul des Aderlasses
+
+; Boss: Ahri'ok Dugru
+sphere	Sanguine Sphere
+
+; Boss: Oshir
+162415	Essenszeit
+
+; Boss: Skulloc
+168227	Gronnschmettern
+168929	Kanonensperrfeuer
