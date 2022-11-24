@@ -1,0 +1,126 @@
+; Type: Dragonflight Raid
+
+; -------------------------------------
+;	Zone: Vault of the Incarnates
+; -------------------------------------
+
+; Boss: Trash
+; TODO
+
+; Boss: Eranog
+390715	Flammenriss
+370649	Lavafluss
+370615	Geschmolzenes Spalten
+396023	Einäscherndes Brüllen
+396022	Geschmolzene Stacheln
+394906	Brennende Wunde
+370597	Tötungsreihenfolge
+370307	Flammenarmee
+396094	Großer Flammenriss
+394917	Springende Flammen
+393780	Pyroschlag
+
+; Boss: Terros
+380487	Steineinschlag
+381315	Erweckte Erde
+377166	Resonierende Vernichtung
+382458	Resonierende Nachwirkung
+383073	Zerschmetternder Einschlag
+376279	Erschütterndes Schmettern
+377505	Rasende Verwüstung
+388393	Tektonischer Beschuss
+391592	Erfüllter Niederschlag
+
+; Boss: The Primal Council
+391599	Urzeitlicher Blizzard
+386661	Gletscheranrufung
+371624	Leitfähiges Zeichen
+372275	Kettenblitzschlag
+386375	Stürmische Konvokation
+370991	Irdene Säule
+372056	Zermalmen
+386370	Bebende Konvokation
+374043	Meteoraxt
+372027	Schlitzende Lohe
+386289	Brennende Konvokation
+
+; Boss: Sennarth, the Cold Breath
+371976	Unterkühlende Welle
+371979	Frostausstoß
+372030	Klebriges Gespinst
+372044	In Spinnweben eingesponnen
+372238	Spinnlinge rufen
+372082	Einhüllende Gespinste
+373405	Gespinstausbruch
+385083	Netzschuss
+-24899	Frostatemarachnid
+374112	Gefrierender Atem
+372539	Spitze des Eises
+373048	Erstickende Netze
+371983	Abwehrender Ausbruch
+
+; Boss: Dathea, Ascended
+387849	Sturm verdichten
+395501	Gegenwind
+387943	Umgeleitete Essenz
+385812	Luftschlitzen
+384273	Sturmblitz
+390450	Statische Anziehung
+388302	Wütender Ausbruch
+391686	Leitfähiges Zeichen
+376943	Wirbelsturm
+388410	Scherwinde
+375580	Zephyrschmettern
+376851	Luftstoß
+
+; Boss: Kurog Grimtotem
+371981	Elementarwoge
+374861	Urverschiebung
+372158	Zerschlagender Stoß
+382563	Magmaexplosion
+373329	Geschmolzene Eruption
+374023	Sengendes Gemetzel
+373678	Beißende Kälte
+391019	Eisiger Strom
+372458	Absoluter Nullpunkt
+391056	Einhüllende Erde
+395893	Ausbrechender Felsboden
+374691	Seismischer Riss
+373487	Blitzeinschlag
+390920	Schockausbruch
+374215	Donnerschlag
+374321	Brechender Schotter
+374427	Bodenerschütterung
+374430	Heftiges Emporstoßen
+374623	Frostfesseln
+374624	Eisiger Sturm
+391696	Tödlicher Strom
+396241	Urzeitliche Abstimmung
+
+; Boss: Broodkeeper Diurna
+375809	Bindung der Bruthüterin
+380175	Großstab der Bruthüterin
+375889	Zorn des Großstabs
+375829	Wut der Gelegehüterin
+376073	Schnelles Ausbrüten
+389049	Saat ausbrüten
+375871	Lauffeuer
+388716	Eisiger Schleier
+375870	Tödliche Steinklauen
+378782	Trauma
+375716	Eisbeschuss
+376266	Grabender Schlag
+376257	Beben
+375485	Kauterisierende Flammenblitze
+375575	Flammenwache
+375475	Verwundender Biss
+375457	Frostiger Tobsuchtsanfall
+375653	Statischer Schock
+375630	Ionisierende Aufladung
+375879	Wut der Bruthüterin
+392194	Großstab ermächtigen
+380483	Zorn des ermächtigten Großstabs
+388918	Eishülle
+
+; Boss: Raszageth the Storm Eater
+; TODO

@@ -1,4 +1,4 @@
-## Interface: 90205
+## Interface: 100002
 ## Title: BigWigs |cffff0000+|r|cffffffffVoice (DE)|r
 ## Version: @project-version@
 ## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
@@ -10,6 +10,5 @@
 
 ## X-Category: Raid
 ## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
-## X-Curse-Project-ID: 318246
 
 Core.lua
