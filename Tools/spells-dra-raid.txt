@@ -32,15 +32,15 @@
 391592	Erfüllter Niederschlag
 
 ; Boss: The Primal Council
-391599	Urzeitlicher Blizzard
+373059	Urzeitlicher Blizzard
 386661	Gletscheranrufung
 371624	Leitfähiges Zeichen
-372275	Kettenblitzschlag
+372279	Kettenblitzschlag
 386375	Stürmische Konvokation
-370991	Irdene Säule
+397134	Irdene Säule
 372056	Zermalmen
 386370	Bebende Konvokation
-374043	Meteoraxt
+374038	Meteoräxte
 372027	Schlitzende Lohe
 386289	Brennende Konvokation
 
@@ -103,11 +103,11 @@
 375889	Zorn des Großstabs
 375829	Wut der Gelegehüterin
 376073	Schnelles Ausbrüten
-389049	Saat ausbrüten
 375871	Lauffeuer
 388716	Eisiger Schleier
 375870	Tödliche Steinklauen
 378782	Trauma
+-25129	Verstärkung der Primalisten
 375716	Eisbeschuss
 376266	Grabender Schlag
 376257	Beben
@@ -116,7 +116,7 @@
 375475	Verwundender Biss
 375457	Frostiger Tobsuchtsanfall
 375653	Statischer Schock
-375630	Ionisierende Aufladung
+375620	Ionisierende Aufladung
 375879	Wut der Bruthüterin
 392194	Großstab ermächtigen
 380483	Zorn des ermächtigten Großstabs

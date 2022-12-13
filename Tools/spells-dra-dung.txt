@@ -220,13 +220,18 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
+375596	Launisches Wachstum
+386546	Unheilvoller Wachtraum
+371358	Verbotenes Wissen
+377488	Eisige Bindungen
+370766	Kristallines Bersten
+387067	Arkanhieb
 
 ; Boss: Leymor
 374364	Leyliniensprosse
 374567	Explosives Brandmal
-374720	Verschlingendes Stampfen
 386660	Ausbrechender Riss
+374720	Verschlingendes Stampfen
 374789	Erfüllter Schlag
 
 ; Boss: Azureblade
@@ -254,7 +259,13 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
+384365	Störschrei
+384336	Kriegsdonner
+383823	Den Klan zusammenrufen
+395035	Seele zerschmettern
+387411	Todesblitzsalve
+373395	Markerschütternder Ruf
+397394	Tödlicher Donner
 
 ; Boss: Granyth
 388283	Eruption
