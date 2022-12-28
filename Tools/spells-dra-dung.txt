@@ -144,7 +144,17 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
+382708	Vulkanische Wache
+395427	Brennendes Brüllen
+376186	Eruptionsschmettern
+372223	Heilender Lehm
+372201	Versengender Odem
+372296	Feuersbrunstbatterie
+373084	Versengende Feuersalve
+376200	Lohende Detonation
+378282	Geschmolzener Kern
+381663	Gleißender Sturm
+383651	Geschmolzene Armee
 
 ; Boss: Chargath, Bane of Scales
 373424	Fesselspeer
@@ -184,6 +194,7 @@
 372743	Eisschild
 372087	Lodernder Ansturm
 372047	Stahlbeschuss
+385536	Flammentanz
 373693	Lebende Bombe
 373692	Inferno
 373614	Ausbrennen
@@ -192,7 +203,10 @@
 391726	Sturmatem
 392395	Donnerkiefer
 391723	Flammenatem
-
+392569	Geschmolzenes Blut
+392486	Gewittersturm
+392451	Feuerblitz
+		
 ; Boss: Melidrussa Chillworn
 373046	Welpen erwecken
 372682	Urzeitliche Kälte
@@ -220,10 +234,14 @@
 ; -------------------------------------
 
 ; Boss: Trash
+397726	Schriller Schrei
+387564	Mystische Dämpfe
 375596	Launisches Wachstum
+375649	Erfüllter Boden
 386546	Unheilvoller Wachtraum
 371358	Verbotenes Wissen
 377488	Eisige Bindungen
+370764	Stechende Splitter
 370766	Kristallines Bersten
 387067	Arkanhieb
 
@@ -262,6 +280,18 @@
 384365	Störschrei
 384336	Kriegsdonner
 383823	Den Klan zusammenrufen
+334610	Beute jagen
+386223	Sturmschild
+386024	Sturmgewitter
+386015	Sturmböe beschwören
+386694	Sturmwoge
+387127	Kettenblitzschlag
+387125	Donnerschlag
+386028	Donnerknall
+387629	Fauliger Wind
+387614	Gesang der Toten
+387596	Hurtiger Wind
+387440	Entweihendes Brüllen
 395035	Seele zerschmettern
 387411	Todesblitzsalve
 373395	Markerschütternder Ruf
@@ -313,8 +343,10 @@
 369400	Irdener Schutz
 369365	Fluch des Steins
 369366	In Stein gefangen
+369465	Steinhagel
 369411	Schallexplosion
 369337	Schwieriges Terrain
+381593	Donnernder Knall
 
 ; Boss: The Lost Dwarves
 369573	Schwerer Pfeil

@@ -1,0 +1,38 @@
+; Type: Mists of Pandaria Dungeon
+
+; -------------------------------------
+;    Zone: Temple of the Jade Serpent
+; -------------------------------------
+
+; Boss: Trash
+397881	Wogender Regenguss
+397889	Gezeitenexplosion
+395859	Unheimlicher Schrei
+395872	Schlummermonolog
+396001	Gebietender Gesang
+396018	Wutanfall
+396073	Katzenschläfchen
+396020	Goldene Barriere
+397899	Fußfeger
+397914	Entweihender Nebel
+398300	Flammen des Zweifels
+
+; Boss: Wise Mari
+397785	Wegspülen
+397797	Verderbter Vortex
+-6327	Wasser rufen
+106653	Sha-Rückstände
+115167	Verderbte Wasser
+
+; Boss: Lorewalker Stonestep
+-5549	Intensität
+
+; Boss: Liu Flameheart
+106823	Schlangenstoß
+106841	Jadeschlangenstoß
+118540	Jadeschlangenwelle
+107110	Jadefeuer
+
+; Boss: Sha of Doubt
+106113	Berührung des Nichts
+117665	Grenzen der Realität

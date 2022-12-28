@@ -61,9 +61,9 @@
 
 ; Boss: Dathea, Ascended
 387849	Sturm verdichten
-395501	Gegenwind
 387943	Umgeleitete Essenz
 385812	Luftschlitzen
+395501	Gegenwind
 384273	Sturmblitz
 390450	Statische Anziehung
 388302	Wütender Ausbruch
@@ -93,9 +93,18 @@
 374427	Bodenerschütterung
 374430	Heftiges Emporstoßen
 374623	Frostfesseln
+374622	Sturmbruch
 374624	Eisiger Sturm
 391696	Tödlicher Strom
 396241	Urzeitliche Abstimmung
+400473	Elementare Wut
+393309	Flammenpein
+394416	Flammendes Inferno
+393296	Frostpein
+391425	Eisiges Sturmgewitter
+391268	Erdpein
+393429	Sturmpein
+394719	Kugelblitz
 
 ; Boss: Broodkeeper Diurna
 375809	Bindung der Bruthüterin
@@ -121,6 +130,36 @@
 392194	Großstab ermächtigen
 380483	Zorn des ermächtigten Großstabs
 388918	Eishülle
+396269	Tödliches Steinschmettern
+396266	Tödliches Leid
+396264	Detonierendes Steinschmettern
 
 ; Boss: Raszageth the Storm Eater
-; TODO
+377612	Hurrikanschwinge
+381615	Statische Aufladung
+388643	Instabiler Strom
+395906	Elektrifizierte Kiefer
+377594	Blitzatem
+381251	Elektrisches Peitschen
+382434	Sturmnova
+385065	Blitzverheerung
+396037	Wogende Explosion
+385553	Sturmblitz
+397382	Zerspringende Hülle
+397387	Flammenschild
+387261	Sturmwoge
+391989	Sturmgeladen
+394582	Konzentrierte Aufladung
+394583	Zerstreute Aufladung
+385574	Orkanschwinge
+377467	Fulminante Ladung
+389870	Sturmbruch
+389878	Fusionieren
+385068	Kugelblitz
+385569	Tobender Sturm
+395929	Bosheit des Sturms
+399713	Magnetische Ladung
+386410	Donnernder Einschlag
+391285	Geschmolzene Rüstung
+394584	Umkehrung
+395885	Sturmfresserin

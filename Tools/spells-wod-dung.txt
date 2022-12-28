@@ -77,3 +77,38 @@ sphere	Sanguine Sphere
 ; Boss: Skulloc
 168227	Gronnschmettern
 168929	Kanonensperrfeuer
+
+
+; -------------------------------------
+;    Zone: Shadowmoon Burial Grounds
+; -------------------------------------
+
+; Boss: Trash
+152818	Schattenheilung
+152964	Leerenimpuls
+394512	Leereneruptionen
+398151	Finsterer Fokus
+153268	Krypta ausheben
+398206	Todesschlag
+156718	Nekrotischer Ausbruch
+153395	Bodycheck
+
+; Boss: Sadana Bloodfury
+164974	Verdunkelung
+153240	Dolchsturz
+153153	Dunkle Kommunion
+
+; Boss: Nhallish
+153623	Planarverschiebung
+152801	Leerenvortex
+152979	Seele zerfetzen
+153067	Leerenverwüstung
+
+; Boss: Bonemaw
+153804	Einatmen
+154175	Bodycheck
+
+; Boss: Ner'zhul
+154442	Böswilligkeit
+154350	Todesomen
+-9680	Knochenritual
