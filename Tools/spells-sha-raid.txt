@@ -1,7 +1,45 @@
 ; Type: Shadowlands Raid
 
 ; -------------------------------------
-;    Zone: Castle Nathria
+; Zone: Shadowlands
+; -------------------------------------
+
+; Boss: Valinor, the Light of Eons
+327274	Entfesselte Anima
+327246	Animaladung
+327280	Anima wiederaufladen
+327262	Geladene Animaexplosion
+327255	Mal der Reue
+
+; Boss: Mortanis
+338848	Kriechendes Rückgrat
+338847	Unheilige Raserei
+338851	Schreiender Schädel
+338846	Knochenspalten
+338849	Widerspenstige Überreste
+338850	Herr der Gefallenen
+
+; Boss: Oranomonos the Everbranching
+338855	Saat des Kummers
+338856	Klagelied des gefallenen Sanktums
+338853	Schnelles Wachstum
+338852	Einpflanzen
+338857	Nachwachsen
+
+; Boss: Nurgash Muckformed
+338867	Steinhagel
+338868	Tiefer Schlummer
+338864	Erdexplosion
+338863	Steinstampfen
+338858	Steinfaust
+
+; Boss: Mor'geth, Tormentor of the Damned
+
+; Boss: Antros
+
+
+; -------------------------------------
+; Zone: Castle Nathria
 ; -------------------------------------
 
 ; Boss: Trash
@@ -16,6 +54,7 @@
 341352	Meisterhaft gefertigte Schlinge des Manipulators
 341735	Stein wiederherstellen
 340630	Verrottend
+329298	Gefräßiges Miasma
 339553	Verbleibende Anima
 339557	Abgefüllte Anima
 339528	Verzerrte Begierden
@@ -29,7 +68,7 @@
 ; Boss: Shriekwing
 330711	Ohrenbetäubender Schrei
 340324	Blutiges Sekret
-342074y	Echoortung
+342074	Echoortung
 342863	Echokreischen
 345397	Blutige Welle
 343005	Blinder Hieb
@@ -42,7 +81,7 @@
 341489	Blutlicht
 
 ; Boss: Huntsman Altimor
-335114y	Sündensucher
+335114	Sündensucher
 334404	Streuschuss
 334971	Gezackte Klauen
 334945	Grausamer Sprung
@@ -59,7 +98,7 @@
 325877	Glutexplosion
 329518	Lodernde Woge
 328579	Schwelende Überreste
-328479y	Blick auf das Ziel
+328479	Blick auf das Ziel
 -21954	Steingebundener Bezwinger
 325440	Bezwingender Stoß
 325442	Bezwungen
@@ -78,13 +117,13 @@
 343026	Flammenumhang
 
 ; Boss: Artificer Xy'mox
-328437y	Dimensionenriss
+328437	Dimensionenriss
 325236	Glyphe der Zerstörung
 326271	Stasisfalle
 335013	Rissschlag
 325399	Hyperlichtfunken
 340758	Flüchtige Geister
-327902y	Fixieren
+327902	Fixieren
 327414	Besessenheit
 340788	Saaten der Ausrottung
 329107	Ausrottung
@@ -92,10 +131,10 @@
 328789	Vernichten
 
 ; Boss: Hungering Destroyer
-329298	Gefräßiges Miasma
+;329298	Gefräßiges Miasma
 334522	Verschlingen
 329725	Ausmerzen
-334266y	Instabiler Ausstoß
+334266	Instabiler Ausstoß
 329455	Verwüsten
 329774	Überwältigen
 332295	Wachsender Hunger
@@ -104,13 +143,13 @@
 331870	Anima fokussieren
 341621	Entblößte Begierden
 325382	Verzerrte Begierden
-340452y	Gesinnungswandel
+340452	Gesinnungswandel
 325936	Geteilte Kognition
 325769	Abgefüllte Anima
 325713	Verbleibende Anima
-324983y	Geteiltes Leid
+324983	Geteiltes Leid
 332664	Konzentrierte Anima
-331573y	Unerhörte Schuld
+331573	Unerhörte Schuld
 331550	Verurteilen
 
 ; Boss: The Council of Blood
@@ -119,24 +158,24 @@
 330978	Gräberdiener
 330965	Kader des Kastellans
 346790	Sündenberührte Klinge
-346651y	Essenz entziehen
+346651	Essenz entziehen
 337110	Schreckensblitzsalve
 346657	Stolze Eruption
 346945	Schmerz manifestieren
 346681	Seelenstacheln
 327497	Ausweichender Sprung
-331634y	Dunkler Vortrag
+331634	Dunkler Vortrag
 346800	Blutwalzer
 346303	Heftiger Aufruhr
 330959	Totentanz
-330848y	Falsche Tanzschritte
+330848	Falsche Tanzschritte
 -22433	Nachbild von Baronin Frieda
 347350	Tanzfieber
 
 ; Boss: Sludgefist
-331209y	Hasserfüllter Blick
+331209	Hasserfüllter Blick
 331314	Zerstörerischer Einschlag
-335293y	Kettenverbindung
+335293	Kettenverbindung
 332318	Zerstörerisches Stampfen
 341193	Fallender Schutt
 335361	Steinbeben
@@ -152,7 +191,7 @@
 333913	Tückische Fleischwunde
 334765	Herzreißer
 334929	Zackenhieb
-339690y	Kristallisieren
+339690	Kristallisieren
 342544	Pulverisierender Meteor
 343063	Steinstachel
 342733	Unersättliches Schmausen
@@ -163,7 +202,7 @@
 332683	Zerschmetternde Eruption
 329808	Gehärtete Steingestalt
 342425	Steinfaust
-344496y	Hallende Eruption
+344496	Hallende Eruption
 334498	Seismischer Aufruhr
 342256	Schattenstreitkräfte rufen
 342655	Flüchtige Animainfusion
@@ -175,14 +214,14 @@
 326699	Bürde der Sünde
 326707	Läuternder Schmerz
 326851	Blutpreis
-327039y	Fütterungszeit
-327796y	Nachtjäger
+327039	Fütterungszeit
+327796	Nachtjäger
 327227	Befehl: Verheeren
 327122	Verheeren
 327992	Verwüstung
 328276	Marsch der Bußfertigen
 329906	Gemetzel
-329951y	Durchbohren
+329951	Durchbohren
 -22131	Blutroter Kabalist
 336162	Crescendo
 335873	Groll
@@ -201,15 +240,17 @@
 
 
 ; -------------------------------------
-;    Zone: Sanctum of Domination
+; Zone: Sanctum of Domination
 ; -------------------------------------
+
+; Boss: Trash
 
 ; Boss: The Tarragrue
 346985	Überwältigen
 346986	Zermalmte Rüstung
-347269y	Ketten der Ewigkeit
+347269	Ketten der Ewigkeit
 347274	Vernichtendes Schmettern
-347283y	Raubtierheulen
+347283	Raubtierheulen
 347286	Unerschütterlicher Schrecken
 347679	Hungernder Nebel
 352368	Überrest vergessener Qualen
@@ -225,14 +266,13 @@
 349979	Zerrende Ketten
 348074	Angriffslanze
 349028	Titanischer Todesblick
-350847y	Verwüstungsstrahl
-350022y	Seele fragmentieren
+350847	Verwüstungsstrahl
+350022	Seele fragmentieren
 351825	Geteiltes Leid
 350713	Träge Verderbnis
-351827y	Elendsverbreitung
-348974	Sofortige Auslöschung
+351827	Elendsverbreitung
 351413	Vernichtendes Starren
-350604y	Hoffnungslose Lethargie
+350604	Hoffnungslose Lethargie
 355232	Verachtung und Zorn
 
 ; Boss: The Nine
@@ -246,20 +286,30 @@
 350385	Nachhallender Refrain
 350467	Ruf der Val'kyr
 350031	Agathas ewige Klinge
-350184y	Daschlas mächtiger Einschlag
+350184	Daschlas mächtiger Einschlag
 350158	Annhyldes strahlende Aegis
 350098	Aradnes stürzender Schlag
-350109y	Brynjas trauriges Klagelied
+350109	Brynjas trauriges Klagelied
 350039	Arthuras zerschmetternder Blick
 350475	Seelenberster
 355294	Abneigung
 350482	Essenz verbinden
 350687	Wort des Rückrufs
 
+; Boss: Remnant of Ner'zhul
+350676	Kugel der Qual
+350073	Qual
+350388	Kummervolle Prozession
+350469	Böswilligkeit
+350489	Verbleibende Böswilligkeit
+349890	Leid
+355123	Griff der Bösartigkeit
+351066	Zerschmettern
+
 ; Boss: Soulrender Dormazain
 350217	Qual
 349985	Gequälte Eruptionen
-350647y	Brandmal der Qual
+350647	Brandmal der Qual
 350422	Klinge des Ruins
 350615	Schlundgebundene rufen
 -23517	Schlundgebundener Oberanführer
@@ -269,16 +319,6 @@
 354231	Seelenfesseln
 351229	Zerfetzte Seele
 
-; Boss: Remnant of Ner'zhul
-350676	Kugel der Qual
-350073	Qual
-350388	Kummervolle Prozession
-350469y	Böswilligkeit
-350489	Verbleibende Böswilligkeit
-349890	Leid
-355123	Griff der Bösartigkeit
-351066	Zerschmettern
-
 ; Boss: Painsmith Raznal
 348508	Schallender Hammer
 355568	Kreuzaxt
@@ -286,7 +326,7 @@
 355786	Geschwärzte Rüstung
 352052	Stachelige Bälle
 348456	Flammengrifffalle
-355505y	Schattenstahlketten
+355505	Schattenstahlketten
 355534	Schattenstahlglut
 355536	Schattenstahlschrecken beschwören
 357735	Letzter Schrei
@@ -305,16 +345,16 @@
 352833	Desintegration
 352660	Spähdrohne erschaffen
 347359	Unterdrückungsfeld
-350496y	Bedrohungsneutralisierung
+350496	Bedrohungsneutralisierung
 
 ; Boss: Fatescribe Roh-Kalo
-351680y	Schicksal herbeirufen
+351680	Schicksal herbeirufen
 353432	Bürde der Bestimmung
 353398	Anomale Explosion
 353603	Prüfung des Wahrsagers
 353931	Schicksalszerrung
 350421	Schicksalskonjunktion
-350568y	Ruf der Ewigkeit
+350568	Ruf der Ewigkeit
 357739	Schicksal neu ausrichten
 357144	Verzweiflung
 353122	Finsterstes Schicksal
@@ -331,8 +371,8 @@
 348428	Durchdringendes Geheul
 346459	Gletscherzorn
 346530	Gefrorene Zerstörung
-347292y	Echo der Vergessenheit
-348760y	Frostschlag
+347292	Echo der Vergessenheit
+348760	Frostschlag
 354289	Finsteres Miasma
 352051	Nekrotische Woge
 352293	Rachsüchtige Zerstörung
@@ -350,9 +390,9 @@
 347807	Hakenpfeil
 356377	Entweihender Schuss
 347670	Schattendolch
-349458y	Herrschaftsketten
+349458	Herrschaftsketten
 347704	Schleier der Dunkelheit
-347609y	Klagender Pfeil
+347609	Klagender Pfeil
 352650	Herzsucher der Waldläuferin
 347607	Mal der Banshee
 353417	Aufreißen
@@ -371,7 +411,7 @@
 354068	Zorn der Banshee
 353952	Bansheekreischen
 354147	Einreißen
-358704y	Schwarzer Pfeil
+358704	Schwarzer Pfeil
 358711	Wut
 356021	Dunkle Kommunion
 351591	Schmutz
@@ -383,8 +423,10 @@
 
 
 ; -------------------------------------
-;    Zone: Sepulcher of the First Ones
+; Zone: Sepulcher of the First Ones
 ; -------------------------------------
+
+; Boss: Trash
 
 ; Boss: Vigilant Guardian
 360403	Kraftfeld
@@ -450,7 +492,7 @@
 361608	Bürde der Sünde
 361745	Nachtjäger
 
-; Boss: Lihuvim, Principal Architech
+; Boss: Lihuvim, Principal Architect
 368027	Resonanz
 364652	Protoformkaskade
 363088	Kosmische Verschiebung
@@ -463,7 +505,6 @@
 362659	Ausrichtungsverschiebung
 
 ; Boss: Halondrus the Reclaimer
-368969	Unstete Ladung
 360115	Zurückgewinnen
 367079	Seismische Beben
 360114	Ephemerer Riss
@@ -474,6 +515,7 @@
 368363	Zerschmettertes Prisma
 364979	Zerschmettern
 368529	Ewigkeitsturbogang
+368969	Unstete Ladung
 
 ; Boss: Anduin Wrynn
 362405	Königsgram hungert
@@ -531,7 +573,7 @@
 363893	Martyrium
 366545	Verfolgung
 365436	Qual
-360281y	Rune der Verdammnis
+360281	Rune der Verdammnis
 360373	Unheilige Abstimmung
 363332	Eiserner Griff
 359856	Zerschmetternde Eruption
@@ -549,9 +591,3 @@
 368591	Todesurteil
 
 
-; Zone: Season 4
-; Boss: Affixes
-372634	Chaotische Essenz
-369505	Schöpfungsfunke
-371447	Protoformbarriere
-371254	Rekonfigurationsemitter

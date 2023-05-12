@@ -1,11 +1,40 @@
 ; Type: Dragonflight Raid
 
 ; -------------------------------------
-;	Zone: Vault of the Incarnates
+; Zone: Dragon Isles
+; -------------------------------------
+
+; Boss: Strunraan, The Sky's Misery
+383496	Ermächtigter Sturm
+387199	Strunraans Sturm
+387265	Überladen
+387216	Wasser elektrisieren
+385980	Donnervortex
+389951	Bogenausstoß
+
+; Boss: Basrikron, The Shale Wing
+386259	Zerreißendes Schmettern
+386059	Felsen erwecken
+385270	Brechendes Beben
+385137	Schieferatem
+
+; Boss: Bazual, The Dreaded Flame
+389514	Lavaodem
+389725	Magmaeruption
+389431	Abschreckende Flamme
+391247	Flammeninfusion
+390635	Regen der Zerstörung
+
+; Boss: Liskanoth, The Futurebane
+391026	Tieffrieren
+389960	Bindungseis
+
+
+; -------------------------------------
+; Zone: Vault of the Incarnates
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
 
 ; Boss: Eranog
 390715	Flammenriss
@@ -61,7 +90,7 @@
 
 ; Boss: Dathea, Ascended
 387849	Sturm verdichten
-387943	Umgeleitete Essenz
+397431	Umgeleitete Essenz
 385812	Luftschlitzen
 395501	Gegenwind
 384273	Sturmblitz
@@ -80,6 +109,7 @@
 382563	Magmaexplosion
 373329	Geschmolzene Eruption
 374023	Sengendes Gemetzel
+374554	Magmapfütze
 373678	Beißende Kälte
 391019	Eisiger Strom
 372458	Absoluter Nullpunkt
@@ -93,18 +123,22 @@
 374427	Bodenerschütterung
 374430	Heftiges Emporstoßen
 374623	Frostfesseln
-374622	Sturmbruch
 374624	Eisiger Sturm
+374622	Sturmbruch
 391696	Tödlicher Strom
 396241	Urzeitliche Abstimmung
 400473	Elementare Wut
-393309	Flammenpein
+393314	Flammengeschmiedeter Vernichter
 394416	Flammendes Inferno
-393296	Frostpein
+393309	Flammenpein
+393295	Eisgeschmiedeter Beherrscher
 391425	Eisiges Sturmgewitter
+393296	Frostpein
+392098	Eisengeschmiedeter Zertrümmerer
 391268	Erdpein
-393429	Sturmpein
+393459	Sturmgeschmiedeter Räuber
 394719	Kugelblitz
+393429	Sturmpein
 
 ; Boss: Broodkeeper Diurna
 375809	Bindung der Bruthüterin
@@ -130,11 +164,12 @@
 392194	Großstab ermächtigen
 380483	Zorn des ermächtigten Großstabs
 388918	Eishülle
+396779	Sturmriss
 396269	Tödliches Steinschmettern
 396266	Tödliches Leid
 396264	Detonierendes Steinschmettern
 
-; Boss: Raszageth the Storm Eater
+; Boss: Raszageth the Storm-Eater
 377612	Hurrikanschwinge
 381615	Statische Aufladung
 388643	Instabiler Strom
@@ -160,6 +195,160 @@
 395929	Bosheit des Sturms
 399713	Magnetische Ladung
 386410	Donnernder Einschlag
-391285	Geschmolzene Rüstung
+391285	Vom Donner gerührte Rüstung
 394584	Umkehrung
 395885	Sturmfresserin
+
+
+; -------------------------------------
+; Zone: Aberrus, the Shadowed Crucible
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Kazzara, the Hellforged
+401319	Höllenstahlgemetzel
+407196	Schreckensrisse
+406530	Rissbrand
+407069	Strahlen der Pein
+402421	Geschmolzene Narbe
+400430	Höllenstrahl
+403326	Schwingen der Ausrottung
+404743	Terrorklauen
+
+; Boss: The Amalgamation Chamber
+401809	Verderbender Schatten
+403459	Verdichtende Leere
+405036	Umbraldetonation
+405084	Verweilende Umbra
+407640	Schattenkonvergenz
+403699	Schattenstachel
+402617	Brennende Hitze
+404732	Feuriger Meteor
+403101	Geschmolzene Eruption
+404896	Wabernde Flamme
+403203	Flammenschlitzen
+405394	Schattenflammenkontamination
+405437	Düstere Feuersbrunst
+405642	Sengendes Zwielicht
+405645	Einhüllende Hitze
+408193	Konvergente Eruption
+405914	Siechende Verwundbarkeit
+406783	Schattenflammenstoß
+409385	Schatten und Flamme
+
+; Boss: The Forgotten Experiments
+406311	Erfüllte Schläge
+407302	Energieerfüllte Explosion
+406358	Verwundender Ansturm
+404472	Massives Schmettern
+404713	Dröhnendes Gebrüll
+407327	Instabile Essenz
+405492	Flüchtige Galle
+405375	Heftige Eruption
+406227	Tiefer Atem
+407552	Zeitanomalie
+405392	Desintegration
+
+; Boss: Assault of the Zaqali
+404382	Helfer der Zaqali
+404687	Barrierenrückschlag
+408959	Verheerender Sprung
+401258	Schwerer Knüppel
+397383	Geschmolzene Barriere
+409275	Magmafluss
+397386	Lavablitz
+401401	Lodernder Speer
+408620	Sengendes Brüllen
+401867	Vulkanischer Schild
+401108	Phönixansturm
+401381	Lodernder Fokus
+407017	Energischer Windstoß
+406585	Ignaras Zorn
+410516	Katastrophales Schmettern
+410351	Brennender Knüppel
+
+; Boss: Rashok, the Elder
+410070	Schattenflamme entfesseln
+410075	Schattenflammenenergie
+405316	Uralter Zorn
+405821	Sengendes Schmettern
+403543	Lavawelle
+406851	Verdammnisflammen
+406333	Schattenlavaschlag
+400777	Geladenes Schmettern
+407641	Zorn von Djaruun
+407547	Flammenhieb
+407597	Irdenes Zermalmen
+401419	Ältestenleitung
+405091	Schwelende Wut
+
+; Boss: The Vigilant Steward, Zskarn
+409942	Eliminierungsprotokoll
+405736	Drachenfeuerfallen
+405812	Golems beleben
+405592	Teile bergen
+406678	Taktische Zerstörung
+406725	Schrapnellbombe
+404010	Instabile Funken
+403978	Druckwelle
+404942	Sengende Klauen
+
+; Boss: Magmorax
+408358	Katastrophale Eruption
+402994	Geschmolzener Speichel
+408839	Sengende Hitze
+407879	Lodernder Wutanfall
+403740	Entzündendes Brüllen
+403671	Überwältigendes Stampfen
+409093	Lodernder Atem
+404846	Einäschernder Schlund
+406712	Lava
+411633	Brennende Ketten
+411182	Explosives Magma
+
+; Boss: Echo of Neltharion
+410953	Vulkanisches Herz
+407221	Rauschende Finsternis
+401998	Verhängnisvoller Stoß
+402902	Entstellte Erde
+402115	Hallender Spalt
+403057	Sich der Verderbnis hingeben
+401010	Verderbnis
+405433	Schattenhafte Auslöschung
+407790	Schatten spalten
+403049	Schattenbarriere
+407936	Realität zerreißen
+407919	Zerrissene Realität
+407917	Schwarze Zerstörung
+
+; Boss: Scalecommander Sarkareth
+401951	Auslöschung
+401215	Leere zwischen den Sternen
+403997	Verstandessplitter
+407576	Astralflimmern
+410625	Existenz beenden
+401383	Tyrannisierendes Heulen
+401810	Glimmerwoge
+401500	Versengende Bombe
+406989	Brennender Boden
+401680	Massendesintegration
+402050	Sengender Atem
+401330	Brennende Klauen
+401340	Lodernde Explosion
+404027	Leerenbombe
+404218	Leerenfraktur
+404456	Abyssischer Atem
+404754	Vernichtender Schrei
+404403	Trostlose Blüte
+404288	Unendlicher Zwang
+411241	Leerenklauen
+411238	Leerenschlag
+403771	Kosmischer Aufstieg
+405486	Rasendes Bombardement
+403625	Vernichtende Ewigkeit
+403520	Umarmung des Nichts
+408429	Leerenschlitzer
+408457	Leerenschlag
+
+

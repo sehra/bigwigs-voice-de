@@ -1,7 +1,7 @@
 ; Type: Warlords of Draenor Dungeon
 
 ; -------------------------------------
-;    Zone: Grimrail Depot
+; Zone: Grimrail Depot
 ; -------------------------------------
 
 ; Boss: Trash
@@ -12,12 +12,13 @@
 176032	Flammenzunge
 156301	Schwarzfelsmörser
 176127	Kanonensperrfeuer
+176023	Zornig werden
 166335	Sturmschild
 166341	Donnerzone
 166380	Tollkühner Hieb
 166397	Arkaner Blitz
 
-; Boss: Railmaster Rocketspark
+; Boss: Rocketspark and Borka
 162407	Raketensalve X21-01A
 163947	Aufrappeln
 162171	Bessere Position
@@ -28,10 +29,12 @@
 161092	Ungezügelte Aggression
 
 ; Boss: Nitrogg Thundertower
-161073	Schwarzfelsgranate
-160965	Schwarzfelsmörsergranaten
+163550	Schwarzfelsmörser
 160681	Sperrfeuer
 166570	Schlackeschlag
+160965	Schwarzfelsmörsergranaten
+156357	Schwarzfelsschrapnelle
+161073	Schwarzfelsgranate
 
 ; Boss: Skylord Tovra
 161801	Donneratem
@@ -42,12 +45,12 @@
 
 
 ; -------------------------------------
-;    Zone: Iron Docks
+; Zone: Iron Docks
 ; -------------------------------------
 
 ; Boss: Trash
 167233	Klingensturm
-173148	Flammende Pfeile
+164632	Brandpfeile
 172636	Rutschiger Schleim
 172982	Schmetterschlag
 172952	Torbrecher werfen
@@ -64,51 +67,74 @@
 
 ; Boss: Fleshrender Nok'gar
 164426	Tollkühne Provokation
-164632	Brandpfeile
+;164632	Brandpfeile
+166923	Hakenpfeilsalve
 164837	Wildes Zerfleischen
 164835	Geheul des Aderlasses
+164734	Schreddernde Hiebe
 
-; Boss: Ahri'ok Dugru
-sphere	Sanguine Sphere
+; Boss: Grimrail Enforcers
+163689	Blutige Sphäre
+163705	Plötzliche Wiederherstellung
+163740	Unreines Blut
+163665	Flammenhieb
+165152	Lavafeger
+163376	Defekte Überbrückungskabel 9000-XL
+163390	Ogerfallen
+163379	Der große Knall
 
 ; Boss: Oshir
 162415	Essenszeit
+178124	Ausbruch
+161256	Urzeitlicher Angriff
 
 ; Boss: Skulloc
 168227	Gronnschmettern
 168929	Kanonensperrfeuer
+168965	Berserkersprung
+168348	Schnellfeuer
 
 
 ; -------------------------------------
-;    Zone: Shadowmoon Burial Grounds
+; Zone: Shadowmoon Burial Grounds
 ; -------------------------------------
 
 ; Boss: Trash
 152818	Schattenheilung
+152819	Schattenwort: Gebrechlichkeit
+164907	Leerenschlitzer
 152964	Leerenimpuls
 394512	Leereneruptionen
 398151	Finsterer Fokus
+398154	Gepeinigter Schrei
+398150	Beherrschung
 153268	Krypta ausheben
 398206	Todesschlag
 156718	Nekrotischer Ausbruch
 153395	Bodycheck
 
 ; Boss: Sadana Bloodfury
-164974	Verdunkelung
-153240	Dolchsturz
 153153	Dunkle Kommunion
+153240	Dolchsturz
+153224	Schattenbrand
+153094	Einflüsterungen des dunklen Sterns
+164974	Verdunkelung
 
 ; Boss: Nhallish
 153623	Planarverschiebung
 152801	Leerenvortex
-152979	Seele zerfetzen
+152792	Leerenschlag
 153067	Leerenverwüstung
+152979	Seele zerfetzen
 
 ; Boss: Bonemaw
-153804	Einatmen
+165578	Leichenodem
 154175	Bodycheck
+153804	Einatmen
 
 ; Boss: Ner'zhul
 154442	Böswilligkeit
 154350	Todesomen
--9680	Knochenritual
+154469	Knochenritual
+
+

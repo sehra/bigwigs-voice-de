@@ -1,0 +1,47 @@
+; Type: Cataclysm Dungeon
+
+; -------------------------------------
+; Zone: The Vortex Pinnacle
+; -------------------------------------
+
+; Boss: Trash
+410999	Druckvoller Schlag
+410870	Wirbelsturm
+411001	Tödlicher Strom
+411002	Turbulenz
+411005	Bombenzyklon
+88170	Wolkenbruch
+88171	Hurrikan
+88186	Nebelform
+88182	Lethargisches Gift
+411910	Brunnen der Heilung
+411012	Unterkühlender Atem
+88194	Eisiger Stoß
+413387	Krachender Stein
+87761	Zusammenruf
+87779	Große Heilung
+87772	Hand des Schutzes
+87762	Blitzpeitsche
+413385	Erdungsfeld überladen
+
+; Boss: Grand Vizier Ertan
+86292	Wirbelsturmschild
+413151	Sturm beschwören
+413562	Tödlicher Strom
+
+; Boss: Altairus
+-2425	Den Wind rufen
+88282	Mit dem Wind
+88286	Gegen den Wind
+88308	Unterkühlender Atem
+413275	Kaltfront
+413295	Fallböe
+
+; Boss: Asaad, Caliph of Zephyrs
+86911	Instabiles Erdungsfeld
+86930	Souveränität des Sturms
+87622	Kettenblitzschlag
+-2434	Himmelssturzstern
+87618	Statische Aufladung
+
+

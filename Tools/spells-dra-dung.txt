@@ -11,15 +11,18 @@
 389536	Schwurbrosche des grünen Drachenschwarms
 389501	Schwurbrosche des roten Drachenschwarms
 388863	Manaleere
+388911	Zertrennendes Schlitzen
 396812	Mystischer Schlag
 388886	Arkaner Regen
 388976	Rissatem
 388984	Heimtückischer Hinterhalt
 388392	Monotone Vorlesung
 377912	Eindringlinge vertreiben
+378003	Tödliche Winde
+377991	Sturmschlitzer
 377389	Ruf des Schwarms
+377383	Windstoß
 390912	Detonationssamen
-387862	Störender Impuls
 387910	Astraler Wirbelwind
 387843	Astralbombe
 387955	Himmlischer Schild
@@ -50,7 +53,7 @@
 377004	Ohrenbetäubendes Kreischen
 376997	Wildes Picken
 
-; Boss: Echo of Dorogosa
+; Boss: Echo of Doragosa
 389011	Überwältigende Kraft
 388901	Arkaner Riss
 374361	Astralatem
@@ -59,18 +62,41 @@
 
 
 ; -------------------------------------
-;	Zone: Brackenhide Hollow
+; Zone: Brackenhide Hollow
 ; -------------------------------------
 
 ; Boss: Trash
+382435	Fäulnisrufendes Totem
+367503	Siechende Eruption
+368081	Siechen
+367484	Boshaftes Klauenzerfleischen
+368287	Toxische Falle
 367500	Abscheuliches Gackern
+382555	Wutsturm
+372711	Verderbnisinfusion
+373897	Verrottende Wurzeln
+373943	Stampfen
+382712	Nekrotischer Hauch
+374057	Totem beschwören
+374544	Ausbruch des Verfalls
+374569	Platzen
+373929	Hieb
 388060	Stinkatem
+388046	Heftiger Wirbelwind
+385832	Blutrünstiger Sturmangriff
+385827	Blutzorn
+384974	Duftendes Fleisch
+385058	Welkendes Gift
+385029	Kreischen
+383399	Verrottende Woge
+383087	Welkende Ansteckung
 
 ; Boss: Hackclaw's War-Band
 381444	Wilder Ansturm
 377827	Klingensturm
 381694	Verfallene Sinne
 378029	Klaffende Raserei
+378208	Zum Schlachten markiert
 381470	Hextricktotem
 377950	Große Heilströme
 377965	Blutwahn
@@ -81,6 +107,8 @@
 376811	Fäulnisfontäne
 377859	Infektiöse Spucke
 377559	Rankenpeitsche
+383875	Halb verdaut
+390968	Hungrige Raserei
 
 ; Boss: Gutshot
 384827	Hyänen rufen
@@ -97,18 +125,35 @@
 
 
 ; -------------------------------------
-;	Zone: Halls of Infusion
+; Zone: Halls of Infusion
 ; -------------------------------------
+
 ; Boss: Trash
+391241	Begrenzte Unsterblichkeit
+391471	Reinigende Sporen
 374080	Wuchtige Böe
+374073	Seismischer Schlag
 374045	Ausstoßen
 374339	Demoralisierender Ruf
+393432	Speerhagel
 374563	Schillern
+374389	Schluckflunkgift
+395694	Elementarfokus
 374724	Geschmolzene Subduktion
+374741	Magmaschlag
+374699	Kauterisieren
+375079	Wirbelnder Zorn
+374823	Zephyrs Ruf
 375384	Bebende Erde
+385141	Gewitter
+376171	Erfrischende Gezeiten
 375348	Böiger Atem
+391610	Fesselnde Winde
 375351	Ozeanischer Atem
+391634	Packende Kälte
 375327	Tektonischer Atem
+391613	Schleichender Schimmelpilz
+377341	Gezeitendivergenz
 377402	Aquatische Barriere
 390290	Schnellflutung
 
@@ -117,41 +162,50 @@
 384351	Funkensalve
 384014	Statische Woge
 384524	Titanenfaust
-389446	Nullifikationsimpuls
 383840	Ablative Barriere
+389446	Nullifikationsimpuls
 
 ; Boss: Gulping Goliath
 385551	Schluck
 385187	Überwältigendes Quaken
 385531	Bauchklatscher
 385442	Toxische Ausdünstungen
-374389	Schluckflunkgift
+;374389	Schluckflunkgift
+385743	Wütend vor Hunger
 
 ; Boss: Khajin the Unyielding
 386757	Hagelsturm
 386559	Eiszeitliche Woge
 385963	Frostschock
+390111	Frostzyklon
 
 ; Boss: Primal Tsunami
 387559	Erfüllte Tropfen
 388424	Gewitterzorn
 387504	Sturmböenstoß
+389875	Tiefensog
 388882	Überflutung
 
 
 ; -------------------------------------
-;	Zone: Neltharus
+; Zone: Neltharus
 ; -------------------------------------
 
 ; Boss: Trash
 382708	Vulkanische Wache
+384597	Lodernder Schnitt
+372561	Bindender Speer
 395427	Brennendes Brüllen
 376186	Eruptionsschmettern
+372311	Magmafaust
 372223	Heilender Lehm
 372201	Versengender Odem
+384161	Partikel des Einäscherns
+379406	Lava werfen
 372296	Feuersbrunstbatterie
 373084	Versengende Feuersalve
 376200	Lohende Detonation
+378827	Explosives Gemisch
 378282	Geschmolzener Kern
 381663	Gleißender Sturm
 383651	Geschmolzene Armee
@@ -175,6 +229,7 @@
 375068	Magmawurf
 375251	Lavafontäne
 375439	Brennender Ansturm
+391457	Lavaermächtigung
 
 ; Boss: Warlord Sargha
 376780	Magmaschild
@@ -183,18 +238,21 @@
 377204	Der Drachenbrennofen
 377018	Geschmolzenes Gold
 377522	Brennende Verfolgung
+391762	Fluch des Drachenhorts
 
 
 ; -------------------------------------
-;	Zone: Ruby Life Pools
+; Zone: Ruby Life Pools
 ; -------------------------------------
 
 ; Boss: Trash
 372696	Ausgrabungsschlag
+372735	Tektonischer Schlag
 372743	Eisschild
 372087	Lodernder Ansturm
 372047	Stahlbeschuss
 385536	Flammentanz
+373972	Feuersbrunst
 373693	Lebende Bombe
 373692	Inferno
 373614	Ausbrennen
@@ -204,15 +262,17 @@
 392395	Donnerkiefer
 391723	Flammenatem
 392569	Geschmolzenes Blut
+392394	Feuerschlund
 392486	Gewittersturm
 392451	Feuerblitz
-		
+
 ; Boss: Melidrussa Chillworn
 373046	Welpen erwecken
 372682	Urzeitliche Kälte
-373680	Frostüberladung
 372851	Kältesturm
 396044	Hagelbomben
+372988	Eisbollwerk
+373680	Frostüberladung
 
 ; Boss: Kokia Blazehoof
 372863	Ritual der Lohenbindung
@@ -224,19 +284,21 @@
 ; Boss: Kyrakka and Erkhart Stormvein
 381862	Infernokern
 381525	Lodernder Feueratem
+381602	Flammenspeien
 381517	Winde der Veränderung
 381516	Unterbrechender Wolkenbruch
 381512	Sturmknall
 
 
 ; -------------------------------------
-;	Zone: The Azure Vault
+; Zone: The Azure Vault
 ; -------------------------------------
 
 ; Boss: Trash
 397726	Schriller Schrei
 387564	Mystische Dämpfe
 375596	Launisches Wachstum
+375652	Wilder Ausbruch
 375649	Erfüllter Boden
 386546	Unheilvoller Wachtraum
 371358	Verbotenes Wissen
@@ -244,6 +306,8 @@
 370764	Stechende Splitter
 370766	Kristallines Bersten
 387067	Arkanhieb
+391118	Zauberfrostatem
+396991	Bestialisches Brüllen
 
 ; Boss: Leymor
 374364	Leyliniensprosse
@@ -273,7 +337,7 @@
 
 
 ; -------------------------------------
-;	Zone: The Nokhud Offensive
+; Zone: The Nokhud Offensive
 ; -------------------------------------
 
 ; Boss: Trash
@@ -281,6 +345,7 @@
 384336	Kriegsdonner
 383823	Den Klan zusammenrufen
 334610	Beute jagen
+384476	Pfeilregen
 386223	Sturmschild
 386024	Sturmgewitter
 386015	Sturmböe beschwören
@@ -296,6 +361,9 @@
 387411	Todesblitzsalve
 373395	Markerschütternder Ruf
 397394	Tödlicher Donner
+382277	Vehementer Ansturm
+372147	Verheerender Speer
+382233	Breites Stampfen
 
 ; Boss: Granyth
 388283	Eruption
@@ -321,9 +389,10 @@
 386063	Entsetzliches Brüllen
 382836	Metzeln
 392198	Bindung der Ahnen
+395669	Nachwirkungen
 
 ; Boss: Balakar Khan
-376660	Eisenspeer
+376634	Eisenspeer
 376683	Eisenstampede
 375943	Umsturz
 375937	Reißender Stoß
@@ -334,19 +403,25 @@
 
 
 ; -------------------------------------
-;	Zone: Uldaman: Legacy of Tyr
+; Zone: Uldaman: Legacy of Tyr
 ; -------------------------------------
 
 ; Boss: Trash
+386104	Tyrs verlorener Foliant
+375500	Zeitschloss
 369811	Brutales Zerschmettern
 369823	Stachelpanzer
 369400	Irdener Schutz
 369365	Fluch des Steins
 369366	In Stein gefangen
 369465	Steinhagel
-369411	Schallexplosion
+369335	Zerklüftendes Schmettern
 369337	Schwieriges Terrain
+369328	Erdbeben
+369411	Schallexplosion
 381593	Donnernder Knall
+382578	Segen von Tyr
+377500	Beschleunigen
 
 ; Boss: The Lost Dwarves
 369573	Schwerer Pfeil
@@ -384,3 +459,5 @@
 376049	Flügelstoß
 377405	Zeitfresser
 375727	Sandatem
+
+

@@ -1,12 +1,13 @@
-## Interface: 100005
+## Interface: 100100
 ## Title: BigWigs |cffff0000+|r|cffffffffVoice (DE)|r
 ## Version: @project-version@
 ## Notes: A plugin for BigWigs that will play Text-To-Speech sounds for boss abilities.
-## Author: Sehra
+## Author: Funkydude, Sehra
 
 ## X-BigWigs-LoadOn-CoreEnabled: 1
 ## Dependencies: BigWigs
 ## LoadOnDemand: 1
+## IconTexture: Interface\AddOns\BigWigs\Media\Icons\core-enabled
 
 ## X-Category: Raid
 ## X-License: All Rights Reserved: You are free to fork and modify on GitHub, please ask us about anything else.
