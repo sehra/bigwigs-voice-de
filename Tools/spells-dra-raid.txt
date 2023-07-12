@@ -205,6 +205,17 @@
 ; -------------------------------------
 
 ; Boss: Trash
+408975	Tanzender Stahl
+406282	Traumeruption
+406210	Heilblüte
+408811	Reihen schließen
+411439	Zerschlagender Stoß
+406399	Zone der Azurmacht
+411900	Düstere Flüssigkeit
+411905	Siedelohe
+411892	Zähe Galle
+411808	Schleimauswurf
+412498	Abgestandene Lache
 
 ; Boss: Kazzara, the Hellforged
 401319	Höllenstahlgemetzel
@@ -263,14 +274,12 @@
 401867	Vulkanischer Schild
 401108	Phönixansturm
 401381	Lodernder Fokus
-407017	Energischer Windstoß
+407009	Energischer Windstoß
 406585	Ignaras Zorn
 410516	Katastrophales Schmettern
 410351	Brennender Knüppel
 
 ; Boss: Rashok, the Elder
-410070	Schattenflamme entfesseln
-410075	Schattenflammenenergie
 405316	Uralter Zorn
 405821	Sengendes Schmettern
 403543	Lavawelle
@@ -282,9 +291,10 @@
 407597	Irdenes Zermalmen
 401419	Ältestenleitung
 405091	Schwelende Wut
+410070	Schattenflamme entfesseln
+410075	Schattenflammenenergie
 
 ; Boss: The Vigilant Steward, Zskarn
-409942	Eliminierungsprotokoll
 405736	Drachenfeuerfallen
 405812	Golems beleben
 405592	Teile bergen
@@ -293,6 +303,7 @@
 404010	Instabile Funken
 403978	Druckwelle
 404942	Sengende Klauen
+409942	Eliminierungsprotokoll
 
 ; Boss: Magmorax
 408358	Katastrophale Eruption
@@ -315,6 +326,7 @@
 402115	Hallender Spalt
 403057	Sich der Verderbnis hingeben
 401010	Verderbnis
+407036	In der Leere verborgen
 405433	Schattenhafte Auslöschung
 407790	Schatten spalten
 403049	Schattenbarriere
@@ -331,6 +343,7 @@
 401383	Tyrannisierendes Heulen
 401810	Glimmerwoge
 401500	Versengende Bombe
+402746	Schwebende Funken
 406989	Brennender Boden
 401680	Massendesintegration
 402050	Sengender Atem
@@ -344,11 +357,14 @@
 404288	Unendlicher Zwang
 411241	Leerenklauen
 411238	Leerenschlag
-403771	Kosmischer Aufstieg
+406428	Partikel der Auslöschung
+403741	Kosmischer Aufstieg
 405486	Rasendes Bombardement
 403625	Vernichtende Ewigkeit
 403520	Umarmung des Nichts
 408429	Leerenschlitzer
 408457	Leerenschlag
+404269	Schwarzmacht
+404769	Leerer Schlag
 
 

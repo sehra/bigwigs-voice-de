@@ -6,6 +6,7 @@
 
 ; Boss: Trash
 410999	Druckvoller Schlag
+410873	Rauschender Wind
 410870	Wirbelsturm
 411001	Tödlicher Strom
 411002	Turbulenz

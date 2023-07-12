@@ -496,17 +496,21 @@
 
 ; Boss: Trash
 265568	Dunkles Omen
+278755	Entsetzliche Verzweiflung
 265089	Dunkle Rekonstitution
 265091	G'huuns Gabe
 265540	Faulige Galle
+265016	Bluternte
 265019	Wilder Spalter
 265081	Kriegsschrei
+265377	Hakenschlinge
 278961	Verfallender Verstand
 266107	Durst nach Blut
 266106	Überschallschrei
 265668	Fäulniswelle
 272183	Totenerweckung
 266209	Rasender Rausch
+266265	Rasende Umarmung
 413044	Dunkle Echos
 265487	Schattenblitzsalve
 265433	Verkümmernder Fluch

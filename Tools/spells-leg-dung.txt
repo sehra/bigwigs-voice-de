@@ -405,7 +405,9 @@
 ; -------------------------------------
 
 ; Boss: Trash
+183407	Säuretropfen
 183465	Klebrige Galle
+226388	Ranziger Schlamm
 202181	Steinblick
 226296	Stechende Splitter
 193505	Bruch
@@ -418,14 +420,17 @@
 183548	Wurmruf
 193803	Metamorphose
 183539	Dornenzunge
+188587	Kohlhaut
+200154	Brennender Hass
 193585	Gebunden
 226406	Gluthieb
 201983	Raserei
 
 ; Boss: Rokmora
-188169	Klingensplitter
 188114	Zertrümmern
 192800	Erstickender Staub
+188169	Klingensplitter
+198024	Kristalliner Boden
 
 ; Boss: Ularogg Cragshaper
 198564	Haltung des Berges
@@ -448,7 +453,7 @@
 200404	Magmawelle
 200551	Kristallstacheln
 216407	Lavageysir
-200154	Brennender Hass
+;200154	Brennender Hass
 200672	Kristall gesprungen
 
 

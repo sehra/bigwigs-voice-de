@@ -74,12 +74,16 @@
 367500	Abscheuliches Gackern
 382555	Wutsturm
 372711	Verderbnisinfusion
+384854	Fischklatscher!
+384847	Frischer Fang
+374245	Faulender Bach
 373897	Verrottende Wurzeln
 373943	Stampfen
 382712	Nekrotischer Hauch
 374057	Totem beschwören
 374544	Ausbruch des Verfalls
 374569	Platzen
+372141	Siecht dahin!
 373929	Hieb
 388060	Stinkatem
 388046	Heftiger Wirbelwind
@@ -107,6 +111,7 @@
 376811	Fäulnisfontäne
 377859	Infektiöse Spucke
 377559	Rankenpeitsche
+378054	Siecht dahin!
 383875	Halb verdaut
 390968	Hungrige Raserei
 
@@ -116,6 +121,7 @@
 384416	Fleischwurf
 384633	Ruf der Herrin
 384353	Bauchschuss
+384577	Lähmender Biss
 
 ; Boss: Decatriarch Wratheye
 373960	Verfallende Stärke
@@ -131,7 +137,6 @@
 ; Boss: Trash
 391241	Begrenzte Unsterblichkeit
 391471	Reinigende Sporen
-374080	Wuchtige Böe
 374073	Seismischer Schlag
 374045	Ausstoßen
 374339	Demoralisierender Ruf
@@ -147,12 +152,8 @@
 375384	Bebende Erde
 385141	Gewitter
 376171	Erfrischende Gezeiten
-375348	Böiger Atem
-391610	Fesselnde Winde
 375351	Ozeanischer Atem
 391634	Packende Kälte
-375327	Tektonischer Atem
-391613	Schleichender Schimmelpilz
 377341	Gezeitendivergenz
 377402	Aquatische Barriere
 390290	Schnellflutung
@@ -192,22 +193,28 @@
 ; -------------------------------------
 
 ; Boss: Trash
+374451	Brennende Kette
 382708	Vulkanische Wache
 384597	Lodernder Schnitt
 372561	Bindender Speer
 395427	Brennendes Brüllen
 376186	Eruptionsschmettern
+372461	Erfülltes Magma
 372311	Magmafaust
 372223	Heilender Lehm
 372201	Versengender Odem
 384161	Partikel des Einäscherns
+372225	Drachenknochenaxt
 379406	Lava werfen
 372296	Feuersbrunstbatterie
 373084	Versengende Feuersalve
+372971	Hallendes Schmettern
 376200	Lohende Detonation
 378827	Explosives Gemisch
 378282	Geschmolzener Kern
+378818	Magmafeuersbrunst
 381663	Gleißender Sturm
+382791	Geschmolzene Barriere
 383651	Geschmolzene Armee
 
 ; Boss: Chargath, Bane of Scales
@@ -229,6 +236,7 @@
 375068	Magmawurf
 375251	Lavafontäne
 375439	Brennender Ansturm
+375535	Lavawelle
 391457	Lavaermächtigung
 
 ; Boss: Warlord Sargha
@@ -410,11 +418,16 @@
 386104	Tyrs verlorener Foliant
 375500	Zeitschloss
 369811	Brutales Zerschmettern
+369675	Kettenblitzschlag
 369823	Stachelpanzer
+377732	Gezackter Biss
+377738	Uralte Macht
+377724	Systemverwundbarkeit
+369409	Spalten
+369465	Steinhagel
 369400	Irdener Schutz
 369365	Fluch des Steins
 369366	In Stein gefangen
-369465	Steinhagel
 369335	Zerklüftendes Schmettern
 369337	Schwieriges Terrain
 369328	Erdbeben
@@ -437,7 +450,7 @@
 369700	Totem des Bebens
 369754	Kampfrausch
 369703	Donnerndes Stampfen
-369675	Kettenblitzschlag
+;369675	Kettenblitzschlag
 369660	Beben
 
 ; Boss: Sentinel Talondras
@@ -459,5 +472,104 @@
 376049	Flügelstoß
 377405	Zeitfresser
 375727	Sandatem
+
+
+; -------------------------------------
+; Zone: Dawn of The Infinite
+; -------------------------------------
+
+; Boss: Trash
+411994	Zeitschmelze
+412012	Temposchlitzen
+412063	Zeitreißen
+415769	Chronoexplosion
+415770	Ewige Blitzsalve
+415773	Temporaldetonation
+415437	Manaschwäche
+413529	Bereinigen
+413544	Erblühen
+413621	Zeitloser Fluch
+413622	Unendlicher Zorn
+412806	Seuchenspeier
+413607	Ätzende Salve
+412215	Verhüllender Sandsturm
+412922	Fesselnder Griff
+412129	Kugel des Nachsinnens
+412136	Temporalstoß
+413024	Titanisches Bollwerk
+417481	Chronosequenz versetzen
+419351	Bronzeausatmung
+418200	Ewiges Verbrennen
+419516	Chronoeruption
+419511	Temporalverbindung
+407535	Goblinpioniere absetzen
+407205	Instabiler Mörser
+407891	Welle der Heilung
+407124	Sammelruf
+407125	Zerreißendes Schmettern
+412378	Schwindelerregende Sande
+
+; Boss: Chronikar
+413105	Äonenerschütterung
+413013	Chronoabscheren
+401421	Sandstampfen
+
+; Boss: Manifested Timeways
+405696	Chronoverblasst
+405431	Fragmente der Zeit
+414303	Entkoppeln
+414307	Strahlend
+
+; Boss: Blight of Galakrond
+406886	Zersetzende Infusion
+407406	Korrosion
+418346	Verderbter Verstand
+407159	Seuchenrückgewinnung
+407147	Seuchensickern
+407978	Nekrotische Winde
+408029	Nekrofrost
+408141	Einäschernder Faulatem
+
+; Boss: Iridikron the Stonescaled
+409261	Ausrottungsschlag
+414535	Steinbrecherbeschuss
+409456	Erdwoge
+409635	Pulverisierendes Ausatmen
+414184	Kataklysmische Auslöschung
+
+; Boss: Tyr, the Infinite Keeper
+401248	Titanischer Schlag
+401482	Ewige Vernichtung
+400641	Separationsschlag
+408183	Titanische Ermächtigung
+400681	Funke von Tyr
+400642	Schwurstein anzapfen
+406543	Gestohlene Zeit
+
+; Boss: Morchie
+404916	Sandböe
+403891	Mehr Probleme!
+404364	Drachenodem
+405279	Bekannte Gesichter
+406481	Zeitfallen
+401667	Zeitstasis
+
+; Boss: Time-Lost Battlefield
+410234	Klingensturm
+418059	Tödliche Stöße
+418054	Schockwelle
+418047	FÜR DIE ALLIANZ!
+418062	Schlachtruf
+410254	Enthaupten
+408227	Schockwelle
+418046	FÜR DIE HORDE!
+410496	Kriegsschrei
+
+; Boss: Chrono-Lord Deios
+416152	Ewigen Hüter beschwören
+412027	Chronobrennen
+410904	Ewigenkugel
+416139	Temporalatem
+416264	Ewige Verderbnis
 
 
