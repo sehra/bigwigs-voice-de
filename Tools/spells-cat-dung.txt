@@ -42,7 +42,7 @@
 86911	Instabiles Erdungsfeld
 86930	Souveränität des Sturms
 87622	Kettenblitzschlag
--2434	Himmelssturzstern
+413264	Himmelssturznova
 87618	Statische Aufladung
 
 

@@ -206,7 +206,7 @@
 
 ; Boss: Trash
 408975	Tanzender Stahl
-406282	Traumeruption
+418113	Traumeruption
 406210	Heilblüte
 408811	Reihen schließen
 411439	Zerschlagender Stoß

@@ -504,7 +504,9 @@
 419511	Temporalverbindung
 407535	Goblinpioniere absetzen
 407205	Instabiler Mörser
+418684	Zwergenbomber einsetzen
 407891	Welle der Heilung
+417011	Heiliges Licht
 407124	Sammelruf
 407125	Zerreißendes Schmettern
 412378	Schwindelerregende Sande
