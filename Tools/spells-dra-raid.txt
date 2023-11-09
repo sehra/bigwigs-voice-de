@@ -216,6 +216,8 @@
 411892	Zähe Galle
 411808	Schleimauswurf
 412498	Abgestandene Lache
+409576	Dunkle Bindungen
+409612	Umbralstrom
 
 ; Boss: Kazzara, the Hellforged
 401319	Höllenstahlgemetzel
@@ -366,5 +368,165 @@
 408457	Leerenschlag
 404269	Schwarzmacht
 404769	Leerer Schlag
+
+
+; -------------------------------------
+; Zone: Amirdrassil, the Dream's Hope
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Gnarlroot
+421898	Flammende Pestilenz
+422053	Schattenstacheln
+421972	Kontrolliertes Feuer
+422023	Schattenverbrannte Erde
+424352	Schreckensfeuerbeschuss
+422026	Gepeinigter Schrei
+422039	Schattenflammenspalten
+421038	Glutverkohlt
+424970	Giftlehm
+421840	Entwurzelte Agonie
+425816	Lodernde Pollen
+425820	Flammendes Harz
+
+; Boss: Igira the Cruel
+414340	Getränkte Klingen
+414888	Sengender Speer
+414770	Brandheiße Qual
+416996	Klingendreh
+422776	Für Qualen markiert
+414367	Qualen sammeln
+419462	Fleischnekrose
+419048	Ruinöses Ende
+416048	Umbralzerstörung
+424456	Eingeweide zerschmettern
+415623	Herzstopper
+426056	Lebensriss
+
+; Boss: Volcoross
+421082	Höllenbrodeln
+421672	Schlangenfuror
+421207	Schlängelnde Flammen
+420933	Flut der Feuerlande
+421616	Vulkanisches Gewölle
+420415	Sengschweifsturz
+423494	Gezeitenlohe
+419054	Geschmolzenes Toxin
+423117	Kataklysmuskiefer
+421703	Schlangenzorn
+424218	Verbrennender Zorn
+
+; Boss: Council of Dreams
+418187	Wiedergeburt
+420525	Blinde Wut
+425114	Bärenwut
+420948	Unkontrollierter Ansturm
+423420	Unkontrollierter Ansturm
+421022	Peinigende Klauen
+421570	Sprung
+421292	Fesselndes Dickicht
+420937	Unerbittliches Sperrfeuer
+420671	Giftige Blüte
+426390	Ätzende Pollen
+420858	Giftiger Wurfspeer
+421029	Lied des Drachen
+421032	Hinreißendes Finale
+418720	Verwandlungsbombe
+421024	Smaragdwinde
+423551	Launische Böe
+
+; Boss: Larodar, Keeper of the Flame
+417653	Feurige Naturgewalt
+418520	Brandheiße Splitter
+426524	Feurige Pirouette
+422614	Versengende Wurzeln
+420544	Sengende Verfolgung
+426387	Versengender Stacheldorn
+418637	Wütender Ansturm
+423719	Zorn der Natur
+426206	Lodernde Dornen
+426249	Lodernde Vereinigung
+426256	Lodernde Vereinigung
+417634	Flammendes Inferno
+417632	Brennender Boden
+421316	Verzehrende Flamme
+427252	Fallende Glut
+427299	Entfachung
+427306	In Asche eingeschlossen
+427343	Feuerwirbel
+421318	Qualmende Pyrolyse
+421594	Qualmendes Ersticken
+421325	Ascheruf
+421407	Sengende Asche
+
+; Boss: Nymue, Weaver of the Cycle
+420554	Grüne Matrix
+423195	Infloreszenz
+420846	Kontinuum
+429615	Bedrohlicher Webrahmen
+420907	Viridianregen
+426519	Last der Weberin
+426855	In voller Blüte
+429108	Schwerfälliges Schmettern
+425370	Hexenring
+
+; Boss: Smolderon
+421343	Brandmal der Verdammnis
+421656	Wunde kauterisieren
+422577	Sengendes Nachspiel
+421455	Überhitzt
+421969	Flammenwellen
+422691	Lavageysire
+421532	Schwelender Boden
+426725	Bevorstehende Zerstörung
+422277	Essenz verschlingen
+421858	Entfachte Essenz
+422172	Welt in Flammen
+425885	Suchendes Inferno
+
+; Boss: Tindral Sageswift, Seer of the Flame
+422000	Sengende Rache
+423260	Lodernder Pilz
+424581	Feuriges Wachstum
+424499	Sengender Boden
+420236	Sternschnuppe
+422503	Sternfragmente
+424495	Massenumschlingung
+420540	Inkarnation: Mondkin
+421398	Feuerstrahl
+424258	Traumessenz
+422509	Machterfüllte Feder
+421939	Sengende Daune
+424140	Supernova
+422115	Inkarnation: Baum der Flamme
+424579	Unterdrückende Glut
+423265	Flammende Verschmelzung
+424665	Saat der Flamme
+422325	Flammender Baum
+424582	Haftende Asche
+
+; Boss: Fyrakk the Blazing
+419506	Feuersturm
+419504	Tobende Flammen
+420422	Lauffeuer
+417455	Traumreißen
+425483	Verbrannt
+414186	Lohe
+417807	In Flammen
+417431	Fyr'alaths Biss
+417443	Fyr'alaths Mal
+419144	Verderben
+410223	Schattenflammenatem
+412761	Inkarnation
+421937	Schattenflammenkugeln
+429866	Schattenflammeneruption
+422518	Großer Feuersturm
+419123	Flammenfall
+422524	Schattenflammenverwüstung
+423717	Blüte
+422935	Ewiger Feuersturm
+422837	Apokalyptisches Brüllen
+425492	Höllenbestienschlund
 
 

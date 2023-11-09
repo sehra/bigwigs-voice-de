@@ -63,23 +63,30 @@
 ; -------------------------------------
 
 ; Boss: Trash
-200248	Arkaner Blitz
-200261	Knochenbrechender Schlag
-197974	Knochenzerschmetternder Schlag
-214003	Gnadenstoß
-200343	Pfeilsalve
-200291	Messertanz
+200084	Seelenklinge
+200105	Seele opfern
 225573	Dunkle Besserung
+194966	Seelenechos
+196916	Glevenwurf
+225908	Seelengift
+200261	Knochenbrechender Schlag
+200291	Messertanz
+200343	Pfeilsalve
+200248	Arkaner Blitz
+200913	Verdauungsstörung
+204896	Blutsauger
 203163	Fasst, Fledermäuse!
 227913	Teufelsraserei
+214003	Gnadenstoß
+214001	Sturzflug des Raben
 
 ; Boss: The Amalgam of Souls
-196078	Seelen rufen
 194956	Seele ernten
-196587	Seelenbersten
-194966	Seelenechos
 195254	Wirbelnde Sense
+;194966	Seelenechos
+196078	Seelen rufen
 196930	Seelensättigung
+196587	Seelenbersten
 
 ; Boss: Illysanna Ravencrest
 197418	Rachsüchtiges Scheren
@@ -87,22 +94,23 @@
 197546	Brutale Gleve
 197696	Augenstrahlen
 197797	Arkaner Blitz
-;197974	Knochenzerschmetternder Schlag
+197974	Knochenzerschmetternder Schlag
 
 ; Boss: Smashspite the Hateful
 198073	Erderschütterndes Stampfen
-198245	Brutaler Schwinger
 198079	Hasserfüllter Blick
+224188	Hasserfüllter Ansturm
+198245	Brutaler Schwinger
 198446	Teufelssputum
 
 ; Boss: Lord Kur'talos Ravencrest
 198635	Unfehlbares Scheren
-198820	Dunkler Schlag
 198641	Wirbelnde Klinge
-199193	Arglist des Schreckenslords
-202019	Schattenblitzsalve
+198820	Dunkler Schlag
 201733	Stechender Schwarm
 199143	Hypnosewolke
+199193	Arglist des Schreckenslords
+202019	Schattenblitzsalve
 
 
 ; -------------------------------------
@@ -218,37 +226,51 @@
 ; -------------------------------------
 
 ; Boss: Trash
+200630	Zermürbendes Kreischen
 200658	Sternenschauer
 200684	Alptraumtoxin
 200768	Treibender Ansturm
 200580	Unerträgliches Brüllen
 218759	Verderbnislache
+201129	Wurzeleruption
+198904	Giftspeer
+198910	Übler Pilz
+204243	Quälendes Auge
+204246	Quälende Furcht
 201226	Blutattacke
 201272	Blutbombe
 225562	Blutmetamorphose
+201839	Fluch der Verstoßung
 201399	Schreckensinferno
+201365	Entzug der Dunkelseele
 
 ; Boss: Archdruid Glaidalis
 198379	Urzeitliche Raserei
-198408	Einbruch der Nacht
+212464	Einbruch der Nacht
+196354	Schmerzhafter Sprung
 196376	Schmerzhafter Riss
+198477	Fixieren
 
 ; Boss: Oakheart
-204646	Zerquetschender Griff
+204611	Zerquetschender Griff
+212786	Entwurzeln
 204574	Würgewurzeln
 204667	Alptraumatem
 204666	Zerschmetterte Erde
 
 ; Boss: Dresaron
+191325	Odem der Verderbnis
+199389	Erderschütterndes Gebrüll
 199345	Abwind
 199460	Fallende Steine
-191325	Odem der Verderbnis
 
 ; Boss: Shade of Xavius
-200050	Apokalyptischer Alptraum
-200289	Wachsende Paranoia
-200185	Alptraumblitz
+200182	Eiterschlitzer
 200238	Die Schwachen aussaugen
+200185	Alptraumblitz
+200243	Wandelnder Alptraum
+200289	Wachsende Paranoia
+200050	Apokalyptischer Alptraum
 
 
 ; -------------------------------------
@@ -443,8 +465,9 @@
 210150	Toxinauswurf
 199178	Hakenzunge
 199775	Raserei
--12527	Frommer Wurmflüsterer
+199817	Diener rufen
 199246	Unersättlich
+198963	Eitriger Himmel
 
 ; Boss: Dargrul the Underking
 200700	Erdrutsch

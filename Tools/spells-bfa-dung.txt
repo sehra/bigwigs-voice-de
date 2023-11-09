@@ -15,23 +15,27 @@
 253544	Bwonsamdis Mantel
 253517	Heilendes Wort
 253583	Feurige Verzauberung
+255626	Eitrige Eruption
 
 ; Boss: Priestess Alun'za
 255558	Unreines Blut
 255577	Transfusion
 255579	Vergoldete Krallen
 255582	Geschmolzenes Gold
-258709	Verderbtes Gold
+277072	Verderbtes Gold
+259205	Geist des Goldes
 
 ; Boss: Vol'kaal
 250258	Toxischer Sprung
 259572	Toxischer Gestank
+259531	Wiederbeleben
 250241	Rapider Verfall
 250585	Toxische Lache
 
 ; Boss: Rezan
 255371	Furchterregende Fratze
 257407	Verfolgung
+255421	Verschlingen
 255434	Sägezähne
 
 ; Boss: Yazma
@@ -73,6 +77,7 @@
 
 ; Boss: Skycap'n Kragg
 255952	Klar zum Entern
+256056	Papagei beschwören
 256005	Übles Bombardement
 256016	Übler Überzug
 272046	Sturzbombe
@@ -589,41 +594,45 @@
 ; -------------------------------------
 
 ; Boss: Trash
-265407	Laute Glocke
-271174	Würgen
-264456	Zielsuchender Sprengsatz
 263943	Ätzen
 263905	Markierendes Spalten
+265368	Beherzte Verteidigung
+265372	Schattenspalten
+266036	Essenz entziehen
+265352	Krötenplage
+265346	Bleiches Starren
 263891	Greifende Dornen
-264525	Schrapnellfalle
-264520	Trennende Schlange
-265759	Splitterstachel
-265760	Dornensperrfeuer
-265741	Seelenessenz entziehen
+264396	Spektraltalisman
+264390	Zauberbinden
 264050	Infizierter Dorn
 278474	Bildnisrekonstruktion
 264038	Entwurzeln
 264556	Reißender Schlag
 264150	Zertrümmern
-265352	Krötenplage
-265346	Bleiches Starren
-263959	Seelensalve
-263961	Schutzkerzen
-265368	Beherzte Verteidigung
-264396	Spektraltalisman
-264390	Zauberbinden
+265759	Splitterstachel
+265760	Dornensperrfeuer
+265741	Seelenessenz entziehen
+278444	Infizieren
+271174	Würgen
+265407	Laute Glocke
+264456	Zielsuchender Sprengsatz
+264525	Schrapnellfalle
+264520	Trennende Schlange
+264407	Schreckliche Fratze
 264105	Runenmal
 265876	Zermürbende Salve
 265880	Schreckensmal
 265881	Verrottende Berührung
+263959	Seelensalve
+263961	Schutzkerzen
 
 ; Boss: Heartsbane Triad
-260805	Fokussierungsiris
-260773	Übles Ritual
-260907	Seelenmanipulation
+260741	Spitze Nesseln
 260703	Instabiles Runenmal
 268086	Aura des Schreckens
-260741	Spitze Nesseln
+260907	Seelenmanipulation
+260805	Fokussierungsiris
+260773	Übles Ritual
 
 ; Boss: Soulbound Goliath
 260508	Zermalmen
@@ -635,7 +644,7 @@
 ; Boss: Raal the Gluttonous
 264734	Alles verschlingen
 264931	Bediensteten herbeirufen
-265005	Verschlungener Diener
+265005	Wohlgenährt
 264923	Weichklopfen
 264694	Fauliger Ausstoß
 

@@ -46,3 +46,31 @@
 87618	Statische Aufladung
 
 
+; -------------------------------------
+; Zone: Throne of the Tides
+; -------------------------------------
+
+; Boss: Trash
+76820	Verhexen
+76813	Welle der Heilung
+75992	Blitzschlagwoge
+76590	Schattenschmettern
+76634	Seegang
+
+; Boss: Lady Naz'jar
+75683	Hochwasser
+
+; Boss: Commander Ulthok, the Festering Prince
+76047	Dunkler Spalt
+76026	Quetschen
+76094	Fluch der Ermüdung
+76100	Wutanfall
+
+; Boss: Mindbender Ghur'sha
+76207	Versklaven
+76307	Magie absorbieren
+76230	Gedankennebel
+
+; Boss: Ozumat
+
+

@@ -138,3 +138,49 @@
 154469	Knochenritual
 
 
+; -------------------------------------
+; Zone: The Everbloom
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Witherbark
+164275	Brüchige Rinde
+164438	Energetisieren
+164357	Trockenes Keuchen
+164294	Ungezügeltes Gewächs
+-10098	Ungezügeltes Gewächs
+
+; Boss: Ancient Protectors
+168082	Revitalisieren
+168105	Reißende Fluten
+168041	Dornenhaut
+167977	Dornendickicht
+168383	Schlitzen
+168520	Stärke der Former
+
+; Boss: Archmage Sol
+168885	Parasitäres Wachstum
+166492	Feuerblüte
+166726	Gefrorener Regen
+
+; Boss: Xeri'tac
+172643	Abstieg
+169376	Giftiger Stich
+169382	Gassalve
+169248	Verschlingen
+-10502	Giftsüchtiger Fahler
+169233	Einatmen
+-10492	Giftspinnling
+173080	Fixieren
+
+; Boss: Yalnu
+169179	Kolossaler Schlag
+169120	Brunnen des Lebens
+169613	Genesis
+169240	Rankenwuchs
+170132	Rankenwuchs
+169878	Giftiger Atem
+169929	Schwerfälliger Schwinger
+
+

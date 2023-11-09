@@ -463,6 +463,7 @@
 ; Boss: Emberon
 368990	Läuternde Flammen
 369043	Infusion
+369038	Titanischer Schutz
 369110	Instabile Funken
 369061	Sengender Knall
 
@@ -500,19 +501,24 @@
 417481	Chronosequenz versetzen
 419351	Bronzeausatmung
 418200	Ewiges Verbrennen
+411300	Fischblitzsalve
+412156	Bomberangriff
+412200	Elektrogeladener Gigaschlag
 419516	Chronoeruption
 419511	Temporalverbindung
 407535	Goblinpioniere absetzen
 407205	Instabiler Mörser
 418684	Zwergenbomber einsetzen
 407891	Welle der Heilung
+407906	Erdbeben
 417011	Heiliges Licht
+417002	Weihe
 407124	Sammelruf
 407125	Zerreißendes Schmettern
 412378	Schwindelerregende Sande
 
 ; Boss: Chronikar
-413105	Äonenerschütterung
+413142	Äonenerschütterung
 413013	Chronoabscheren
 401421	Sandstampfen
 
@@ -555,22 +561,22 @@
 405279	Bekannte Gesichter
 406481	Zeitfallen
 401667	Zeitstasis
+401200	Fixieren
 
 ; Boss: Time-Lost Battlefield
-410234	Klingensturm
+410235	Klingensturm
 418059	Tödliche Stöße
 418054	Schockwelle
 418047	FÜR DIE ALLIANZ!
-418062	Schlachtruf
 410254	Enthaupten
 408227	Schockwelle
 418046	FÜR DIE HORDE!
-410496	Kriegsschrei
 
 ; Boss: Chrono-Lord Deios
 416152	Ewigen Hüter beschwören
 412027	Chronobrennen
 410904	Ewigenkugel
+410908	Ewigennova
 416139	Temporalatem
 416264	Ewige Verderbnis
 
