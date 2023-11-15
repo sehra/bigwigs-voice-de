@@ -520,7 +520,6 @@
 232153	Kara Kazham!
 
 ; Boss: Maiden of Virtue
-227817	Heiliges Bollwerk
 227823	Heiliger Zorn
 227800	Heiliger Schock
 227809	Heiliger Blitz

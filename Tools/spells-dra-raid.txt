@@ -104,7 +104,6 @@
 
 ; Boss: Kurog Grimtotem
 371981	Elementarwoge
-374861	Urverschiebung
 372158	Zerschlagender Stoß
 382563	Magmaexplosion
 373329	Geschmolzene Eruption
@@ -326,7 +325,6 @@
 401998	Verhängnisvoller Stoß
 402902	Entstellte Erde
 402115	Hallender Spalt
-403057	Sich der Verderbnis hingeben
 401010	Verderbnis
 407036	In der Leere verborgen
 405433	Schattenhafte Auslöschung
@@ -517,7 +515,6 @@
 417431	Fyr'alaths Biss
 417443	Fyr'alaths Mal
 419144	Verderben
-410223	Schattenflammenatem
 412761	Inkarnation
 421937	Schattenflammenkugeln
 429866	Schattenflammeneruption
@@ -525,8 +522,8 @@
 419123	Flammenfall
 422524	Schattenflammenverwüstung
 423717	Blüte
-422935	Ewiger Feuersturm
 422837	Apokalyptisches Brüllen
+410223	Schattenflammenatem
 425492	Höllenbestienschlund
 
 

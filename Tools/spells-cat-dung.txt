@@ -53,24 +53,44 @@
 ; Boss: Trash
 76820	Verhexen
 76813	Welle der Heilung
+426663	Unersättliche Verfolgung
+426741	Hüllenbrecher
+428542	Erdrückende Tiefen
+426684	Flüchtiger Blitz
+426645	Säuresperrfeuer
 75992	Blitzschlagwoge
+426783	Gedankenschinden
+426808	Nullschlag
 76590	Schattenschmettern
+429021	Zermalmen
 76634	Seegang
 
 ; Boss: Lady Naz'jar
 75683	Hochwasser
+428054	Schockschlag
+427771	Geysire
+428374	Fokussierter Sturm
+428263	Wasserblitz
+428293	Dreizackwirbel
 
 ; Boss: Commander Ulthok, the Festering Prince
-76047	Dunkler Spalt
-76026	Quetschen
-76094	Fluch der Ermüdung
-76100	Wutanfall
+427672	Blubbernder Felsspalt
+427456	Schlamm erwecken
+427668	Eiternde Schockwelle
+427670	Schmetternde Klaue
 
 ; Boss: Mindbender Ghur'sha
-76207	Versklaven
-76307	Magie absorbieren
-76230	Gedankennebel
+429051	Erdenwut
+429037	Sturmhageltotem
+429048	Flammenschock
+429172	Beängstigende Vision
 
 ; Boss: Ozumat
+428407	Tintensalve
+428868	Eitriges Brüllen
+428530	Düsterspucke
+428889	Fauliger Blitz
+428668	Läuternder Flux
+428594	Flut des Unrats
 
 
