@@ -395,7 +395,6 @@
 416996	Klingendreh
 422776	Für Qualen markiert
 414367	Qualen sammeln
-419462	Fleischnekrose
 419048	Ruinöses Ende
 416048	Umbralzerstörung
 424456	Eingeweide zerschmettern
@@ -420,16 +419,16 @@
 420525	Blinde Wut
 425114	Bärenwut
 420948	Unkontrollierter Ansturm
-423420	Unkontrollierter Ansturm
 421022	Peinigende Klauen
-421570	Sprung
 421292	Fesselndes Dickicht
 420937	Unerbittliches Sperrfeuer
+421570	Sprung
 420671	Giftige Blüte
 426390	Ätzende Pollen
 420858	Giftiger Wurfspeer
 421029	Lied des Drachen
 421032	Hinreißendes Finale
+421501	Blinzeln
 418720	Verwandlungsbombe
 421024	Smaragdwinde
 423551	Launische Böe
@@ -445,29 +444,32 @@
 423719	Zorn der Natur
 426206	Lodernde Dornen
 426249	Lodernde Vereinigung
-426256	Lodernde Vereinigung
 417634	Flammendes Inferno
 417632	Brennender Boden
+425889	Entfachendes Gewächs
+429032	Ewiger Brand
 421316	Verzehrende Flamme
 427252	Fallende Glut
 427299	Entfachung
 427306	In Asche eingeschlossen
 427343	Feuerwirbel
-421318	Qualmende Pyrolyse
+429973	Qualmende Pyrolyse
 421594	Qualmendes Ersticken
 421325	Ascheruf
 421407	Sengende Asche
+428896	Aschene Verwüstung
 
 ; Boss: Nymue, Weaver of the Cycle
 420554	Grüne Matrix
-423195	Infloreszenz
 420846	Kontinuum
 429615	Bedrohlicher Webrahmen
 420907	Viridianregen
-426519	Last der Weberin
+427722	Last der Weberin
 426855	In voller Blüte
+413443	Lebensschutz
 429108	Schwerfälliges Schmettern
-425370	Hexenring
+422721	Hexenring
+429798	Tiefgrünes Verwunden
 
 ; Boss: Smolderon
 421343	Brandmal der Verdammnis
@@ -481,6 +483,7 @@
 422277	Essenz verschlingen
 421858	Entfachte Essenz
 422172	Welt in Flammen
+423896	Aufwärmen
 425885	Suchendes Inferno
 
 ; Boss: Tindral Sageswift, Seer of the Flame
@@ -515,13 +518,14 @@
 417431	Fyr'alaths Biss
 417443	Fyr'alaths Mal
 419144	Verderben
-412761	Inkarnation
-421937	Schattenflammenkugeln
 429866	Schattenflammeneruption
+422032	Geister der Kaldorei
 422518	Großer Feuersturm
-419123	Flammenfall
+412761	Inkarnation
 422524	Schattenflammenverwüstung
+419123	Flammenfall
 423717	Blüte
+422935	Ewiger Feuersturm
 422837	Apokalyptisches Brüllen
 410223	Schattenflammenatem
 425492	Höllenbestienschlund
