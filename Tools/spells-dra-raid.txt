@@ -29,6 +29,12 @@
 391026	Tieffrieren
 389960	Bindungseis
 
+; Boss: Aurostor, The Hibernator
+420895	Benebelter Hieb
+420925	Pulverisierender Ausbruch
+421059	Launischer Wutanfall
+421260	Einschläferndes Brüllen
+
 
 ; -------------------------------------
 ; Zone: Vault of the Incarnates
@@ -463,6 +469,8 @@
 420554	Grüne Matrix
 420846	Kontinuum
 429615	Bedrohlicher Webrahmen
+429983	Schwellendes Gewächs
+430563	Ephemeral Flora
 420907	Viridianregen
 427722	Last der Weberin
 426855	In voller Blüte
@@ -470,6 +478,8 @@
 429108	Schwerfälliges Schmettern
 422721	Hexenring
 429798	Tiefgrünes Verwunden
+-28482	Manifested Dream
+428471	Erweckende Dezimierung
 
 ; Boss: Smolderon
 421343	Brandmal der Verdammnis

@@ -73,6 +73,7 @@
 200291	Messertanz
 200343	Pfeilsalve
 200248	Arkaner Blitz
+200784	Uralten Trank "trinken"
 200913	Verdauungsstörung
 204896	Blutsauger
 203163	Fasst, Fledermäuse!

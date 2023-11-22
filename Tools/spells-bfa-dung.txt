@@ -7,9 +7,11 @@
 ; Boss: Trash
 255041	Schreckliches Kreischen
 255567	Rasender Ansturm
+256882	Wildes Hauen
 253721	Bollwerk des Juju
 252781	Instabile Verhexung
 256849	Resauration
+253239	Gnadenloser Ansturm
 260666	Transfusion
 252687	Giftzahnschlitzer
 253544	Bwonsamdis Mantel
@@ -40,9 +42,9 @@
 
 ; Boss: Yazma
 259187	Seelenzerfetzer
-250096	Zermürbender Schmerz
 250050	Echos von Shadra
 250036	Schattenhafte Überreste
+250096	Zermürbender Schmerz
 249919	Aufspießen
 
 
