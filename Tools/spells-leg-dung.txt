@@ -229,6 +229,7 @@
 ; Boss: Trash
 200630	Zermürbendes Kreischen
 200658	Sternenschauer
+200642	Verzweiflung
 200684	Alptraumtoxin
 200768	Treibender Ansturm
 200580	Unerträgliches Brüllen

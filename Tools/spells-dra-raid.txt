@@ -506,6 +506,7 @@
 424495	Massenumschlingung
 420540	Inkarnation: Mondkin
 421398	Feuerstrahl
+421636	Taifun
 424258	Traumessenz
 422509	Machterfüllte Feder
 421939	Sengende Daune
@@ -515,9 +516,13 @@
 423265	Flammende Verschmelzung
 424665	Saat der Flamme
 422325	Flammender Baum
+425576	Leuchtbombe
+425606	Ermächtigte Flamme
 424582	Haftende Asche
+430583	Germinating Aura
 
 ; Boss: Fyrakk the Blazing
+429872	Amirdrassil brennt
 419506	Feuersturm
 419504	Tobende Flammen
 420422	Lauffeuer
