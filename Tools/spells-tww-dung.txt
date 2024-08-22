@@ -1,0 +1,370 @@
+; Type: The War Within Dungeon
+
+; -------------------------------------
+; Zone: Ara-Kara, City of Echoes
+; -------------------------------------
+
+; Boss: Trash
+439208	Fangnetz
+438622	Toxischer Platzer
+434793	Resonierendes Sperrfeuer
+434824	Gespinstschauer
+434802	Entsetzliches Gellen
+438877	Ruf der Brut
+438826	Giftige Wolke
+453161	Durchbohren
+448248	Abstoßende Salve
+433845	Hervorbrechende Gespinste
+433841	Giftsalve
+434252	Massives Schmettern
+
+; Boss: Avanoxx
+438471	Gieriger Biss
+438476	Alarmschrei
+438473	Gespinstschleuder
+446794	Unersättlich
+
+; Boss: Anub'zekt
+435012	Durchbohren
+439506	Bodensturm
+433740	Befall
+433766	Auge des Schwarms
+442210	Seidenfesseln
+
+; Boss: Ki'katal the Harvester
+432117	Kosmische Singularität
+432031	Greifendes Blut
+432130	Hervorbrechende Gespinste
+432227	Giftsalve
+461487	Kultivierte Gifte
+
+
+; -------------------------------------
+; Zone: Cinderbrew Meadery
+; -------------------------------------
+
+; Boss: Trash
+437721	Siedende Flammen
+437956	Ausbrechendes Inferno
+434761	Mächtiges Stampfen
+434706	Glutbräuwurf
+434998	Fleischflugkörper
+463206	Weichklopfen
+441627	Verjüngender Honig
+441434	Missglückte Ladung
+448619	Tollkühne Zustellung
+441119	Bienenrakete
+442589	Bienenwachs
+442995	Schwarmüberraschung
+440687	Honigsalve
+440876	Honigregen
+439467	Abwärtstrend
+
+; Boss: Brew Master Aldryr
+442525	Feierstunde
+431895	Glutbräu tragen
+432198	Lodernder Rülpser
+432179	Glutbräu werfen
+432229	Fasshieb
+
+; Boss: I'pa
+439365	Sprudelndes Starkbier
+440147	Einmal vollmachen
+439202	Brennende Gärung
+439031	Bräutaler Aufwärtshaken
+
+; Boss: Benk Buzzbee
+438025	Lieblingsgericht
+439524	Flatternde Flügel
+440134	Honigmarinade
+
+; Boss: Goldie Baronbottom
+435560	Hoch die Tassen!
+435622	Lasst es hageln!
+436644	Brennender Abpraller
+436592	Geldkanone
+
+
+; -------------------------------------
+; Zone: City of Threads
+; -------------------------------------
+
+; Boss: Trash
+443437	Schatten des Zweifels
+443430	Seidenbindung
+443500	Erdspaltung
+450784	Parfümwurf
+451423	Nautilussalve
+441795	Pheromonschleier
+448047	Fangnetz
+451543	Nullschmettern
+452162	Genesungsgespinst
+434137	Giftiger Strahl
+445813	Dunkles Sperrfeuer
+446086	Leerenwelle
+446717	Umbralgespinst
+447271	Bebenschlag
+
+; Boss: Orator Krix'vizk
+434722	Unterjochen
+434779	Terrorisieren
+434829	Lautstarke Indoktrination
+434926	Bleibender Einfluss
+448561	Schatten des Zweifels
+
+; Boss: Fangs of the Queen
+441384	Synergistischer Schritt
+439621	Schattenstreich
+439692	Dämmerbringer
+440218	Eissicheln
+440468	Raureifdolch
+441298	Eisiges Blut
+458741	Zu Eis erstarrt
+
+; Boss: The Coaglamation
+441289	Zähe Dunkelheit
+461842	Triefendes Schmettern
+441395	Dunkler Impuls
+461880	Blutwoge
+
+; Boss: Izo, the Grand Splicer
+439401	Wechselhafte Anomalien
+439341	Spleißung
+437700	Bebenschlag
+438860	Umbralgespinst
+439646	Ausschlussprinzip
+
+
+; -------------------------------------
+; Zone: Darkflame Cleft
+; -------------------------------------
+
+; Boss: Trash
+423501	Wildprügel
+425536	Maulwurfraserei
+440652	Wachswoge
+424322	Explosive Flamme
+426261	Unablässige Flamme
+426295	Feuerleine
+426619	Einhändiger Schwitzkasten
+426260	Pyroverprügeln
+422414	Schattenschmettern
+422541	Lichtsauger
+
+; Boss: Ol' Waxbeard
+422116	Tollkühner Ansturm
+422245	Felsenbrecher
+423693	Köderkerze
+
+; Boss: Blazikon
+421817	Dochtzündlerbeschuss
+424212	Flammen anstacheln
+423109	Entzündendes Inferno
+443835	Lodernde Stürme
+425394	Auslöschender Atemzug
+422700	Auslöschender Windstoß
+
+; Boss: The Candle King
+420659	Unheimliche Formen
+422648	Dunkelflammenspitzhacke
+426145	Paranoider Verstand
+420696	Dunkelflamme werfen
+
+; Boss: The Darkness
+426943	Zunehmende Düsternis
+427157	Dunkelbrut rufen
+427025	Umbralschlitzer
+427015	Schattenschlag
+427176	Lichtsauger
+
+
+; -------------------------------------
+; Zone: Priory of the Sacred Flame
+; -------------------------------------
+
+; Boss: Trash
+435088	Segen der Heiligen Flamme
+448485	Schildschlag
+448492	Donnerknall
+427897	Hitzewelle
+427950	Siegel der Flamme
+429091	Inneres Feuer
+428150	Reflektierender Schild
+424621	Brutaler Schlag
+424423	Hervorschnellender Schlag
+424431	Heiliges Strahlen
+448515	Göttliches Urteil
+427583	Buße
+424420	Glutdetonation
+424462	Glutsturm
+427609	Verstörender Schrei
+427342	Verteidigen
+427356	Große Heilung
+427346	Inneres Feuer
+427484	Flammenstoß
+427601	Lichtexplosion
+444743	Feuerballsalve
+
+; Boss: Captain Dailcry
+424419	Schlachtruf
+447270	Speer schleudern
+424414	Rüstung durchbohren
+447439	Wildes Zerfleischen
+
+; Boss: Baron Braunpyke
+422969	Rachsüchtige Wut
+423015	Schild des Züchtigers
+423051	Brennendes Licht
+423062	Hammer der Reinheit
+
+; Boss: Prioress Murrpray
+423588	Lichtbarriere
+423664	Umarmung des Lichts
+444546	Läutern
+444608	Inneres Feuer
+451605	Heilige Flamme
+
+
+; -------------------------------------
+; Zone: The Dawnbreaker
+; -------------------------------------
+
+; Boss: Trash
+449042	Strahlendes Licht
+431309	Verlangsamende Schatten
+432448	Stygische Saat
+450756	Abyssisches Heulen
+451107	Aufbrechender Kokon
+451091	Arathibombe legen
+451102	Schattenhafter Verfall
+450854	Dunkle Kugel
+451117	Schreckliches Schmettern
+451098	Klebenova
+451097	Seidenpanzer
+431494	Schwarzer Grat
+432520	Umbralbarriere
+432565	Schwarzer Hagel
+431304	Dunkelschollen
+431349	Quälender Ausbruch
+446615	Verstärkung heranführen
+
+; Boss: Speaker Shadowcrown
+451026	Dunkelheit naht
+426735	Brennende Schatten
+425264	Obsidianexplosion
+445996	Kollabierende Finsternis
+453212	Obsidianstrahl
+453140	Kollabierende Nacht
+
+; Boss: Anub'ikkaj
+427001	Schreckliches Schmettern
+426860	Dunkle Kugel
+426787	Schattenhafter Verfall
+452127	Erwachte Schatten
+
+; Boss: Rasha'nan
+434655	Arathibomben
+434407	Walzende Säure
+448888	Ätzspucke
+448213	Spinnweben ausstoßen
+435793	Klebrige Eruption
+449528	Strahlendes Licht
+449332	Wuchernde Schatten
+449734	Ätzende Eruption
+434089	Spinndrüsenstränge
+
+
+; -------------------------------------
+; Zone: The Rookery
+; -------------------------------------
+
+; Boss: Trash
+426893	Begrenzende Leere
+450628	Entropieschild
+427323	Aufgeladenes Bombardement
+427404	Örtlicher Sturm
+427260	Krähenzorn
+430013	Donnerschlag
+427616	Energiegeladenes Sperrfeuer
+423979	Implosion
+430754	Leerenhülle
+430179	Sickernde Verderbnis
+430812	Anziehende Schatten
+443854	Instabilität
+432959	Leerensalve
+432638	Leere befehlen
+432781	Umarmung der Leere
+430288	Erdrückende Dunkelheit
+
+; Boss: Kyrioss
+444123	Blitzstrom
+419870	Blitzspurt
+424148	Kettenblitzschlag
+420739	Instabile Ladung
+
+; Boss: Stormguard Gorren
+424737	Chaotische Verderbnis
+425048	Dunkle Gravitation
+424958	Realität zermalmen
+424797	Chaotische Verwundbarkeit
+
+; Boss: Voidstone Monstrosity
+423305	Nullemporstoßen
+445262	Leerenhülle
+429493	Verderbnis entfesseln
+445457	Auslöschungswelle
+423393	Entropie
+458082	Aufladung des Sturmreiters
+424371	Rache des Sturms
+423839	Geschockt
+
+
+; -------------------------------------
+; Zone: The Stonevault
+; -------------------------------------
+
+; Boss: Trash
+425027	Seismische Welle
+447141	Pulverisierendes Anspringen
+449455	Heulende Furcht
+426308	Leerenansteckung
+426771	Leerenausbruch
+445207	Durchdringendes Geheul
+429545	Zensurausrüstung
+426345	Kristallsalve
+429109	Erneuernde Metalle
+449130	Lavakanone
+449154	Geschmolzener Mörser
+448640	Schildstampede
+429427	Totem der Erderuption
+428879	Stein zerschmettern
+428703	Graniteruption
+
+; Boss: E.D.N.A.
+424795	Lichtbrechender Strahl
+424888	Seismisches Schmettern
+424889	Seismischer Nachhall
+424903	Instabiler Stachel
+424879	Erdzerschmetterer
+
+; Boss: Skarmorak
+422233	Kristallines Schmettern
+423200	Verstärkter Panzer
+423538	Instabiler Sturz
+423572	Instabile Energie
+
+; Boss: Master Machinists
+439577	Zum Schweigen gebrachter Sprecher
+445541	Abluftschächte
+430097	Flüssiges Metall
+428202	Verschrottungslied
+428508	Loderndes Crescendo
+428711	Vulkanhammer
+449167	Lavakanone
+
+; Boss: Void Speaker Eirich
+427461	Leerenverderbnis
+427852	Entropische Abrechnung
+427869	Ungezügelte Leere
+
+

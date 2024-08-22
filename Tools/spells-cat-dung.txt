@@ -83,10 +83,12 @@
 429051	Erdenwut
 429037	Sturmhageltotem
 429048	Flammenschock
+429878	Runter damit
 429172	Beängstigende Vision
 
 ; Boss: Ozumat
 428407	Tintensalve
+428404	Dunkeltinte
 428868	Eitriges Brüllen
 428530	Düsterspucke
 428889	Fauliger Blitz

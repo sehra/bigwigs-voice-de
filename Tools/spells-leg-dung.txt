@@ -108,6 +108,7 @@
 198635	Unfehlbares Scheren
 198641	Wirbelnde Klinge
 198820	Dunkler Schlag
+199368	Vermächtnis der Rabenkrone
 201733	Stechender Schwarm
 199143	Hypnosewolke
 199193	Arglist des Schreckenslords
@@ -304,6 +305,7 @@
 193597	Statische Nova
 193611	Gebündelter Blitz
 193698	Fluch der Hexe
+193682	Sturm herbeilocken
 196610	Monsun
 
 ; Boss: King Deepbeard

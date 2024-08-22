@@ -1,0 +1,179 @@
+; Type: The War Within Raid
+
+; -------------------------------------
+; Zone: Khaz Algar
+; -------------------------------------
+
+; Boss: Kordac, the Dormant Protector
+
+; Boss: Aggregation of Horrors
+
+; Boss: Shurrai, Atrocity of the Undersea
+
+; Boss: Orta, the Broken Mountain
+
+
+; -------------------------------------
+; Zone: Nerub-ar Palace
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Ulgrax the Devourer
+434803	Karnivorenkraftprobe
+440849	Verächtliche Wut
+441452	Pirscherspinnweben
+439419	Pirschernetz
+435136	Giftpeitscher
+435138	Verdauungssäure
+434697	Brutaler Zermalmer
+434705	Weichgeklopft
+445052	Zischender Schwarm
+439037	Ausweiden
+438657	Klobige Eingeweide
+436200	Donnernde Dampfwalze
+443842	Verschlingende Dunkelheit
+440177	Bereit zum Fressen
+438012	Hungerndes Gebrüll
+445123	Bulliger Zusammenstoß
+
+; Boss: The Bloodbound Horror
+444363	Grausiges Auswürgen
+443612	Grausiges Auswürgen
+445570	Ungehörige Seuche
+445936	Sprühender Blutsturz
+459444	Innere Blutung
+442530	Blutspritzer
+443203	Blutroter Regen
+443042	Griff aus den Weiten
+445518	Schwarzblut
+438696	Schwarze Sepsis
+451288	Schwarzes Bollwerk
+452237	Blutgerinnsel
+
+; Boss: Sikran, Captain of the Sureki
+433517	Phasenklingen
+434860	Phasenklingen
+442428	Dezimieren
+459273	Kosmische Splitter
+456420	Zerschmetterndes Fegen
+439511	Schwung des Hauptmanns
+438845	Entblößen
+432969	Phasenvorstoß
+435410	Phasenvorstoß
+439559	Pfeilregen
+
+; Boss: Rasha'nan
+439789	Walzende Säure
+439785	Korrosion
+439787	Ätzende Benommenheit
+439776	Säurepfützen
+455373	Infizierte Ausgeburt
+455287	Infizierter Biss
+439784	Spinndrüsenstränge
+444687	Wilder Angriff
+458067	Wilde Wunde
+439811	Ätzspucke
+452806	Ätzende Eruption
+457877	Säurepanzerung
+439795	Netzbrecher
+439792	Klebrige Eruption
+454989	Einhüllende Gespinste
+
+; Boss: Broodtwister Ovi'nax
+442526	Experimentelle Dosierung
+442660	Experimentelle Dosierung
+442432	Schwarzblut einnehmen
+443274	Instabile Infusion
+442799	Blutiger Überschuss
+450661	Ätzende Reaktion
+446349	Klebriges Netz
+446351	Gespinsteruption
+441362	Instabiles Gebräu
+458212	Nekrotische Wunde
+446700	Giftexplosion
+442250	Fixieren
+442257	Infizieren
+
+; Boss: Nexus-Princess Ky'veza
+436867	Meucheln
+437343	Königinnenmord
+439409	Dunkle Eingeweide
+438245	Zwielichtmassaker
+437620	Netherriss
+439576	Nexusdolche
+440377	Leerenschredder
+440576	Kluftschnittwunde
+435405	Sternlose Nacht
+442277	Ewige Nacht
+
+; Boss: The Silken Court
+438218	Durchbohrender Schlag
+438801	Ruf des Schwarms
+440246	Tollkühner Ansturm
+440178	Tollkühner Einschlag
+440179	Umschlungen
+441791	Grabungseruption
+440504	Durchbohrende Eruption
+449857	Aufgespießt
+438200	Giftblitz
+438656	Giftiger Regen
+439838	Netzbombe
+440001	Bindende Netze
+450045	Spinnnensprung
+450980	Existenz zertrümmern
+460600	Entropischer Beschuss
+438677	Stechender Schwarm
+456245	Stechendes Delirium
+441772	Leerenblitz
+441626	Netzvortex
+450129	Entropische Verwüstung
+441782	Stränge der Realität
+450483	Leerenschritt
+438355	Kataklystische Entropie
+451277	Stachelsturm
+460364	Seismischer Aufruhr
+443068	Stachelausbruch
+442994	Entfesselter Schwarm
+455849	Mal der Paranoia
+460359	Leerendegeneration
+455850	Mal der Wut
+460281	Brennender Zorn
+455863	Mal des Todes
+
+; Boss: Queen Ansurek
+437592	Reaktives Toxin
+451278	Konzentriertes Toxin
+464638	Schäumendes Toxin
+438481	Giftige Wellen
+437078	Säure
+437417	Toxinnova
+441556	Reaktionsdampf
+439814	Seidengrab
+441958	Packende Seide
+440899	Verflüssigen
+437093	Festmahl
+439299	Netzklingen
+447207	Prädation
+447456	Lähmendes Toxin
+447411	Entreißen
+447950	Schattenschlag
+464056	Düstere Berührung
+443403	Düsternis
+448147	Stürzen
+451600	Ausstoßstrahl
+449236	Ätzende Fangzähne
+449986	Aphotische Zwiesprache
+443888	Abyssalinfusion
+455387	Abyssischer Nachhall
+445422	Überschäumende Maßlosigkeit
+445880	Schaumdampf
+444829	Beschwörungen der Königin
+445152	Akolythenessenz
+445021	Nulldetonation
+438976	Königliche Verurteilung
+443325	Infizieren
+443726	Düsterjungtier
+443336	Verschlingen
+
+

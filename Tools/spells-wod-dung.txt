@@ -157,6 +157,7 @@
 427459	Toxischer Flor
 427509	Terrestrische Wut
 427510	Giftiger Ansturm
+427513	Giftige Entladung
 
 ; Boss: Archmage Sol
 427899	Glutblitzsturm

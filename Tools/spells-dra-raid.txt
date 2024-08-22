@@ -401,6 +401,7 @@
 416996	Klingendreh
 422776	Für Qualen markiert
 414367	Qualen sammeln
+419462	Fleischnekrose
 419048	Ruinöses Ende
 416048	Umbralzerstörung
 424456	Eingeweide zerschmettern
@@ -419,6 +420,7 @@
 423117	Kataklysmuskiefer
 421703	Schlangenzorn
 424218	Verbrennender Zorn
+427201	Windende Eruption
 
 ; Boss: Council of Dreams
 418187	Wiedergeburt
@@ -444,12 +446,13 @@
 418520	Brandheiße Splitter
 426524	Feurige Pirouette
 422614	Versengende Wurzeln
-420544	Sengende Verfolgung
+418655	Verkohlte Dornenranken
 426387	Versengender Stacheldorn
 418637	Wütender Ansturm
 423719	Zorn der Natur
 426206	Lodernde Dornen
 426249	Lodernde Vereinigung
+426256	Lodernde Vereinigung
 417634	Flammendes Inferno
 417632	Brennender Boden
 425889	Entfachendes Gewächs
@@ -464,21 +467,22 @@
 421325	Ascheruf
 421407	Sengende Asche
 428896	Aschene Verwüstung
+428946	Aschene Erstickung
 
 ; Boss: Nymue, Weaver of the Cycle
 420554	Grüne Matrix
 420846	Kontinuum
 429615	Bedrohlicher Webrahmen
 429983	Schwellendes Gewächs
-430563	Ephemeral Flora
+426519	Last der Weberin
+430563	Kurzlebige Flora
 420907	Viridianregen
-427722	Last der Weberin
 426855	In voller Blüte
 413443	Lebensschutz
 429108	Schwerfälliges Schmettern
 422721	Hexenring
 429798	Tiefgrünes Verwunden
--28482	Manifested Dream
+-28482	Manifestierter Traum
 428471	Erweckende Dezimierung
 
 ; Boss: Smolderon
@@ -492,11 +496,13 @@
 426725	Bevorstehende Zerstörung
 422277	Essenz verschlingen
 421858	Entfachte Essenz
+421859	Entfachte Essenz
 422172	Welt in Flammen
 423896	Aufwärmen
 425885	Suchendes Inferno
 
 ; Boss: Tindral Sageswift, Seer of the Flame
+427297	Flammenwoge
 422000	Sengende Rache
 423260	Lodernder Pilz
 424581	Feuriges Wachstum
@@ -519,30 +525,41 @@
 425576	Leuchtbombe
 425606	Ermächtigte Flamme
 424582	Haftende Asche
-430583	Germinating Aura
+430583	Keimende Aura
 
 ; Boss: Fyrakk the Blazing
 429872	Amirdrassil brennt
+414186	Lohe
+417807	In Flammen
+417431	Fyr'alaths Biss
+417443	Fyr'alaths Mal
 419506	Feuersturm
 419504	Tobende Flammen
 420422	Lauffeuer
 417455	Traumreißen
 425483	Verbrannt
-414186	Lohe
-417807	In Flammen
-417431	Fyr'alaths Biss
-417443	Fyr'alaths Mal
+430441	Dunkelflammenschemen
+426368	Schwarzfeuerspalt
 419144	Verderben
+421937	Schattenflammenkugeln
 429866	Schattenflammeneruption
+429906	Schattenbund
+429903	Flammengebunden
 422032	Geister der Kaldorei
 422518	Großer Feuersturm
+428963	Geschmolzener Handschuh
+428400	Explodierender Kern
 412761	Inkarnation
 422524	Schattenflammenverwüstung
 419123	Flammenfall
-423717	Blüte
+428970	Schattenkäfig
 422935	Ewiger Feuersturm
 422837	Apokalyptisches Brüllen
 410223	Schattenflammenatem
 425492	Höllenbestienschlund
+423601	Saat von Amirdrassil
+423717	Blüte
+423598	Lodernde Saat
+430048	Verderbte Saat
 
 

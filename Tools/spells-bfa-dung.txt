@@ -347,34 +347,35 @@
 ; -------------------------------------
 
 ; Boss: Trash
-268260	Breitseite
-272874	Trampeln
-275826	Anstachelnder Schrei
-275835	Brennende Giftbeschichtung
+256627	Schlabberklopper
+256640	Brennender Teer
+256957	Wasserdichter Schild
+257170	Wildes Sturmgewitter
+257288	Schweres Schlitzen
+454437	Azeritsprengladung
 272421	Artillerieaufklärer
+268260	Breitseite
+275826	Anstachelnder Schrei
 257169	Erschreckendes Gebrüll
 272711	Schmetterhieb
-272827	Zähflüssiger Sabber
-274569	Belebender Nebel
 272546	Bananenraserei
-257170	Wildes Sturmgewitter
-256957	Wasserdichter Schild
-256627	Schlabberklopper
-257288	Schweres Schlitzen
-257641	Geschmolzene Kugel
-256897	Klammernde Kiefer
-256866	Eisenhinterhalt
-257036	Wilder Sturmangriff
-256640	Brennender Teer
-256673	Feuerbrand
+272571	Erstickendes Wasser
+275835	Brennende Giftbeschichtung
 
 ; Boss: Chopper Redhook
+257459	Am Haken
+257348	Fleischerhaken
+257326	Blutschmettern
+257585	Kanonensperrfeuer
+273721	Schwere Munition
+;257288	Schweres Schlitzen
 
 ; Boss: Dread Captain Lockwood
-272471	Ausweichmanöver
 269029	Alle Mann von Deck!
 273470	Bauchschuss
 268752	Zurückziehen
+463185	Massenbombardement
+463182	Feuriger Abpraller
 268230	Purpurroter Hieb
 ;268260	Breitseite
 268963	Instabile Munition
@@ -387,6 +388,7 @@
 ; Boss: Viq'Goth
 275014	Faule Wasser
 270185	Ruf der Tiefe
+269456	Ausrottung
 269366	Reparieren
 269266	Zerschmettern
 270590	Rumpfbruch
@@ -467,7 +469,6 @@
 269090	Artilleriebeschuss
 263601	Verzweifelte Maßnahmen
 269429	Geladener Schuss
-262412	Energieschild
 263628	Geladene Klaue
 
 ; Boss: Coin-Operated Crowd Pummeler
@@ -607,9 +608,7 @@
 264396	Spektraltalisman
 264390	Zauberbinden
 264050	Infizierter Dorn
-278474	Bildnisrekonstruktion
 264038	Entwurzeln
-264556	Reißender Schlag
 264150	Zertrümmern
 265759	Splitterstachel
 265760	Dornensperrfeuer

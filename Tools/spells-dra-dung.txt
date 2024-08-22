@@ -13,7 +13,6 @@
 388863	Manaleere
 388911	Zertrennendes Schlitzen
 396812	Mystischer Schlag
-388886	Arkaner Regen
 388976	Rissatem
 388984	Heimtückischer Hinterhalt
 388392	Monotone Vorlesung
@@ -54,6 +53,7 @@
 376997	Wildes Picken
 
 ; Boss: Echo of Doragosa
+439488	Energie entfesseln
 389011	Überwältigende Kraft
 388901	Arkaner Riss
 374361	Astralatem
@@ -66,7 +66,6 @@
 ; -------------------------------------
 
 ; Boss: Trash
-382435	Fäulnisrufendes Totem
 367503	Siechende Eruption
 368081	Siechen
 367484	Boshaftes Klauenzerfleischen
@@ -89,8 +88,7 @@
 388046	Heftiger Wirbelwind
 385832	Blutrünstiger Sturmangriff
 385827	Blutzorn
-384974	Duftendes Fleisch
-385058	Welkendes Gift
+384974	Vergammeltes Fleisch
 385029	Kreischen
 383399	Verrottende Woge
 383087	Welkende Ansteckung
@@ -150,7 +148,7 @@
 375079	Wirbelnder Zorn
 374823	Zephyrs Ruf
 375384	Bebende Erde
-385141	Gewitter
+437719	Donnerschlag
 376171	Erfrischende Gezeiten
 375351	Ozeanischer Atem
 391634	Packende Kälte
@@ -273,6 +271,7 @@
 392394	Feuerschlund
 392486	Gewittersturm
 392451	Feuerblitz
+391050	Gewittersturmschild
 
 ; Boss: Melidrussa Chillworn
 373046	Welpen erwecken
@@ -316,6 +315,7 @@
 387067	Arkanhieb
 391118	Zauberfrostatem
 396991	Bestialisches Brüllen
+391136	Schulterschmettern
 
 ; Boss: Leymor
 374364	Leyliniensprosse
@@ -361,7 +361,7 @@
 387127	Kettenblitzschlag
 387125	Donnerschlag
 386028	Donnerknall
-387629	Fauliger Wind
+436841	Fauliger Wind
 387614	Gesang der Toten
 387596	Hurtiger Wind
 387440	Entweihendes Brüllen
@@ -492,22 +492,24 @@
 413621	Zeitloser Fluch
 413622	Unendlicher Zorn
 412806	Seuchenspeier
+411958	Steinblitz
 413607	Ätzende Salve
+412136	Temporalstoß
+413024	Titanisches Bollwerk
 412215	Verhüllender Sandsturm
 412922	Fesselnder Griff
 412129	Kugel des Nachsinnens
-412136	Temporalstoß
-413024	Titanisches Bollwerk
 417481	Chronosequenz versetzen
 419351	Bronzeausatmung
 418200	Ewiges Verbrennen
 411300	Fischblitzsalve
+411407	Blubbernder Beschuss
 412156	Bomberangriff
 412200	Elektrogeladener Gigaschlag
 419516	Chronoeruption
 419511	Temporalverbindung
-407535	Goblinpioniere absetzen
 407205	Instabiler Mörser
+407535	Goblinpioniere absetzen
 418684	Zwergenbomber einsetzen
 407891	Welle der Heilung
 407906	Erdbeben
@@ -516,6 +518,7 @@
 407124	Sammelruf
 407125	Zerreißendes Schmettern
 412378	Schwindelerregende Sande
+411952	Jahrtausendhilfe
 
 ; Boss: Chronikar
 413142	Äonenerschütterung
@@ -543,6 +546,7 @@
 414535	Steinbrecherbeschuss
 409456	Erdwoge
 409635	Pulverisierendes Ausatmen
+409879	Schöpfungen pulverisieren
 414184	Kataklysmische Auslöschung
 
 ; Boss: Tyr, the Infinite Keeper
@@ -579,5 +583,6 @@
 410908	Ewigennova
 416139	Temporalatem
 416264	Ewige Verderbnis
+417413	Temporale Narbe
 
 
