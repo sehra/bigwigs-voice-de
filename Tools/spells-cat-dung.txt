@@ -34,6 +34,7 @@
 ; Boss: Drahga Shadowburner
 448013	Herbeirufung der Schattenflamme
 450095	Fluch der Entropie
+447966	Schattenflammenblitz
 456751	Zwielichtstoß
 448105	Verschlingende Flamme
 82850	Flammendes Fixieren
@@ -43,6 +44,7 @@
 450077	Leerensog
 450088	Leereninfusion
 450100	Zermalmen
+450087	Umklammerung der Tiefe
 448057	Abgrundverderbnis
 
 

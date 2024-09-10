@@ -22,6 +22,8 @@
 438471	Gieriger Biss
 438476	Alarmschrei
 438473	Gespinstschleuder
+434830	Widerliche Spinnweben
+436614	Fangnetz
 446794	Unersättlich
 
 ; Boss: Anub'zekt
@@ -251,6 +253,7 @@
 ; Boss: Speaker Shadowcrown
 451026	Dunkelheit naht
 426735	Brennende Schatten
+428086	Schattenblitz
 425264	Obsidianexplosion
 445996	Kollabierende Finsternis
 453212	Obsidianstrahl
@@ -324,6 +327,7 @@
 ; -------------------------------------
 
 ; Boss: Trash
+462500	Energie verzauberten Eisens
 425027	Seismische Welle
 447141	Pulverisierendes Anspringen
 449455	Heulende Furcht
