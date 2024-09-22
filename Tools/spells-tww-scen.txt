@@ -1,0 +1,268 @@
+; Type: The War Within Delves
+
+; -------------------------------------
+; Zone: Delve Trash
+; -------------------------------------
+
+; Boss: Fungarian
+427710	Sporplosion
+414944	Kampfgebrüll
+424891	Rankenspeer
+424773	Sporogenese
+424798	Aufgeblähte Eruption
+424704	Boshafte Stiche
+425040	Fäulniswellensalve
+425042	Sporenwelle
+424750	Infektiöse Sporen
+372529	Abscheuliches Lachen
+
+; Boss: Kobold
+449071	Lodernder Docht
+448399	Schlachtruf
+445210	Feueransturm
+445191	Dochtzündlersalve
+448528	Dynamit werfen
+
+; Boss: Kobyss
+455932	Entweihender Atem
+445252	Nekrotisches Ende
+430037	Speerfisch
+440622	Fluch der Tiefen
+445492	Gezacktes Spalten
+445407	Blutrünstig
+445774	Dreschender Wutanfall
+374898	Wutanfall
+445771	Blasenwoge
+
+; Boss: Nerubian
+450714	Gezackte Widerhaken
+450637	Egelschwarm
+449318	Schatten der Zwietracht
+450546	Eingewebte Aegis
+450509	Weiter Scherenhieb
+433410	Ängstlicher Schrei
+450197	Krabblersturmangriff
+433448	Netzabschuss
+
+; Boss: Nightfall
+441129	Entdeckt!
+434740	Schattenbarriere
+443292	Umbralschmettern
+434281	Echo von Renilash
+443482	Segen des Abends
+440205	Tod verursachen
+
+; Boss: Underkeep
+451913	Grimmwebenkugel
+;450714	Gezackte Widerhaken
+;450637	Egelschwarm
+448179	Panzerhülle
+448155	Schockwellenbeben
+448161	Wutanfall
+453149	Hauchdünne Spinnweben
+
+; Boss: Rares
+445781	Lavaschlag
+445718	Magmahammer
+415253	Pilzatem
+415250	Fungusblüte
+462686	Schädelspalter
+400335	Stachelfallen
+461741	Weihe
+459421	Heiliges Licht
+418295	Umbralschlitzer
+418297	Züchtigen
+458325	Ausweichender Tanz
+458311	Giftbiss
+458397	Unterbrechender Schrei
+458369	Giftsalve
+458104	Giftsalve
+458090	Leerenhieb
+458099	Greifende Dunkelheit
+449038	Pfählende Stacheln
+450519	Netz des Anglers
+450492	Entsetzliches Brüllen
+450505	Schwächender Speichel
+
+
+; -------------------------------------
+; Zone: Earthcrawl Mines
+; -------------------------------------
+
+; Boss: Web General Ab'enar
+448443	Fluch der Pein
+448412	Brennender Wagen
+448444	Runenfesseln
+
+
+; -------------------------------------
+; Zone: Fungal Folly
+; -------------------------------------
+
+; Boss: Spinshroom
+415406	Fungussturm
+415499	Schwindelig
+415492	Pilzansturm
+425315	Pilzplosion
+
+
+; -------------------------------------
+; Zone: Kriegval's Rest
+; -------------------------------------
+
+; Boss: Tomb-Raider Drywhisker
+449242	Flammensturm
+449295	Erde erschüttern
+449339	Rasender Tobsuchtsanfall
+
+
+; -------------------------------------
+; Zone: Mycomancer Cavern
+; -------------------------------------
+
+; Boss: Bogpiper
+454213	Schlickladung
+470582	Sumpfbolzen
+453897	Sporenlied
+
+
+; -------------------------------------
+; Zone: Nightfall Sanctum
+; -------------------------------------
+
+; Boss: Reformed Fury
+443837	Schattenschwung
+;443482	Segen des Abends
+444408	Zorn des Sprechers
+444479	Dunkelfeuersalve
+;440205	Tod verursachen
+;434281	Echo von Renilash
+
+; Boss: Speaker Halven
+;443837	Schattenschwung
+443908	Feuer!
+443840	Verwüstungswoge
+
+
+; -------------------------------------
+; Zone: Skittering Breach
+; -------------------------------------
+
+; Boss: Faceless One
+458849	Dunkelrissschmettern
+458853	Schattenentzug
+458867	Lauernder Ruf
+
+; Boss: Nerl'athekk the Skulking
+454762	Dunkle Dämpfung
+440806	Dunkelrissschmettern
+
+; Boss: Speaker Xanventh
+458874	Schattenwelle
+458834	Schattendreher
+458879	Segen des Abends
+
+
+; -------------------------------------
+; Zone: Tak-Rethan Abyss
+; -------------------------------------
+
+; Boss: Undersea Abomination
+446300	Tiefseepolypen
+446405	Pilzbefall
+446230	Abwehrender Schlag
+
+
+; -------------------------------------
+; Zone: The Dread Pit
+; -------------------------------------
+
+; Boss: Under-Lord Vik'tis
+448634	Durchbohren
+448644	Grabendes Beben
+448663	Stechender Schwarm
+
+
+; -------------------------------------
+; Zone: The Sinkhole
+; -------------------------------------
+
+; Boss: Leviathan Caller
+446079	Ruf des Abgrunds
+442422	Abyssischer Klammergriff
+
+; Boss: Mirror Master Murkna
+445860	Ertrunkene Illusionen
+
+
+; -------------------------------------
+; Zone: The Spiral Weave
+; -------------------------------------
+
+; Boss: Overseer Kaskel
+;449038	Pfählende Stacheln
+;448644	Grabendes Beben
+449072	Drohnen rufen
+
+; Boss: The Puppetmaster
+;451913	Grimmwebenkugel
+;450197	Krabblersturmangriff
+;450546	Eingewebte Aegis
+;450509	Weiter Scherenhieb
+;450714	Gezackte Widerhaken
+;448663	Stechender Schwarm
+
+
+; -------------------------------------
+; Zone: The Underkeep
+; -------------------------------------
+
+; Boss: Researcher Ven'kex
+446832	Giftinfusion
+447187	Leerenzerreißer
+447143	Umschließende Gespinste
+
+; Boss: Researcher Xik'vi
+;446832	Giftinfusion
+;447187	Leerenzerreißer
+;447143	Umschließende Gespinste
+
+
+; -------------------------------------
+; Zone: The Waterworks
+; -------------------------------------
+
+; Boss: Waxface
+450330	Wachs werfen
+450142	Wegbrennen
+450128	Giftiges Gas
+
+
+; -------------------------------------
+; Zone: Zekvir's Lair
+; -------------------------------------
+
+; Boss: Zekvir (Tier ?)
+450451	Krallenschlitzer
+;450505	Schwächender Speichel
+;450492	Entsetzliches Brüllen
+;450519	Netz des Anglers
+450568	Netzschrecken rufen
+453937	Schlüpft...
+450597	Netzschuss
+
+; Boss: Zekvir (Tier ??)
+;450451	Krallenschlitzer
+;450505	Schwächender Speichel
+;450492	Entsetzliches Brüllen
+;450519	Netz des Anglers
+450449	Regenerierender Panzer
+;450568	Netzschrecken rufen
+;453937	Schlüpft...
+;450597	Netzschuss
+451003	Schwarzblut
+450872	Unendliche Stacheln
+450914	Bluterfüllter Panzer
+451782	Ewiger Schrecken
+
+
