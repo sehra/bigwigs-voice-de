@@ -348,6 +348,7 @@
 
 ; Boss: Trash
 256627	Schlabberklopper
+;257732	Erschütterndes Brüllen
 256640	Brennender Teer
 256957	Wasserdichter Schild
 257170	Wildes Sturmgewitter
@@ -363,6 +364,7 @@
 275835	Brennende Giftbeschichtung
 
 ; Boss: Chopper Redhook
+274002	Eisenfluträuber rufen
 257459	Am Haken
 257348	Fleischerhaken
 257326	Blutschmettern

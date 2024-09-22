@@ -13,6 +13,8 @@
 438877	Ruf der Brut
 438826	Giftige Wolke
 453161	Durchbohren
+465012	Zerschmettern
+432967	Alarmierender Schrei
 448248	Abstoßende Salve
 433845	Hervorbrechende Gespinste
 433841	Giftsalve
@@ -55,6 +57,7 @@
 441627	Verjüngender Honig
 441434	Missglückte Ladung
 448619	Tollkühne Zustellung
+441179	Triefender Honig
 441119	Bienenrakete
 442589	Bienenwachs
 442995	Schwarmüberraschung
@@ -144,12 +147,15 @@
 ; Boss: Trash
 423501	Wildprügel
 425536	Maulwurfraserei
+426883	Bonk!
 440652	Wachswoge
+428650	Brennender Gegenschlag
 424322	Explosive Flamme
 426261	Unablässige Flamme
 426295	Feuerleine
 426619	Einhändiger Schwitzkasten
 426260	Pyroverprügeln
+422393	Erstickende Dunkelheit
 422414	Schattenschmettern
 422541	Lichtsauger
 
@@ -176,7 +182,7 @@
 426943	Zunehmende Düsternis
 427157	Dunkelbrut rufen
 427025	Umbralschlitzer
-427015	Schattenschlag
+427011	Schattenschlag
 427176	Lichtsauger
 
 
@@ -205,6 +211,7 @@
 427346	Inneres Feuer
 427484	Flammenstoß
 427601	Lichtexplosion
+424429	Weihe
 444743	Feuerballsalve
 
 ; Boss: Captain Dailcry
@@ -235,7 +242,9 @@
 449042	Strahlendes Licht
 431309	Verlangsamende Schatten
 432448	Stygische Saat
+431364	Quälender Strahl
 450756	Abyssisches Heulen
+431491	Besudeltes Schlitzen
 451107	Aufbrechender Kokon
 451091	Arathibombe legen
 451102	Schattenhafter Verfall
@@ -333,6 +342,7 @@
 449455	Heulende Furcht
 426308	Leerenansteckung
 426771	Leerenausbruch
+459210	Schattenklaue
 445207	Durchdringendes Geheul
 429545	Zensurausrüstung
 426345	Kristallsalve

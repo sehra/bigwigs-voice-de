@@ -128,7 +128,9 @@
 325418	Flüchtige Säure
 340544	Regeneration anregen
 326046	Widerstand stimulieren
+460092	Säurenova
 326021	Säurekugel
+326017	Zersetzende Säure
 
 ; Boss: Ingra Maloch
 323137	Befremdlicher Pollen
@@ -277,8 +279,8 @@
 317985	Schmetternder Schlag
 328295	Große Besserung
 328288	Waffe segnen
-328458	Diminuendo
 328462	Geladener Speer
+328458	Diminuendo
 
 ; Boss: Kin-Tara
 320966	Überkopfschlitzer

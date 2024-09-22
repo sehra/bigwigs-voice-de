@@ -21,13 +21,15 @@
 
 ; Boss: Ulgrax the Devourer
 434803	Karnivorenkraftprobe
+434778	Karnivorenkraftprobe
 440849	Verächtliche Wut
 441452	Pirscherspinnweben
 439419	Pirschernetz
-435136	Giftpeitscher
 435138	Verdauungssäure
+435136	Giftpeitscher
 434697	Brutaler Zermalmer
 434705	Weichgeklopft
+445123	Bulliger Zusammenstoß
 445052	Zischender Schwarm
 439037	Ausweiden
 438657	Klobige Eingeweide
@@ -35,9 +37,10 @@
 443842	Verschlingende Dunkelheit
 440177	Bereit zum Fressen
 438012	Hungerndes Gebrüll
-445123	Bulliger Zusammenstoß
+455831	Gehärtetes Netz
 
 ; Boss: The Bloodbound Horror
+444497	Schrecken hervorrufen
 444363	Grausiges Auswürgen
 443612	Grausiges Auswürgen
 445570	Ungehörige Seuche
@@ -60,7 +63,6 @@
 439511	Schwung des Hauptmanns
 438845	Entblößen
 432969	Phasenvorstoß
-435410	Phasenvorstoß
 439559	Pfeilregen
 
 ; Boss: Rasha'nan
@@ -108,33 +110,34 @@
 442277	Ewige Nacht
 
 ; Boss: The Silken Court
-438218	Durchbohrender Schlag
-438801	Ruf des Schwarms
 440246	Tollkühner Ansturm
 440178	Tollkühner Einschlag
 440179	Umschlungen
 441791	Grabungseruption
+438801	Ruf des Schwarms
 440504	Durchbohrende Eruption
 449857	Aufgespießt
-438200	Giftblitz
-438656	Giftiger Regen
+438218	Durchbohrender Schlag
 439838	Netzbombe
+438656	Giftiger Regen
 440001	Bindende Netze
 450045	Spinnnensprung
+438200	Giftblitz
 450980	Existenz zertrümmern
 460600	Entropischer Beschuss
 438677	Stechender Schwarm
 456245	Stechendes Delirium
-441772	Leerenblitz
+438355	Kataklystische Entropie
 441626	Netzvortex
 450129	Entropische Verwüstung
 441782	Stränge der Realität
 450483	Leerenschritt
-438355	Kataklystische Entropie
+441772	Leerenblitz
 451277	Stachelsturm
 460364	Seismischer Aufruhr
 443068	Stachelausbruch
 442994	Entfesselter Schwarm
+443598	Unkontrollierbarer Zorn
 455849	Mal der Paranoia
 460359	Leerendegeneration
 455850	Mal der Wut
@@ -154,16 +157,19 @@
 440899	Verflüssigen
 437093	Festmahl
 439299	Netzklingen
-447207	Prädation
+447076	Prädation
 447456	Lähmendes Toxin
 447411	Entreißen
-447950	Schattenschlag
-464056	Düstere Berührung
 443403	Düsternis
+449940	Säureapokalypse
+447950	Schattenschlag
+448046	Düsterniseruption
+447967	Düstere Berührung
+462558	Kosmischer Riss
+448458	Kosmische Apokalypse
 448147	Stürzen
 451600	Ausstoßstrahl
 449236	Ätzende Fangzähne
-449986	Aphotische Zwiesprache
 443888	Abyssalinfusion
 455387	Abyssischer Nachhall
 445422	Überschäumende Maßlosigkeit
@@ -172,8 +178,10 @@
 445152	Akolythenessenz
 445021	Nulldetonation
 438976	Königliche Verurteilung
+441865	Königliche Fesseln
 443325	Infizieren
 443726	Düsterjungtier
 443336	Verschlingen
+451832	Kataklysmische Evolution
 
 

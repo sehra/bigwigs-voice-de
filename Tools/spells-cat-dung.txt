@@ -8,16 +8,19 @@
 451871	Massenbeben
 456696	Obsidianstampfen
 451613	Zwielichtflamme
+451614	Zwielichtglut
 451939	Umbralwind
 76711	Gedankensengen
 451965	Geschmolzene Welle
 451971	Lavafaust
 451224	Einhüllende Schattenflamme
 462216	Lodernde Schattenflamme
+451241	Schattenflammenschlitzer
 456711	Schattenlavaschlag
 456713	Dunkle Eruption
 451387	Aufstieg
 451391	Geistdurchbohrer
+451395	Verderben
 
 ; Boss: General Umbriss
 448847	Befehlsgebrüll
