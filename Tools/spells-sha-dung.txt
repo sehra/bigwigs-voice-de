@@ -424,6 +424,7 @@
 343470	Knochenbrecherschild
 335143	Knochenflicken
 320822	Letzter Handel
+320464	Schattenbrunnen
 335141	Dunkler Schleier
 345623	Todesexplosion
 324394	Zertrümmern

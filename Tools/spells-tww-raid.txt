@@ -137,7 +137,6 @@
 460364	Seismischer Aufruhr
 443068	Stachelausbruch
 442994	Entfesselter Schwarm
-443598	Unkontrollierbarer Zorn
 455849	Mal der Paranoia
 460359	Leerendegeneration
 455850	Mal der Wut

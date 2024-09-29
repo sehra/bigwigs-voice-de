@@ -219,11 +219,13 @@
 
 ; Boss: Researcher Ven'kex
 446832	Giftinfusion
+463408	Infusion des Frosts
 447187	Leerenzerreißer
 447143	Umschließende Gespinste
 
 ; Boss: Researcher Xik'vi
 ;446832	Giftinfusion
+;463408	Infusion des Frosts
 ;447187	Leerenzerreißer
 ;447143	Umschließende Gespinste
 

@@ -131,6 +131,7 @@
 461842	Triefendes Schmettern
 441395	Dunkler Impuls
 461880	Blutwoge
+461825	Schwarzblut
 
 ; Boss: Izo, the Grand Splicer
 439401	Wechselhafte Anomalien
@@ -248,6 +249,7 @@
 451107	Aufbrechender Kokon
 451091	Arathibombe legen
 451102	Schattenhafter Verfall
+451119	Abyssalexplosion
 450854	Dunkle Kugel
 451117	Schreckliches Schmettern
 451098	Klebenova
@@ -338,6 +340,7 @@
 ; Boss: Trash
 462500	Energie verzauberten Eisens
 425027	Seismische Welle
+425974	Bodenhämmern
 447141	Pulverisierendes Anspringen
 449455	Heulende Furcht
 426308	Leerenansteckung

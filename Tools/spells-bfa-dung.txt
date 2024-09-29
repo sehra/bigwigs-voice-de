@@ -351,6 +351,7 @@
 ;257732	Erschütterndes Brüllen
 256640	Brennender Teer
 256957	Wasserdichter Schild
+272662	Eisenhaken
 257170	Wildes Sturmgewitter
 257288	Schweres Schlitzen
 454437	Azeritsprengladung
