@@ -108,6 +108,7 @@
 322938	Essenzernte
 322569	Hand von Thros
 322557	Seelenspaltung
+322968	Letzter Atemzug
 324909	Wütendes Hauen
 324923	Dornenausbruch
 463256	Nebelschutz
@@ -131,6 +132,7 @@
 460092	Säurenova
 326021	Säurekugel
 326017	Zersetzende Säure
+326090	Stechender Angriff
 
 ; Boss: Ingra Maloch
 323137	Befremdlicher Pollen
@@ -414,7 +416,6 @@
 
 ; Boss: Trash
 334748	Flüssigkeiten entziehen
-323190	Fleischschild
 323347	Anhaftende Dunkelheit
 322756	Zorn von Zolramus
 321780	Totenbelebung
@@ -470,6 +471,7 @@
 321368	Eisgebundene Aegis
 320788	Frostige Fesseln
 321894	Dunkles Exil
+328181	Eisige Kälte
 
 
 ; -------------------------------------

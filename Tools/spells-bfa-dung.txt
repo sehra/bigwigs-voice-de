@@ -353,14 +353,16 @@
 256957	Wasserdichter Schild
 272662	Eisenhaken
 257170	Wildes Sturmgewitter
+257270	Eisenhinterhalt
 257288	Schweres Schlitzen
 454437	Azeritsprengladung
+275826	Anstachelnder Schrei
 272421	Artillerieaufklärer
 268260	Breitseite
-275826	Anstachelnder Schrei
 257169	Erschreckendes Gebrüll
 272711	Schmetterhieb
 272546	Bananenraserei
+454440	Stinkendes Erbrochenes
 272571	Erstickendes Wasser
 275835	Brennende Giftbeschichtung
 
@@ -368,6 +370,7 @@
 274002	Eisenfluträuber rufen
 257459	Am Haken
 257348	Fleischerhaken
+;272662	Eisenhaken
 257326	Blutschmettern
 257585	Kanonensperrfeuer
 273721	Schwere Munition

@@ -160,14 +160,15 @@
 447456	Lähmendes Toxin
 447411	Entreißen
 443403	Düsternis
+460369	Schattentor
 449940	Säureapokalypse
 447950	Schattenschlag
 448046	Düsterniseruption
 447967	Düstere Berührung
-462558	Kosmischer Riss
 448458	Kosmische Apokalypse
 448147	Stürzen
 451600	Ausstoßstrahl
+455374	Dunkle Detonation
 449236	Ätzende Fangzähne
 443888	Abyssalinfusion
 455387	Abyssischer Nachhall

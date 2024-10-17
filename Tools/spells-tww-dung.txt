@@ -19,6 +19,7 @@
 433845	Hervorbrechende Gespinste
 433841	Giftsalve
 434252	Massives Schmettern
+433821	Spurtender Schlag
 
 ; Boss: Avanoxx
 438471	Gieriger Biss
@@ -95,17 +96,22 @@
 ; -------------------------------------
 
 ; Boss: Trash
+448305	Gestohlene Kraft
 443437	Schatten des Zweifels
+443433	Gedankenverdreher
 443430	Seidenbindung
 443500	Erdspaltung
+443507	Gefräßiger Schwarm
 450784	Parfümwurf
 451423	Nautilussalve
 441795	Pheromonschleier
 448047	Fangnetz
 451543	Nullschmettern
+451222	Leerenansturm
 452162	Genesungsgespinst
 434137	Giftiger Strahl
 445813	Dunkles Sperrfeuer
+436205	Wildes Stampfen
 446086	Leerenwelle
 446717	Umbralgespinst
 447271	Bebenschlag
@@ -129,8 +135,8 @@
 ; Boss: The Coaglamation
 441289	Zähe Dunkelheit
 461842	Triefendes Schmettern
-441395	Dunkler Impuls
 461880	Blutwoge
+441395	Dunkler Impuls
 461825	Schwarzblut
 
 ; Boss: Izo, the Grand Splicer

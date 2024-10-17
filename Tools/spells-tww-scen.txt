@@ -80,6 +80,8 @@
 458090	Leerenhieb
 458099	Greifende Dunkelheit
 449038	Pfählende Stacheln
+457880	Aufstieg
+457448	Schatteneruption
 450519	Netz des Anglers
 450492	Entsetzliches Brüllen
 450505	Schwächender Speichel
