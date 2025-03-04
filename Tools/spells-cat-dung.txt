@@ -7,10 +7,12 @@
 ; Boss: Trash
 451871	Massenbeben
 456696	Obsidianstampfen
+451364	Brutaler Hieb
 451612	Zwielichtflamme
 451614	Zwielichtglut
 451939	Umbralwind
-76711	Gedankensengen
+451378	Aufreißen
+76711	Angekettete Gedanken
 451965	Geschmolzene Welle
 451971	Lavafaust
 451224	Einhüllende Schattenflamme

@@ -115,6 +115,7 @@
 440179	Umschlungen
 441791	Grabungseruption
 438801	Ruf des Schwarms
+438749	Skarabäusfixierung
 440504	Durchbohrende Eruption
 449857	Aufgespießt
 438218	Durchbohrender Schlag
@@ -183,5 +184,166 @@
 443726	Düsterjungtier
 443336	Verschlingen
 451832	Kataklysmische Evolution
+
+
+; -------------------------------------
+; Zone: Liberation of Undermine
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Vexie and the Geargrinders
+466615	Schutzpanzerung
+471403	Unerbittlicher Metallwirbel
+459943	Biker rufen
+459678	Öl speien
+459683	Ölfleck
+468216	Zündendes Feuer
+459978	Bombentrip
+465865	Panzerbrecher
+468147	Abgase
+460116	Wartung
+
+; Boss: Cauldron of Carnage
+465833	Kolossaler Zusammenstoß
+471660	Erhöhte Verteidigung
+471557	Metzelmeister
+1221826	Klitzekleine Keilerei
+472222	Sengende Bosheit
+473650	Schrottbombe
+1214039	Geschmolzene Pfütze
+1213690	Geschmolzener Auswurf
+472233	Sprengbrands Brüllkanone
+1214190	Eruptionsstampfen
+472225	Galvanisierte Bosheit
+474159	Statische Aufladung
+463900	Donnertrommelsalve
+1213994	Voltaisches Abbild
+463925	Verbleibende Elektrizität
+466178	Blitzhieb
+
+; Boss: Rik Reverb
+473748	Verstärkung!
+1217122	Beständige Spannung
+468119	Resonante Echos
+1214598	Betört
+466093	Durchgeknallt
+466866	Widerhallender Gesang
+467606	Schallkanone
+466979	Defekter Schocker
+472306	Funkenschlagzündung
+1214164	Aufregung
+464518	Tinnitus
+473260	Dröhnender Absturz
+473655	Rummelfieber!
+
+; Boss: Stix Bunkjunker
+464399	Elektromagnetische Sortierung
+461536	Rollender Müll
+465741	Müllhalde
+465611	Angerollt!
+464854	Abfallhaufen
+465747	Dumpfe Gewalt-o-plosion
+1217975	Gewalt-o-plodiert
+1219384	Schrottraketen
+1220648	Zum "Wiederverwerten" markiert
+466748	Infizierter Biss
+464149	Verbrenner
+472893	Einäscherung
+464248	Erhitzter Abfall
+464112	Demolieren
+1217954	Schmelze
+467117	Turbogang
+467135	Müllpresse
+1218704	Stromspulenprototyp
+
+; Boss: Sprocketmonger Lockenstock
+1216802	Polarisierungsgenerator
+1216911	Positivpolarisierung
+1216934	Negativpolarisierung
+1219047	Polarisierte Katastrophexplosion
+473276	Erfindungen aktivieren!
+1217231	Fußblaster
+1218342	Instabiles Schrapnell
+1218418	Teletransfer
+1216509	Schraube locker
+465232	Überschall-o-Knall
+1214878	Pyro-Party-Paket
+465917	Gravischlick
+466860	Kaltblütiges Kalkül
+1218319	Leerensplosion
+468791	Gigatod
+
+; Boss: The One-Armed Bandit
+460181	Gewinnlinie
+460444	Glücksroller!
+469993	Widerwärtiger Ausstoß
+460472	Der Volltreffer
+461060	Drehen für den Sieg!
+461068	Betrug entdeckt!
+465009	Explosiver Blick
+474665	Münzmagnet
+464705	Goldene Eintrittskarte
+460582	Überladung!
+471927	Siechflammen
+465765	Wartungszyklus
+465432	Verbundene Maschinen
+465322	Heiß, heißer, am heißesten
+465580	Verstreute Auszahlung
+465587	Explosiver Volltreffer
+
+; Boss: Mug’Zee, Heads of Security
+466385	Mumm
+1216142	Vielstrebiger Furor
+472631	Gefängnis des Erderschütterers
+1214623	Wütend
+472782	Respekt erweisen
+470910	Gefängnisausbruch
+466476	Frostsprengerstiefel
+466480	Frostsprengerspeer
+466509	Sturmzornfingerpistole
+466518	Flüssiggoldschlagring
+467202	Goldener Tropfen
+466539	Instabile Kriecherminen
+469043	Sengendes Schrapnell
+467380	Goblinlenkrakete
+466545	Aufs Geratewohl
+-31766	Elektroschocker Mk II
+1215595	Fehlerhafte Verkabelung
+469491	Doppelwums-Schuss
+469391	Perforierende Wunde
+1215953	Statische Aufladung
+471574	Kugelkanonade
+463967	Kampfrausch
+
+; Boss: Chrome King Gallywix
+1220761	Kanister des Mechingenieurs
+466340	Streuschlagkanister
+465952	Bedrohlicher böser Batzen Bomben
+466154	Explosionsverbrennung
+466165	700-kg-"Blindgänger"
+466246	Fokussierte Detonation
+1217292	Verzögertes Knistern
+467182	Unterdrückung
+466751	Wärme ablassen
+1220290	Gekonnte Schüsse
+469286	Gigaspulen
+469327	Gigaexplosion
+469404	GigaBUMM!
+1220846	Steuerungsschmelze
+1215209	Sabotagezone
+466341	Verschmolzene Kanister
+-31482	Techniker der Düsternisverschmolzenen
+469362	Aufgeladene Gigabombe
+471352	Mehr Saft!
+466834	Schockbeschuss
+1216845	Schraubenschlüssel
+1216852	Schwerfällige Wut
+1214226	Kraterbildung
+1214229	Panzerung der Armageddonklasse
+1214369	TOTALE ZERSTÖRUNG!!!
+1214607	Bedrohlichere bösere Bombenexplosion
+466342	Tick-tack-Kanister
+466958	Egoüberprüfung
 
 

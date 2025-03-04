@@ -5,7 +5,7 @@
 ; -------------------------------------
 
 ; Boss: Fungarian
-427710	Sporplosion
+1217589	Sporplosion
 414944	Kampfgebrüll
 424891	Rankenspeer
 424773	Sporogenese
@@ -15,6 +15,15 @@
 425042	Sporenwelle
 424750	Infektiöse Sporen
 372529	Abscheuliches Lachen
+
+; Boss: Goblin
+473684	Zahnradsturm
+473550	Raketenbeschuss
+474001	Im Blut baden
+473995	Blutbad
+473972	Tollkühner Ansturm
+474004	Bohrbeben
+1213656	Überstunden!
 
 ; Boss: Kobold
 449071	Lodernder Docht
@@ -52,6 +61,15 @@
 443482	Segen des Abends
 440205	Tod verursachen
 
+; Boss: Old God
+474325	Abgrundgriff
+474482	Verlockung der Leere
+474511	Schattenschmettern
+474206	Schattenstampfen
+474223	Erschütterndes Schmettern
+474155	Schleimspur
+474228	Schattenschlag
+
 ; Boss: Underkeep
 451913	Grimmwebenkugel
 ;450714	Gezackte Widerhaken
@@ -61,7 +79,28 @@
 448161	Wutanfall
 453149	Hauchdünne Spinnweben
 
-; Boss: Rares
+; Boss: Underpin Rares
+1216790	Sturmangriff nach vorne
+1216794	Alphakanone
+1214246	Zermalmende Zange
+1214238	Schale härten
+1216805	Bzzzt!
+1216806	Da ist die Tür
+1217361	Wertlose Verehrungen
+1217326	Selfie schießen!
+433045	Meucheln
+1217418	Meinen Agenten anrufen
+1217449	Meinen Vermittler anrufen
+1217452	Meine Mutter anrufen
+1217510	Kurzwahl
+1218061	Goldlunte
+1218017	Krabbabummsperrfeuer
+1218039	Eingewebte Granaten
+1213497	Ich durchdrehen
+1220869	Knochenbrecher
+1217301	Rücksichtsloser Sturmangriff
+
+; Boss: Zekvir Rares
 445781	Lavaschlag
 445718	Magmahammer
 415253	Pilzatem
@@ -105,6 +144,7 @@
 415406	Fungussturm
 415499	Schwindelig
 415492	Pilzansturm
+415495	Schleimpilz
 425315	Pilzplosion
 
 
@@ -225,9 +265,7 @@
 447187	Leerenzerreißer
 447143	Umschließende Gespinste
 
-; Boss: Researcher Xik'vi
-;446832	Giftinfusion
-;463408	Infusion des Frosts
+; Boss: Researcher Xik'vik
 ;447187	Leerenzerreißer
 ;447143	Umschließende Gespinste
 

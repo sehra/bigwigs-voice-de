@@ -208,22 +208,21 @@
 303941	Defensive Gegenmaßnahmen
 301088	Detonieren
 294103	Raketenbeschuss
-294324	Megabohrer
-294290	Müll verarbeiten
-294349	Instabiler Abfall
+1215409	Megabohrer
+1215411	Anstechen
+1215412	Zersetzender Schleim
+1217819	Feurige Kiefer
 293827	Gigafizz
+293854	Antipersoneneichhörnchen aktivieren
 293861	Antipersoneneichhörnchen
 294195	Überspringender Stromschlag
 297133	Defensive Gegenmaßnahmen
 297128	Kurzschließen
-294015	Hochexplosive Raketen abfeuern
 293986	Schallwelle
 295169	Kondensatorentladung
 293729	Aufmotzen
 293930	Übertakten
-293670	Kettenklinge
 293683	Schildgenerator
-294180	Flammende Ablehnung
 
 ; Boss: King Gobbamak
 297254	Geladenes Schmettern
@@ -256,30 +255,34 @@
 303885	Fulminante Detonation
 
 ; Boss: Tussle Tonks
+1216443	Elektrischer Sturm
 282801	Platinpanzerung
-285020	Wirbelnde Schneide
-285344	Mine legen
-285152	Feindflipper
-285388	Düsenstrahl
+1215065	Platinprügel
+1215102	Bodenhämmern
 283422	Maximaler Schub
+1216431	K.4.M.P.F.-Mine
+285152	Feindflipper
 
 ; Boss: K.U.-J.0.
 291930	Fallschirmabwurf
 291946	Flammen ablassen
+291937	Hinter Schrott verstecken
 291973	Explosiver Sprung
 294929	Lodernder Biss
 
 ; Boss: Machinist's Garden
+294853	Pflanze aktivieren
 294855	Blütenschuss
 285440	"Versteckte" Flammenkanone
 285454	Diskom-BOMB-ulator
 
 ; Boss: King Mechagon
 291865	Rekalibrieren
-291928	Gigaschock
+291928	Megaschock
 291613	Abflug!
 291626	Schneidestrahl
 283551	Magnetarm
+292264	Megaschock
 292290	Protokoll: Neunundneunzig
 
 
@@ -349,14 +352,17 @@
 ; Boss: Trash
 256627	Schlabberklopper
 ;257732	Erschütterndes Brüllen
+256616	Zahnbrecher
 256640	Brennender Teer
 256957	Wasserdichter Schild
 272662	Eisenhaken
 257170	Wildes Sturmgewitter
 257270	Eisenhinterhalt
+256709	Singender Stahl
 257288	Schweres Schlitzen
 454437	Azeritsprengladung
 275826	Anstachelnder Schrei
+257168	Verfluchter Schnitt
 272421	Artillerieaufklärer
 268260	Breitseite
 257169	Erschreckendes Gebrüll
@@ -364,6 +370,7 @@
 272546	Bananenraserei
 454440	Stinkendes Erbrochenes
 272571	Erstickendes Wasser
+272588	Verrottende Wunden
 275835	Brennende Giftbeschichtung
 
 ; Boss: Chopper Redhook
@@ -450,56 +457,56 @@
 ; -------------------------------------
 
 ; Boss: Trash
-268846	Echoklinge
-268865	Energiekanone
-269302	Vergiftete Klingen
-267433	Mech aktivieren
-281621	Erschütterungsgranate
-268709	Erdschild
-263202	Steinlanze
-268702	Heftiges Beben
-263215	Tektonische Barriere
-263066	Wandlungsserum
-263103	Schweißbrenner
-262540	Überladen
-262554	Reparieren
-262947	Azeritinjektion
-268797	Transmutieren: Feind zu Glibber
-269313	Finale Salve
-268362	Minensprengladung
-280605	Hirnfrost
 280604	Eisgekühlte Schorle
-268129	Erfrischende Kaja'Cola
-268415	Energieschub
+267433	Mech aktivieren
+263628	Aufgeladener Schild
+472041	Tränengas
 262092	Dämpfe einatmen
-269090	Artilleriebeschuss
-263601	Verzweifelte Maßnahmen
+1217279	Aufwärtshaken
+269302	Vergiftete Klingen
+267354	Dolchfächer
+473168	Rasche Extraktion
+;1215411	Anstechen
+263202	Steinlanze
+268362	Minensprengladung
+269313	Finale Salve
+268712	Bombenbeutel
+268702	Heftiges Beben
+1214754	Massives Schmettern
+1213139	Überstunden!
+268846	Echoklinge
+473304	Geistesblitz
+268797	Transmutieren: Feind zu Glibber
 269429	Geladener Schuss
-263628	Geladene Klaue
+262383	Kriechermine absetzen
+262377	Suchen und zerstören
+269090	Artilleriebeschuss
 
 ; Boss: Coin-Operated Crowd Pummeler
 269493	Fußbombenwerfer
 256493	Loderndes Azerit
-262347	Statikimpuls
-257337	Schockende Klaue
-271784	Münzen werfen
+271903	Münzmagnet
 271867	Pay to Win
+262347	Statikimpuls
+1217294	Schockende Klaue
+271784	Münzen werfen
 
 ; Boss: Azerokk
 271698	Azeritinfusion
-258622	Resonanter Impuls
+258622	Resonantes Erdbeben
 257593	Erdwüter rufen
 257582	Wütender Blick
 275907	Tektonisches Schmettern
 
 ; Boss: Rixxa Fluxflame
-270028	Azeritkatalysator
-259853	Verätzung
-260669	Treibgasbrand
+270042	Azeritkatalysator
+259940	Treibgasbrand
+275992	Überschwänglicher Katalysator
+259856	Verätzung
 
 ; Boss: Mogul Razdunk
 260280	Maschinenkanone
-260829	Zielsuchrakete
+260813	Zielsuchrakete
 276229	Mikroraketen
 271456	Schmetterbohrer
 

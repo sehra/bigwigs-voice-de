@@ -416,13 +416,16 @@
 
 ; Boss: Trash
 334748	Flüssigkeiten entziehen
+320696	Knochenklaue
 323347	Anhaftende Dunkelheit
 322756	Zorn von Zolramus
 321780	Totenbelebung
 327396	Finsteres Schicksal
 328667	Frostblitzsalve
+321807	Knochenfleddern
 324293	Krächzender Schrei
 343470	Knochenbrecherschild
+324323	Grausiges Spalten
 335143	Knochenflicken
 320822	Letzter Handel
 320464	Schattenbrunnen
@@ -443,9 +446,11 @@
 
 ; Boss: Blightbone
 320596	Erbrechendes Würgen
-320630	Blut verschlingen
 320637	Fauliges Gas
 320655	Knirschen
+320717	Bluthunger
+320630	Blut verschlingen
+320631	Aasexplosion
 
 ; Boss: Amarth, The Harvester
 321226	Land der Toten
@@ -479,65 +484,67 @@
 ; -------------------------------------
 
 ; Boss: Trash
+341902	Unheilige Inbrunst
 333241	Rasender Tobsuchtsanfall
-319290	Fleischschild
-330700	Zersetzende Seuche
-341969	Verdorrender Ausstoß
+341977	Fleischschild
+330697	Verrottungsschlag
+321039	Widerwärtige Explosion
 341949	Verdorrende Verseuchung
+341969	Verdorrender Ausstoß
 330586	Fleisch verschlingen
-332836	Hacken
 330614	Abscheulicher Ausbruch
-342139	Kampftrance
-342125	Brutaler Sprung
-342135	Unterbrechendes Brüllen
+342103	Stinkende Galle
+1215850	Erdmalmer
+331316	Wilder Schlaghagel
 317605	Wirbelwind
-337037	Wirbelnde Klinge
-332708	Bodenzerkracher
+342135	Unterbrechendes Brüllen
+336995	Wirbelnde Klinge
+331288	Kolossales Schmettern
 333861	Abprallende Klinge
+333845	Gleichgewichtsstörender Schlag
 334023	Blutrünstiger Sturmangriff
 330562	Demoralisierender Ruf
+330565	Schildhieb
 333827	Seismisches Stampfen
-331275	Unverwüstlicher Schutz
-333845	Gleichgewichtsstörender Schlag
 330716	Seelensturm
 330725	Schattenverwundbarkeit
 330868	Nekrotische Blitzsalve
-333708	Seelenverderbnis
 342675	Knochenspeer
 333294	Todeswinde
+333299	Fluch der Trostlosigkeit
 331223	Knochensturm
 331237	Knochenstacheln
 
 ; Boss: An Affront of Challengers
-320063	Zerschmettern
+1215741	Mächtiges Schmettern
 320069	Tödlicher Stoß
-324085	Wutanfall
-326892	Fixieren
-320248	Genetische Veränderung
+320182	Giftsporen
+1215738	Verrottender Atem
 333231	Sengender Tod
-320293	Eins mit dem Tod
-320272	Spektrale Übertragung
-333540	Zusätzliche Angriffe
+1215600	Verwelkende Berührung
 
 ; Boss: Gorechop
-323515	Hasserfüllter Stoß
 322795	Fleischerhaken
+323515	Hasserfüllter Stoß
+323750	Ekelhaftes Gas
 318406	Weichklopfendes Schmettern
+321447	Gerinnender Schlamm
 
 ; Boss: Xav the Unfallen
-320644	Brutale Combo
-320102	Blut und Ruhm
+320114	Blut und Ruhm
 331618	Banner der Unterdrückung
+320644	Brutale Combo
 320050	Macht von Maldraxxus
 320729	Massives Spalten
 317231	Schmetterhieb
 339415	Ohrenbetäubender Aufprall
 
 ; Boss: Kul'tharok
-319521	Seele entziehen
-319637	Zurückgeforderte Seele
-319626	Phantomparasit
-319669	Spektralreichweite
+474087	Nekrotische Eruption
+1223803	Quelle der Dunkelheit
+474298	Seele entziehen
+473513	Schmaus der Verdammten
+1215787	Todesspirale
 
 ; Boss: Mordretha, the Endless Empress
 324079	Sensenschwung
