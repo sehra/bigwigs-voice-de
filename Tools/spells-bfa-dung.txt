@@ -472,6 +472,7 @@
 269313	Finale Salve
 268712	Bombenbeutel
 268702	Heftiges Beben
+263215	Tektonische Barriere
 1214754	Massives Schmettern
 1213139	Überstunden!
 268846	Echoklinge

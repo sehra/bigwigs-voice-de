@@ -24,6 +24,9 @@
 473972	Tollkühner Ansturm
 474004	Bohrbeben
 1213656	Überstunden!
+473541	Schlaghagel
+473696	Brandsatz
+472842	Zerstören
 
 ; Boss: Kobold
 449071	Lodernder Docht
@@ -42,6 +45,7 @@
 445774	Dreschender Wutanfall
 374898	Wutanfall
 445771	Blasenwoge
+433040	Trügerischer Schritt
 
 ; Boss: Nerubian
 450714	Gezackte Widerhaken
@@ -69,6 +73,7 @@
 474223	Erschütterndes Schmettern
 474155	Schleimspur
 474228	Schattenschlag
+455662	Packende Schatten
 
 ; Boss: Underkeep
 451913	Grimmwebenkugel
@@ -80,10 +85,12 @@
 453149	Hauchdünne Spinnweben
 
 ; Boss: Underpin Rares
-1216790	Sturmangriff nach vorne
-1216794	Alphakanone
+418295	Umbralschlitzer
+418297	Züchtigen
 1214246	Zermalmende Zange
 1214238	Schale härten
+1216790	Sturmangriff nach vorne
+1216794	Alphakanone
 1216805	Bzzzt!
 1216806	Da ist die Tür
 1217361	Wertlose Verehrungen
@@ -99,6 +106,10 @@
 1213497	Ich durchdrehen
 1220869	Knochenbrecher
 1217301	Rücksichtsloser Sturmangriff
+1216937	Großer Auftritt des Lorenbosses
+1213852	Zerschmettern
+1217371	Flammenwerfer
+1214147	Zeitbombenwerfer
 
 ; Boss: Zekvir Rares
 445781	Lavaschlag
@@ -109,8 +120,8 @@
 400335	Stachelfallen
 461741	Weihe
 459421	Heiliges Licht
-418295	Umbralschlitzer
-418297	Züchtigen
+;418295	Umbralschlitzer
+;418297	Züchtigen
 458325	Ausweichender Tanz
 458311	Giftbiss
 458397	Unterbrechender Schrei
@@ -127,18 +138,77 @@
 
 
 ; -------------------------------------
+; Zone: Demolition Done
+; -------------------------------------
+
+; Boss: The Underpin (Tier 8)
+;1213852	Zerschmettern
+;1217371	Flammenwerfer
+;1214147	Zeitbombenwerfer
+1215521	Kumpanen signalisieren
+1214052	Energie zu Schilden umleiten
+1214053	Aufladen
+1214043	Geschmolzene Kanone
+1218153	Brennende Wrackteile
+
+; Boss: The Underpin (Tier 11)
+;1213852	Zerschmettern
+;1217371	Flammenwerfer
+;1214147	Zeitbombenwerfer
+1217661	Kumpanen signalisieren
+1217667	Energie zu Schilden umleiten
+1217666	Aufladen
+;1214043	Geschmolzene Kanone
+;1218153	Brennende Wrackteile
+
+
+; -------------------------------------
 ; Zone: Earthcrawl Mines
 ; -------------------------------------
+
+; Boss: Maklin Drillstab
+1217905	Maulwurfmaschine rufen
+1217903	Feuerblitz
+1217913	Dunkelbrand
 
 ; Boss: Web General Ab'enar
 448443	Fluch der Pein
 448412	Brennender Wagen
 448444	Runenfesseln
 
+; Boss: The Biggest Bug
+;448443	Fluch der Pein
+;448444	Runenfesseln
+
+
+; -------------------------------------
+; Zone: Excavation Site 9
+; -------------------------------------
+
+; Boss: Craggle Fritzbrains
+1214135	Regentanz!
+1214504	Goblinsche Genialität
+
+; Boss: Harbinger Ul'thul
+1213776	Hoffnungsloser Fluch
+1213785	Abreißen
+1213700	Nicht erhörter Anruf
+
+; Boss: Xel'anegh The Many
+1213804	Schattensperrfeuer
+1213426	Tentakelschlag
+1213425	Erschreckendes Gebrüll
+
 
 ; -------------------------------------
 ; Zone: Fungal Folly
 ; -------------------------------------
+
+; Boss: Maulspike
+1214614	Zerreißen und zerfetzen
+1214620	Brüllende Versammlung
+1214656	Provozierendes Knurren
+1214680	Abscheuliches Gackern
 
 ; Boss: Spinshroom
 415406	Fungussturm
@@ -172,6 +242,11 @@
 ; Zone: Nightfall Sanctum
 ; -------------------------------------
 
+; Boss: Cult Leaders
+;434740	Schattenbarriere
+458874	Schattenwelle
+;443482	Segen des Abends
+
 ; Boss: Reformed Fury
 443837	Schattenschwung
 ;443482	Segen des Abends
@@ -184,6 +259,25 @@
 ;443837	Schattenschwung
 443908	Feuer!
 443840	Verwüstungswoge
+
+
+; -------------------------------------
+; Zone: Sidestreet Sluice
+; -------------------------------------
+
+; Boss: Geargrave
+1215957	Bebenklaue
+1215905	Gemetzelgeschütz
+1215912	Schwarzblut
+1215975	Mehr Saft!
+
+; Boss: Gold Elemental
+;473696	Brandsatz
+
+; Boss: Vindle Snapcrank
+1215870	Zahnradschmetterer
+1215337	Klappererbombe
+1215374	Wartungsschock
 
 
 ; -------------------------------------
@@ -200,7 +294,7 @@
 440806	Dunkelrissschmettern
 
 ; Boss: Speaker Xanventh
-458874	Schattenwelle
+;458874	Schattenwelle
 458834	Schattendreher
 458879	Segen des Abends
 
@@ -228,6 +322,11 @@
 ; -------------------------------------
 ; Zone: The Sinkhole
 ; -------------------------------------
+
+; Boss: Cragpie
+470612	Ätzende Galle
+359016	Schnelligkeit
+390943	Elektrischer Kataklysmus
 
 ; Boss: Leviathan Caller
 446079	Ruf des Abgrunds
@@ -269,10 +368,24 @@
 ;447187	Leerenzerreißer
 ;447143	Umschließende Gespinste
 
+; Boss: Torque Clankfire and Sprok
+1215033	Langluntenraketen
+1215090	Ausweichtaktiken
+1215084	Cocktail der Düsternisverschmolzenen
+1215015	Dieser hier, Boss?
+
 
 ; -------------------------------------
 ; Zone: The Waterworks
 ; -------------------------------------
+
+; Boss: Shroomsprew
+;415406	Fungussturm
+;415499	Schwindelig
+;415495	Schleimpilz
+;415492	Pilzansturm
+363194	Schleimspur
+;425315	Pilzplosion
 
 ; Boss: Waxface
 450330	Wachs werfen
@@ -284,7 +397,7 @@
 ; Zone: Zekvir's Lair
 ; -------------------------------------
 
-; Boss: Zekvir (Tier ?)
+; Boss: Zekvir (Tier 8)
 450451	Krallenschlitzer
 ;450505	Schwächender Speichel
 ;450492	Entsetzliches Brüllen
@@ -293,7 +406,7 @@
 453937	Schlüpft...
 450597	Netzschuss
 
-; Boss: Zekvir (Tier ??)
+; Boss: Zekvir (Tier 11)
 ;450451	Krallenschlitzer
 ;450505	Schwächender Speichel
 ;450492	Entsetzliches Brüllen

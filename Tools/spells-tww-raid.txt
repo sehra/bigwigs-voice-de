@@ -245,6 +245,7 @@
 464854	Abfallhaufen
 465747	Dumpfe Gewalt-o-plosion
 1217975	Gewalt-o-plodiert
+473119	Kurze Lunte
 1219384	Schrottraketen
 1220648	Zum "Wiederverwerten" markiert
 466748	Infizierter Biss
@@ -309,7 +310,8 @@
 467380	Goblinlenkrakete
 466545	Aufs Geratewohl
 -31766	Elektroschocker Mk II
-1215595	Fehlerhafte Verkabelung
+1215591	Fehlerhafte Verkabelung
+1222948	Elektrogeladener Schild
 469491	Doppelwums-Schuss
 469391	Perforierende Wunde
 1215953	Statische Aufladung
@@ -318,32 +320,33 @@
 
 ; Boss: Chrome King Gallywix
 1220761	Kanister des Mechingenieurs
-466340	Streuschlagkanister
 465952	Bedrohlicher böser Batzen Bomben
 466154	Explosionsverbrennung
+466153	Böses außerplanmäßiges Bumm
 466165	700-kg-"Blindgänger"
 466246	Fokussierte Detonation
 1217292	Verzögertes Knistern
 467182	Unterdrückung
 466751	Wärme ablassen
-1220290	Gekonnte Schüsse
+1222831	Überladene Spulen
+466340	Streuschlagkanister
 469286	Gigaspulen
 469327	Gigaexplosion
+469362	Aufgeladene Gigabombe
 469404	GigaBUMM!
-1220846	Steuerungsschmelze
+469795	Gigabombendetonation
+1220669	Sabotierte Steuerung
 1215209	Sabotagezone
 466341	Verschmolzene Kanister
--31482	Techniker der Düsternisverschmolzenen
-469362	Aufgeladene Gigabombe
-471352	Mehr Saft!
 466834	Schockbeschuss
 1216845	Schraubenschlüssel
 1216852	Schwerfällige Wut
-1214226	Kraterbildung
 1214229	Panzerung der Armageddonklasse
 1214369	TOTALE ZERSTÖRUNG!!!
 1214607	Bedrohlichere bösere Bombenexplosion
+1214755	Überladene Raketen
 466342	Tick-tack-Kanister
+1219333	Gallykies-Finalschlag
 466958	Egoüberprüfung
 
 
