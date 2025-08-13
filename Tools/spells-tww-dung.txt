@@ -8,21 +8,19 @@
 434830	Widerliche Spinnweben
 436614	Fangnetz
 439208	Fangnetz
-438622	Verstärkung!
 434793	Resonierendes Sperrfeuer
 434824	Gespinstschauer
 434802	Entsetzliches Gellen
 438877	Ruf der Brut
 438826	Giftige Wolke
 453161	Durchbohren
-465012	Zerschmettern
+1241693	Heuschreckenschwarm
 432967	Alarmierender Schrei
 433002	Extraktionsschlag
 448248	Abstoßende Salve
 433845	Hervorbrechende Gespinste
 433841	Giftsalve
-433785	Packendes Schlitzen
-434252	Massives Schmettern
+1241785	Unreines Blut
 433821	Spurtender Schlag
 
 ; Boss: Avanoxx
@@ -36,6 +34,7 @@
 439506	Bodensturm
 433740	Befall
 433766	Auge des Schwarms
+433781	Endloser Schwarm
 442210	Seidenfesseln
 
 ; Boss: Ki'katal the Harvester
@@ -53,7 +52,10 @@
 ; Boss: Trash
 437721	Siedende Flammen
 437956	Ausbrechendes Inferno
+434773	Mieser Krug
 463218	Leicht entzündliches Fass
+434756	Stuhl werfen
+441408	Durstig
 434706	Glutbräuwurf
 463206	Weichklopfen
 434998	Fleischflugkörper
@@ -61,6 +63,7 @@
 441434	Missglückte Ladung
 448619	Tollkühne Zustellung
 441179	Triefender Honig
+441214	Getränk verschütten
 441242	Gratisproben?
 441119	Bienenrakete
 441351	Bienenfuror
@@ -83,12 +86,13 @@
 440147	Einmal vollmachen
 439202	Brennende Gärung
 439031	Bräutaler Aufwärtshaken
-;441179	Triefender Honig
+440087	Triefender Honig
 
 ; Boss: Benk Buzzbee
 438025	Lieblingsgericht
 439524	Flatternde Flügel
 440134	Honigmarinade
+438971	Schredderstich
 
 ; Boss: Goldie Baronbottom
 435560	Hoch die Tassen!
@@ -177,6 +181,7 @@
 426260	Pyroverprügeln
 422393	Erstickende Dunkelheit
 422541	Lichtsauger
+469620	Schleichender Schatten
 
 ; Boss: Ol' Waxbeard
 422116	Tollkühner Ansturm
@@ -225,9 +230,9 @@
 424423	Hervorschnellender Schlag
 424431	Heiliges Strahlen
 448515	Göttliches Urteil
-424420	Glutdetonation
 424462	Glutsturm
 427609	Verstörender Schrei
+427621	Durchbohren
 427342	Verteidigen
 453458	Krähenfüße
 462859	Schuss ins Blaue
@@ -245,7 +250,7 @@
 
 ; Boss: Captain Dailcry
 424419	Schlachtruf
-447270	Speer schleudern
+1238780	Erderschütternder Speer
 424414	Rüstung durchbohren
 447439	Wildes Zerfleischen
 
@@ -274,6 +279,7 @@
 
 ; Boss: Trash
 449042	Strahlendes Licht
+1242074	Ansteigende Aggressivität
 431309	Verlangsamende Schatten
 432448	Stygische Saat
 431364	Quälender Strahl
@@ -290,9 +296,7 @@
 431494	Schwarzer Grat
 451112	Rage des Taktikers
 432520	Umbralbarriere
-431637	Umbralansturm
 432565	Schwarzer Hagel
-431304	Dunkelschollen
 431349	Quälender Ausbruch
 446615	Verstärkung heranführen
 
@@ -437,15 +441,13 @@
 465827	Blut verzerren
 465813	Lethargisches Toxin
 462771	Vermessungsstrahl
+463169	Dynamit mit Zielhilfe III
 465408	Schnellbauweise
 468726	Zephyriumladung platzieren
 468631	Harpune
 471736	Tang abwerfen
 471733	Regenerierende Algen
 1214337	Bomben legen
-469818	Blasenbölker
-1217496	Plitschplatsch
-469721	Spuckschluck
 469799	Überladen
 465666	Funkenhieb
 
@@ -464,6 +466,7 @@
 460867	Mächtiger BadaBUMM!
 1217653	R.D.F.F.K.
 473690	Kinetisches explosives Gel
+460602	Schnellschuss
 459779	Unkontrollierter Ansturm
 459799	Verprügeln
 
@@ -479,5 +482,57 @@
 468813	Gigaschock
 466190	Donnerboxhieb
 468723	Schockwasser
+
+
+; -------------------------------------
+; Zone: Eco-Dome Al'dani
+; -------------------------------------
+
+; Boss: Trash
+1236981	Störgranate
+1239229	Woge der K'areshi
+1229474	Verschlingen
+1221152	Gieriges Schmettern
+1221190	Gefräßiges Miasma
+1226111	Instabiler Ausstoß
+1235368	Arkanes Schlitzen
+1231244	Instabiler Kern
+1222202	Arkane Verbrennung
+1229510	Überspringender Stromschlag
+1222356	Raumkrümmung
+1221483	Überspringende Energie
+1221532	Unberechenbares Ritual
+1248699	Geist verschlingen
+1226492	Ritual unterbrochen
+1223000	Umarmung von K'aresh
+1237195	Bodensturm
+1237220	Stechender Sandsturm
+;1215850	Erdmalmer
+1223007	Grabende Eruption
+1222341	Schwermutsbiss
+
+; Boss: Azhiccar
+1217232	Verschlingen
+1217247	Festmahl
+1217327	Eindringender Schrei
+1227745	Toxischer Auswurf
+1217446	Verdauender Speichel
+1217664	Hauen
+
+; Boss: Taah'bat and A'wazj
+1236130	Bindender Wurfspeer
+1227918	Sphärenstoß
+1219482	Rissklauen
+1219700	Arkaner Blitz
+1219457	Unkörperlich
+1219731	Destabilisiert
+
+; Boss: Soul-Scribe
+1224793	Flüstern des Schicksals
+1224865	Schicksalsgebunden
+1226444	Verwundetes Schicksal
+1236703	Ewiges Geflecht
+1225218	Schrecken des Unbekannten
+1225174	Zeremonieller Dolch
 
 

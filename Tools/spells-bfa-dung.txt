@@ -266,7 +266,6 @@
 ; Boss: K.U.-J.0.
 291930	Fallschirmabwurf
 291946	Flammen ablassen
-291937	Hinter Schrott verstecken
 291973	Explosiver Sprung
 294929	Lodernder Biss
 
@@ -275,6 +274,8 @@
 294855	Blütenschuss
 285440	"Versteckte" Flammenkanone
 285454	Diskom-BOMB-ulator
+292332	Selbststutzende Hecke
+1213154	Elektrisierter Boden
 
 ; Boss: King Mechagon
 291865	Rekalibrieren
@@ -459,6 +460,7 @@
 ; Boss: Trash
 280604	Eisgekühlte Schorle
 267433	Mech aktivieren
+267980	Fettflinte
 263628	Aufgeladener Schild
 472041	Tränengas
 262092	Dämpfe einatmen
@@ -475,8 +477,10 @@
 263215	Tektonische Barriere
 1214754	Massives Schmettern
 1213139	Überstunden!
+1214751	Brutaler Ansturm
 268846	Echoklinge
 473304	Geistesblitz
+262794	Gedankenpeitsche
 268797	Transmutieren: Feind zu Glibber
 269429	Geladener Schuss
 262383	Kriechermine absetzen

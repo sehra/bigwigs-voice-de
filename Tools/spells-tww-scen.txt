@@ -25,8 +25,10 @@
 474004	Bohrbeben
 1213656	Überstunden!
 473541	Schlaghagel
+473537	Aufwärtshaken
 473696	Brandsatz
 472842	Zerstören
+1237160	Strahlungsring
 
 ; Boss: Kobold
 449071	Lodernder Docht
@@ -138,6 +140,30 @@
 
 
 ; -------------------------------------
+; Zone: Archival Assault
+; -------------------------------------
+
+; Boss: Captain Nihitan
+1239350	Alle Mann an Deck!
+1239427	Versenkt dieses Ziel!
+1239445	Breitseite
+1239533	Kosmische Wüste
+1239407	Durchstoßen
+
+; Boss: Portalmaster Halsan
+1241753	Portalinfusion
+1241991	Zeitbombe der K'areshi
+1242142	Implosion
+
+; Boss: Voidrider Challnax
+1238892	Nullatem
+1238909	Umbralbombardement
+1239134	Kosmische Beruhigung
+1238919	Leerenermächtigung
+1238930	Durchbohren
+
+
+; -------------------------------------
 ; Zone: Demolition Done
 ; -------------------------------------
 
@@ -195,9 +221,10 @@
 1213700	Nicht erhörter Anruf
 
 ; Boss: Xel'anegh The Many
-1213804	Schattensperrfeuer
+1213791	Schattensperrfeuer
 1213426	Tentakelschlag
 1213425	Erschreckendes Gebrüll
+1213275	Verwundet
 
 
 ; -------------------------------------
@@ -236,6 +263,7 @@
 454213	Schlickladung
 470582	Sumpfbolzen
 453897	Sporenlied
+427710	Sporplosion
 
 
 ; -------------------------------------
@@ -247,7 +275,7 @@
 458874	Schattenwelle
 ;443482	Segen des Abends
 
-; Boss: Reformed Fury
+; Boss: Speaker Davenruth
 443837	Schattenschwung
 ;443482	Segen des Abends
 444408	Zorn des Sprechers
@@ -259,6 +287,14 @@
 ;443837	Schattenschwung
 443908	Feuer!
 443840	Verwüstungswoge
+
+; Boss: Speaker Wicke
+;443837	Schattenschwung
+470592	Segen des Abends
+;444408	Zorn des Sprechers
+;444479	Dunkelfeuersalve
+470593	Tod verursachen
+;434281	Echo von Renilash
 
 
 ; -------------------------------------
@@ -391,6 +427,19 @@
 450330	Wachs werfen
 450142	Wegbrennen
 450128	Giftiges Gas
+
+
+; -------------------------------------
+; Zone: Voidrazor Sanctuary
+; -------------------------------------
+
+; Boss: Nexus-Princess Ky'veza (Tier 11)
+1245240	Nexusdolche
+1245582	Netherriss
+1245203	Dunkles Massaker
+1244462	Die Schatten herbeirufen
+1244600	Schatteneruption
+1250052	Die Schatten
 
 
 ; -------------------------------------

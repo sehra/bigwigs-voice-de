@@ -56,18 +56,21 @@
 
 ; Boss: Trash
 326450	Treue Tiere
-325799	Schnellfeuer
-344993	Gezackter Rundumschlag
-346866	Steinatem
-342171	Treuer Steingeborener
-325523	Tödliches Zustoßen
-325876	Fluch der Auslöschung
-325700	Sünden sammeln
+1237602	Klaffende Wunde
+1235060	Animabefleckte Rüstung
+325876	Mal der Auslöschung
 325701	Lebensentzug
+326997	Mächtiger Prankenhieb
+1235326	Unterbrechendes Kreischen
+1237071	Steinfaust
 326409	Hauen
 326441	Sündenbeben
-326607	In Stein verwandeln
-326997	Mächtiger Prankenhieb
+1235762	In Stein verwandeln
+1235766	Tödlicher Stoß
+326638	Gleve schleudern
+326794	Dunkle Kommunion
+1236614	Machtdemonstration
+326847	Sünde zerstreuen
 326891	Seelenpein
 
 ; Boss: Halkias, the Sin-Stained Goliath
@@ -79,23 +82,23 @@
 
 ; Boss: Echelon
 319733	Steinruf
-328206	Fluch des Steins
+328206	Fleisch zu Stein
 319941	Steinzerschmetternder Sprung
 326389	Blutstrom
 
 ; Boss: High Adjudicator Aleez
-323538	Machtblitz
-323552	Machtsalve
+323538	Animablitz
 329340	Animabrunnen
+323597	Spektrale Prozession
+1236512	Instabile Anima
 323650	Heimsuchende Fixierung
 
 ; Boss: Lord Chamberlain
 329104	Schattentor
 328791	Ritual des Kummers
-323143	Telekinetischer Wurf
+323142	Telekinetischer Wurf
 323236	Entfesseltes Leid
-323437	Stigma des Stolzes
-327885	Ausbrechende Pein
+1236973	Ausbrechende Pein
 
 
 ; -------------------------------------
@@ -313,42 +316,62 @@
 ; -------------------------------------
 
 ; Boss: Trash
-356031	Stasisstrahl
-356324	Ermächtigte Glyphe der Bändigung
+352796	Ersatzschlag
 356548	Strahlender Impuls
+355900	Störgranate
+355888	Hartlichtbaton
+355891	Teleport
+355915	Glyphe der Bändigung
 356001	Schneidstrahl
+355934	Hartlichtbarriere
+355980	Refraktionsschild
+356537	Ermächtigte Glyphe der Bändigung
 356929	Aufsichtskette
 356942	Abriegeln
 356404	Lavaodem
 356407	Uralter Schrecken
 357512	Rasender Ansturm
+357508	Wildes Hauen
+355830	Schnellklinge
+357197	Lichtsplitterrückzug
 356967	Hyperlichtrückhand
+357229	Chronolichtverstärker
 357029	Hyperlichtbombe
-355980	Refraktionsschild
-355934	Hartlichtbarriere
 347721	Käfig öffnen
+347775	Spamfilter
+347716	Brieföffner
+1240821	Energiegeladenes Schmettern
+1240912	Durchbohren
+355640	Phalanxfeld
 355637	Unterdrückender Stoß
 355642	Hyperlichtsalve
-355782	Kraftmultiplikator
+1244443	Kraftmultiplikator
 355477	Energietritt
-355480	Tödliche Gewalt
+355479	Tödliche Gewalt
+355473	Schockminen
 358443	Blut im Wasser
 355132	Kräftigendes Fischstäbchen
+355234	Instabiler Kugelfisch
 355057	Schrei von Mrrggllrrgg
+355048	Panzerknacker
 355429	Gezeitenstampfen
+355464	Brockenwurf
 355584	Geladener Impuls
 355577	Knistern
 356133	Supersaisonbier
+1244650	Gezeitenexplosion
+368661	Schwertwurf
 357226	Treibender Stern
 357238	Wandernder Pulsar
 357260	Instabiler Riss
-357284	Neu stärken
 
 ; Boss: Zo'phex the Sentinel
-347949	Verhör
+348350	Verhör
 345990	Eindämmungszelle
 345770	Schmuggelware beschlagnahmen
 346204	Armierte Sicherheit
+348128	Vollständig armiert
+1236348	Aufgeladenes Schlitzen
 
 ; Boss: The Grand Menagerie
 349627	Maßlosigkeit
@@ -358,11 +381,14 @@
 349954	Reinigungsprotokoll
 349934	Geißelungsprotokoll
 349987	Entlüftungsprotokoll
+350045	Ätzende Anima
+350037	Freiliegender Animakern
 350101	Ketten der Verdammnis
 350086	Wirbelnde Vernichtung
 
 ; Boss: Mailroom Mayhem
 346286	Gefährliche Flüssigkeiten
+346329	Vergossene Flüssigkeiten
 346742	Rundschreiben
 346962	Postanweisung
 346947	Instabile Waren
@@ -371,43 +397,49 @@
 ; Boss: Myza's Oasis
 356482	Verfaultes Essen
 353783	Teleport
-353835	Unterdrückung
 350916	Sicherheitsschmettern
-353706	Ungehobelt
 350922	Bedrohlicher Schrei
+353706	Ungehobelt
 350919	Kontrollverlust
 355438	Unterdrückungsfunke
 359028	Sicherheitsschmettern
+1241032	Letzte Warnung
+357404	Disharmonischer Gesang
+357436	Ansteckendes Solo
+357542	Akkord anschlagen
 
 ; Boss: So'azmi
-357188	Doppeltechnik
-347610	Shuri
-347249	Teilen
-347623	Schnellklinge
+1245579	Shuri
+1245634	Teilen
+1245669	Doppeltechnik
+1248209	Phasenstreich
+1245752	Dreiertechnik
 
 ; Boss: Hylbrande
 353312	Läuternder Ausbruch
 346116	Scherende Schwünge
 347094	Titanenschmettern
-346959	Läuterung durch Feuer
+346957	Läuterung durch Feuer
 346766	Sterilisierungszyklus
+358131	Blitznova
 
 ; Boss: Timecap'n Hooktail
 347149	Unendlicher Atem
-347151	Hakenhieb
-354334	Am Haken!
 352345	Ankerschuss
-347371	Kartätschenschuss
-350517	Zeitverdopplung
+358947	Brennender Teer
+1240102	Zeitbomben
 
 ; Boss: So'leah
-351124	Assassinen beschwören
+350796	Hyperlichtfunken
 353635	Kollabierender Stern
 350804	Kollabierende Energie
-350796	Hyperlichtfunken
-351086	Überwältigende Macht
-351096	Energiefragmentierung
+351124	Assassinen beschwören
 351119	Shurikenblitz
+351086	Überwältigende Macht
+350875	Hyperlichtschock
+351096	Energiefragmentierung
+351646	Hyperlichtnova
+357190	Sternenverwundbarkeit
 
 
 ; -------------------------------------
@@ -494,6 +526,7 @@
 330586	Fleisch verschlingen
 330614	Abscheulicher Ausbruch
 342103	Stinkende Galle
+330532	Gezackter Bolzen
 1215850	Erdmalmer
 331316	Wilder Schlaghagel
 317605	Wirbelwind

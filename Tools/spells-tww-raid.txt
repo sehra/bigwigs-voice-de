@@ -255,25 +255,29 @@
 464112	Demolieren
 1217954	Schmelze
 467117	Turbogang
-467135	Müllpresse
+467109	Müllpresse
 1218704	Stromspulenprototyp
 
 ; Boss: Sprocketmonger Lockenstock
+468791	Gigatod
 1216802	Polarisierungsgenerator
 1216911	Positivpolarisierung
 1216934	Negativpolarisierung
 1219047	Polarisierte Katastrophexplosion
+1216706	Sperrfeuer der Leere
 473276	Erfindungen aktivieren!
+1221320	Erfindungen aktivieren!
 1217231	Fußblaster
+1216406	Instabile Explosion
 1218342	Instabiles Schrapnell
 1218418	Teletransfer
+466235	Teletransfer
 1216509	Schraube locker
 465232	Überschall-o-Knall
 1214878	Pyro-Party-Paket
 465917	Gravischlick
-466860	Kaltblütiges Kalkül
+466765	Betastart
 1218319	Leerensplosion
-468791	Gigatod
 
 ; Boss: The One-Armed Bandit
 460181	Gewinnlinie
@@ -287,10 +291,12 @@
 464705	Goldene Eintrittskarte
 460582	Überladung!
 471927	Siechflammen
+465309	Mit Betrug zum Gewinn!
 465765	Wartungszyklus
+473195	Verbundene Maschinen
 465432	Verbundene Maschinen
 465322	Heiß, heißer, am heißesten
-465580	Verstreute Auszahlung
+465325	Heiß, heißer, am heißesten
 465587	Explosiver Volltreffer
 
 ; Boss: Mug’Zee, Heads of Security
@@ -329,13 +335,17 @@
 467182	Unterdrückung
 466751	Wärme ablassen
 1222831	Überladene Spulen
+1217987	Kombinationskanister
+1218488	Streubombenkanister
+474130	Kanister des Mechmeisteringenieurs
+1218546	Bedrohlichster bösester Bombenbeschuss
+1218696	Raketen des Durcheinanders
 466340	Streuschlagkanister
 469286	Gigaspulen
 469327	Gigaexplosion
 469362	Aufgeladene Gigabombe
 469404	GigaBUMM!
 469795	Gigabombendetonation
-1220669	Sabotierte Steuerung
 1215209	Sabotagezone
 466341	Verschmolzene Kanister
 466834	Schockbeschuss
@@ -348,5 +358,178 @@
 466342	Tick-tack-Kanister
 1219333	Gallykies-Finalschlag
 466958	Egoüberprüfung
+
+
+; -------------------------------------
+; Zone: Manaforge Omega
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Plexus Sentinel
+1220679	Phasenteleport
+1219223	Atomisieren
+1219248	Arkane Strahlung
+1227794	Arkaner Blitzschlag
+1219607	Vernichtender Beschuss
+1219450	Manifestierte Matrizen
+1218625	Versetzungsmatrix
+1219354	Potente Manarückstände
+1219263	Arkanokanone der Auslöschung
+1218668	Energieschneider
+1233110	Läuternder Blitzschlag
+1219471	Ausstoßzone
+
+; Boss: Loom'ithar
+1237272	Hortweben
+1238502	Gewebter Schutz
+1226311	Infusionsleine
+1226366	Lebende Seide
+1226721	Seidenfessel
+1226395	Überinfusionssprengung
+1237212	Durchbohrender Draht
+1228059	Entfesselter Zorn
+1243771	Arkanes Sekret
+1227782	Arkane Empörung
+1227226	Windende Welle
+1246921	Infusionspylonen
+
+; Boss: Soulbinder Naazindhri
+1225582	Seelenruf
+1227048	Leerenklingenhinterhalt
+1227052	Leerenstoß
+1227276	Vernichtender Seelenkampf
+1223859	Arkaner Ausstoß
+1225616	Seelenfeuerkonvergenz
+1226827	Seelenfetzerkugel
+1241100	Mystische Peitsche
+1242086	Arkane Energie
+
+; Boss: Forgeweaver Araz
+1231720	Sammler herbeirufen
+1228214	Astralernte
+1236207	Astrale Woge
+1228216	Arkane Auslöschung
+1228219	Astrales Zeichen
+1228188	Verstummender Sturm
+1228502	Überwältigende Kraft
+1227631	Arkaner Ausstoß
+1248009	Dunkler Terminus
+1240705	Astralbrand
+1240437	Flüchtige Woge
+1232412	Fokussierungsiris
+1234328	Photonenexplosion
+1232590	Arkane Konvergenz
+-32596	Vom Schild beschützter Diener
+1238266	Ansteigende Kraft
+1233415	Manasplitter
+1233074	Erdrückende Dunkelheit
+1243901	Leerenernte
+1243641	Leerensog
+1248171	Leerenriss
+1232221	Todeswindungen
+
+; Boss: The Soul Hunters
+1222232	Zorn des Verschlingers
+1222310	Endloser Hunger
+1227355	Leerenschritt
+1227685	Hungernder Hieb
+1235045	Drohendes Vergessen
+1233105	Dunkle Rückstände
+1233968	Ereignishorizont
+1227809	Die Jagd
+1241306	Klingentanz
+1218103	Augenstrahl
+1221490	Teufelsversengt
+1225130	Teufelsklinge
+1240891	Zeichen der Ketten
+1241833	Fraktur
+1226493	Zerschmetterte Seele
+1241946	Gebrechlichkeit
+1242259	Geistbombe
+1242284	Seelenschmettern
+1242304	Ausgestoßene Seele
+1233672	Infernoeinschlag
+1233381	Siechflammen
+
+; Boss: Fractillus
+1232130	Nexusschrapnell
+1247424	Nullverzehrung
+1225673	Wütendes Zerspringen
+1233416	Kristalline Schockwelle
+1224414	Kristalline Schockwelle
+1220394	Zerschmetternde Rückhand
+1227373	Schmetterpanzer
+1227378	Kristalleinhüllung
+1231871	Schockwellenschlag
+1232760	Kristallische Fleischwunden
+
+; Boss: Nexus-King Salhadaar
+1224737	Eidgebunden
+1224767	Knecht des Königs
+1224776	Herrschaft der Unterwerfung
+1224787	Erobern
+1224812	Bezwingen
+1227549	Verbannung
+1224906	Den Eid beschwören
+1224827	Köpfen
+1231097	Kosmischer Riss
+1227470	Belagern
+1227734	Verdichtete Leerenschwinge
+1228115	Netherbrecher
+1228163	Dimensionsatem
+1234529	Kosmischer Schlund
+1230302	Selbstzerstörung
+1232399	Schreckensmörser
+1228075	Nexusstrahlen
+1230261	Netherexplosion
+1228265	Hunger des Königs
+1226648	Galaktisches Schmettern
+1225444	Atomisiert
+1225645	Zwielichtstacheln
+1226362	Zwielichtnarbe
+1226413	Sternenzerschmettert
+1226442	Sternentöterschwinger
+1225634	Welt im Zwielicht
+1238975	Rachsüchtiger Schwur
+
+; Boss: Dimensius, the All-Devouring
+1230087	Massives Schmettern
+1228206	Überschüssige Masse
+1228207	Gemeinsame Schwerkraft
+1230168	Tödliche Zerbrechlichkeit
+1229038	Verschlingen
+1230979	Dunkle Materie
+1231002	Dunkle Energie
+1243690	Zerbrochener Raum
+1243702	Antimaterie
+1243699	Raumfragment
+1243577	Gravitation umkehren
+1243609	Fliegend
+1235114	Aufsteigendes Reshii
+1237097	Astrophysischer Strahl
+1230674	Spaghettifizierung
+1246930	Stellarkern
+1238765	Ausrottung
+1237319	Gammaexplosion
+1237690	Finsternis
+1237694	Massenauswurf
+1237696	Trümmerfeld
+1239262	Kreuz des Eroberers
+1239270	Leerenwachen
+1246541	Nullbindung
+1246145	Berührung der Vergessenheit
+1237695	Sternenstaubnova
+1245292	Destabilisiert
+1233292	Akkretionsscheibe
+1231716	Löscht die Sterne aus
+1232394	Gravitationsbrunnen
+1233539	Verschlingen
+1234044	Verdunkelter Himmel
+1234054	Schattenbeben
+1234263	Kosmischer Kollaps
+1234266	Kosmische Zerbrechlichkeit
+1232973	Supernova
+1250055	Leerengriff
 
 
