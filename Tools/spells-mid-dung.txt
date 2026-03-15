@@ -1,0 +1,267 @@
+; Type: Midnight Dungeon
+
+; -------------------------------------
+; Zone: Den of Nalorakk
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: The Hoardmonger
+1234846	Toxische Sporen
+1235125	Herzhaftes Brüllen
+
+; Boss: Sentinel of Winter
+1235549	Eiszeitliche Folter
+1235829	Schleier des Winters
+1235841	Schneewehe
+1235641	Wütender Sturm
+1236289	Zorn des Blizzards
+
+; Boss: Nalorakk
+1242869	Wiederhallende Hiebe
+1243590	Überwältigender Ansturm
+1255577	Spektralschlitzer
+1262253	Demoralisierender Schrei
+1261781	Verteidigungshaltung
+
+
+; -------------------------------------
+; Zone: Magisters' Terrace
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Arcanotron Custos
+474496	Abstoßendes Schmettern
+1214081	Arkaner Ausstoß
+1214032	Ätherische Fesseln
+474345	Aufladeprotokoll
+1214089	Arkane Überreste
+1243905	Instabile Energie
+
+; Boss: Seranel Sunlash
+1225787	Runenmal
+1224903	Unterdrückungsbereich
+1248689	Beschleunigender Zauberschutz
+1225193	Welle der Stille
+1225015	Unterdrückungsbereich
+1225205	Welle der Stille
+1246446	Nullreaktion
+
+; Boss: Gemellus
+1223847	Verdreifachung
+1284954	Kosmischer Stich
+1253709	Neurale Verbindung
+1224299	Astraler Griff
+1224104	Leerenabsonderungen
+1224401	Kosmische Strahlung
+
+; Boss: Degentrius
+1280113	Wuchtiges Fragment
+1215897	Verschlingende Entropie
+1215087	Instabile Leerenessenz
+1215157	Instabile Leerenessenz
+1215161	Leerenzerstörung
+1269631	Entropiekugel
+
+
+; -------------------------------------
+; Zone: Maisara Caverns
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Muro'jin and Nekraxx
+1266480	Flankenspeer
+1246666	Infizierte Flügelspitzen
+1260731	Eiskältefalle
+1243900	Fauler Federsturm
+1260643	Sperrfeuer
+1249479	Aasfressersturzflug
+1243741	Eiskältefalle
+1243752	Eisige Lache
+1249478	Aasfressersturzflug
+1260709	Stich der Blutfratzen
+1266488	Offene Wunde
+
+; Boss: Vordaza
+1251554	Seelendieb
+1251204	Phantome entreißen
+1252054	Zerrütten
+1250708	Nekrotische Konvergenz
+1251568	Seelendieb
+1251775	Letzte Verfolgung
+1251813	Schwelender Schrecken
+1251833	Seelenfäule
+1252130	Zerrütten
+1266706	Heimsuchende Überreste
+
+; Boss: Rak'tul, Vessel of Souls
+1251023	Geistbrecher
+1252676	Seelen brechen
+1253788	Seelenreißendes Brüllen
+1252675	Seelen brechen
+1252777	Seelenbindung
+1252816	Kälte des Todes
+1253779	Spektraler Verfall
+1253844	Verdorrende Seele
+1254043	Ewiges Leid
+1254175	Schreie der Gefallenen
+1255629	Spektrale Rückstände
+1266188	Schattenreich
+
+
+; -------------------------------------
+; Zone: Murder Row
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Kystia Manaheart
+1228198	Zersetzender Speichel
+
+; Boss: Zaen Bladesorrow
+474515	Herzstillstandsgift
+474545	Tödliche Linie
+1214352	Feuerbombe
+
+; Boss: Xathuux the Annihilator
+473898	Legionshieb
+474234	Brennende Schritte
+1214650	Teufelsblitzschlag
+
+; Boss: Lithiel Cinderfury
+
+
+; -------------------------------------
+; Zone: Nexus-Point Xenas
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Chief Corewright Kasreth
+1251626	Leylinienmatrix
+1251772	Ladungsrückstoß
+1257836	Ladungsrückstoß
+1264042	Arkanfleck
+1276485	Funkenbrand
+
+; Boss: Corewarden Nysarra
+1247937	Umbralpeitsche
+1249014	Verdunkelnder Schritt
+1252703	Nullvorhut
+1264439	Lichtgezeichnete Flamme
+1252828	Leerenschnitt
+
+; Boss: Lothraxion
+1253950	Sengende Verwundung
+1253855	Strahlende Zerstreuung
+1255531	Flackern
+1257595	Göttliche List
+1255310	Strahlende Narbe
+1255335	Sengende Verwundung
+1255503	Strahlende Zerstreuung
+
+
+; -------------------------------------
+; Zone: The Blinding Vale
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Lightblossom Trinity
+1234802	Fruchtbarer Lehm
+1235574	Lichtblumenstrahl
+1235828	Lichtverbrannte Erde
+1235865	Dornenklinge
+
+; Boss: Ikuzz the Light Hunter
+1237091	Blutrünstiger Blick
+1237267	Aufschlitzen
+1272290	Zerkaut
+
+; Boss: Lightwarden Ruia
+1239825	Lichtfeuer
+1239919	Lichtfeuerstrahlen
+1241058	Schreckliches Dreschen
+1251345	Seuchenharz
+1257094	Pulverisiert
+
+; Boss: Ziekket
+1246751	Konzentrierter Lichtstrahl
+1246753	Lichtsaft
+1247746	Dornenstachel
+
+
+; -------------------------------------
+; Zone: Voidscar Arena
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Taz'Rah
+1222103	Netherspurt
+1262283	Dunkler Riss
+1222305	Dunkler Riss
+
+; Boss: Atroxus
+1222484	Giftlache
+1222642	Bullige Klaue
+1226031	Säurespritzer
+1263971	Bleibendes Gift
+
+; Boss: Charonus
+1227197	Kosmische Explosion
+1248130	Instabile Singularität
+1264188	Ereignishorizont
+
+
+; -------------------------------------
+; Zone: Windrunner Spire
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Emberdawn
+466556	Flammender Aufwind
+466064	Sengender Schnabel
+465904	Brennende Bö
+466091	Sengender Schnabel
+466559	Flammender Aufwind
+470212	Flammende Wirbelstürme
+472118	Entfachte Funken
+
+; Boss: Derelict Duo
+472745	Spritzender Auswurf
+472888	Knochenhacker
+474105	Fluch der Dunkelheit
+472736	Entkräftendes Kreischen
+472777	Verspritzte Galle
+472793	Wuchtiger Ruck
+474129	Spritzender Auswurf
+1215803	Fluch der Dunkelheit
+1219491	Entkräftendes Kreischen
+1253834	Fluch der Dunkelheit
+1282272	Vollgespritzt
+
+; Boss: Commander Kroluk
+1250851	Schildwall
+467620	Toben
+472081	Tollkühner Sprung
+1253272	Drohruf
+470963	Klingensturm
+468659	Axt werfen
+
+; Boss: The Restless Heart
+472556	Pfeilhagel
+472662	Sturmschlitzer
+1253986	Böenschuss
+468429	Zielscheibenwindstoß
+474528	Blitzbö
+468442	Wogender Wind
+1216042	Sturmböensprung
+1253979	Böenschuss
+1282911	Blitzbö
+1282955	Stürmischer Seelenquell
+
+

@@ -8,11 +8,13 @@
 434830	Widerliche Spinnweben
 436614	Fangnetz
 439208	Fangnetz
+438618	Giftige Spucke
 434793	Resonierendes Sperrfeuer
 434824	Gespinstschauer
 434802	Entsetzliches Gellen
 438877	Ruf der Brut
 438826	Giftige Wolke
+453583	Ansturm
 453161	Durchbohren
 1241693	Heuschreckenschwarm
 432967	Alarmierender Schrei
@@ -290,6 +292,7 @@
 451102	Schattenhafter Verfall
 451119	Abyssalexplosion
 450854	Dunkle Kugel
+460135	Dunkle Narben
 451117	Schreckliches Schmettern
 451098	Klebenova
 451097	Seidenpanzer
@@ -312,6 +315,7 @@
 ; Boss: Anub'ikkaj
 427001	Schreckliches Schmettern
 426860	Dunkle Kugel
+427378	Dunkle Narben
 426787	Schattenhafter Verfall
 452127	Erwachte Schatten
 
@@ -464,6 +468,7 @@
 ; Boss: Demolition Duo
 470090	Getrenntes Duo
 460867	Mächtiger BadaBUMM!
+461994	Verpuffung
 1217653	R.D.F.F.K.
 473690	Kinetisches explosives Gel
 460602	Schnellschuss
@@ -499,6 +504,7 @@
 1231244	Instabiler Kern
 1222202	Arkane Verbrennung
 1229510	Überspringender Stromschlag
+1221679	Sprung des Weitenpirschers
 1222356	Raumkrümmung
 1221483	Überspringende Energie
 1221532	Unberechenbares Ritual
@@ -515,6 +521,7 @@
 1217232	Verschlingen
 1217247	Festmahl
 1217327	Eindringender Schrei
+1231811	Unkontrolliert
 1227745	Toxischer Auswurf
 1217446	Verdauender Speichel
 1217664	Hauen

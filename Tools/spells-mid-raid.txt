@@ -1,0 +1,117 @@
+; Type: Midnight Raid
+
+; -------------------------------------
+; Zone: The Dreamrift
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Chimaerus the Undreamt God
+1262289	Alnstaubaufruhr
+1258610	Rissentstehung
+1264756	Risswahn
+1257087	Zehrendes Miasma
+1246653	Ätzender Auswurf
+1272726	Reißendes Schlitzen
+1245396	Verschlingen
+1245486	Verderbte Vernichtung
+1245406	Gefräßiger Sturzflug
+1246621	Ätzender Auswurf
+1257085	Zehrendes Miasma
+
+
+; -------------------------------------
+; Zone: The Voidspire
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Imperator Averzian
+1251361	Schattenvorstoß
+1249262	Umbralkollaps
+1280015	Leerenmarkiert
+1260712	Zorn der Vergessenheit
+1258883	Leerenfall
+1249251	Dunkle Verwerfung
+
+; Boss: Vorasius
+1256855	Leerenatem
+1254199	Parasitenausstoß
+1241692	Schattenklauenhieb
+1260052	Urzeitliches Brüllen
+
+; Boss: Fallen-King Salhadaar
+1247738	Leerenkonvergenz
+1246175	Entropische Auflösung
+1250803	Zertrümmerndes Zwielicht
+1254081	Gebrochene Projektion
+1248697	Despotischer Befehl
+1250686	Windende Obskurität
+
+; Boss: Vaelgor & Ezzorak
+1249748	Mitternachtsflammen
+1262623	Nullstrahl
+1244221	Entsetzlicher Atem
+1265131	Vaelschwinge
+1245391	Düsternis
+1244917	Leerenheulen
+1245645	Rakzahn
+
+; Boss: Lightblinded Vanguard
+1248449	Aura des Zorns
+1248983	Todesurteil
+1246765	Göttlicher Sturm
+1246749	Heiliger Tribut
+1246736	Richturteil
+1246162	Aura der Hingabe
+1248644	Göttlicher Glockenschlag
+1246485	Schild des Rächers
+1251857	Richturteil
+1248451	Aura des Friedens
+1248710	Tyrs Zorn
+1255738	Versengendes Strahlen
+1248674	Geheiligter Schild
+1276243	Eifernder Geist
+
+; Boss: Crown of the Cosmos
+1233602	Silberschlagpfeil
+1232467	Griff des Nichts
+1255368	Leerenausstoß
+1233865	Nullkorona
+1233787	Dunkle Hand
+1243743	Unterbrechendes Beben
+1243753	Unersättlicher Abgrund
+1234569	Stellaremission
+1243982	Silberschlagbeschuss
+1235622	Singularitätsausbruch
+1238206	Flüchtiger Riss
+1237614	Mal des Waldläuferhauptmanns
+1237038	Leerenpirscherstich
+1237837	Ruf der Leere
+1246918	Kosmische Barriere
+1246461	Risshieb
+1245874	Umkreisende Materie
+1238843	Verschlingender Kosmos
+1239080	Aspekt des Endes
+1238708	Dunkler Rausch
+
+
+; -------------------------------------
+; Zone: March on Quel'Danas
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Belo'ren, Child of Al'ar
+1241282	Glut von Belo'ren
+1242981	Strahlende Echos
+1260763	Edikt des Wächters
+1244344	Ewiger Brand
+1242260	Erfüllte Federkiele
+1246709	Todessturz
+1241313	Wiedergeburt
+1242792	Flammeninkubation
+
+; Boss: Midnight Falls
+
+

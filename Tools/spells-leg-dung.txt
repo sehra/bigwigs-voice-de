@@ -585,41 +585,38 @@
 ; -------------------------------------
 
 ; Boss: Trash
-249081	Unterdrückungsfeld
-245510	Verderbende Leere
-249078	Leerendiffusion
-248227	Dunkle Materie
 
 ; Boss: Zuraal the Ascended
-246134	Hand der Nichtigkeit
-244579	Dezimieren
-244602	Verdichtete Leere
-244433	Umbralverschiebung
-244653	Fixieren
-244621	Leerenriss
+1263440	Leerenschlitzer
+1263282	Dezimieren
+1268916	Hand der Nichtigkeit
+1263399	Triefendes Schmettern
+1263297	Hereinbrechende Leere
+244588	Leerenschlick
 
 ; Boss: Saprish
-245873	Leerenfalle
-247206	Falle überladen
-247245	Umbralflankierung
-245802	Verheerende Dunkelheit
-248831	Kreischen des Grauens
+245742	Schattenhaftes Anspringen
+1248219	Leerenbombe
+1280065	Phasenspurt
+1263523	Überladung
 
 ; Boss: Viceroy Nezhar
--15926	Abschnitt 8
-244751	Heulende Dunkelheit
-246324	Entropische Kraft
-244906	Kollabierende Leere
-248804	Dunkles Bollwerk
-248736	Ewiges Zwielicht
+244750	Gedankenschlag
+1277358	Tore des Abgrunds
+1263542	Massenleereninfusion
+1263538	Umbraltentakel
+1263528	Abstoßen
+1263532	Leerensturm
+1268733	Gedankenschinden
 
 ; Boss: L'ura
-247795	Anrufung der Leere
-248535	Naarutrauer
-247930	Umbralkadenz
-245164	Fragment der Verzweiflung
-247816	Heimzahlen
-249009	Große Verschiebung
+1265421	Klagelied der Verzweiflung
+1264196	Desintegration
+1265463	Disharmonischer Strahl
+1265689	Grimmiger Chor
+1266003	Symphonie der ewigen Nacht
+1266001	Heimzahlen
+1265650	Qual
 
 
 ; -------------------------------------
@@ -705,7 +702,6 @@
 192520	Vulkan
 192517	Spröde
 192519	Lava
--12727	Gegenmaßnahmen
 
 ; Boss: Glazer
 194945	Verweilender Blick

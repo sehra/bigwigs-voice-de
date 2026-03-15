@@ -34,6 +34,7 @@
 449071	Lodernder Docht
 448399	Schlachtruf
 445210	Feueransturm
+445193	Flammenfeld
 445191	Dochtzündlersalve
 448528	Dynamit werfen
 
@@ -285,7 +286,6 @@
 
 ; Boss: Speaker Halven
 ;443837	Schattenschwung
-443908	Feuer!
 443840	Verwüstungswoge
 
 ; Boss: Speaker Wicke
@@ -406,7 +406,6 @@
 
 ; Boss: Torque Clankfire and Sprok
 1215033	Langluntenraketen
-1215090	Ausweichtaktiken
 1215084	Cocktail der Düsternisverschmolzenen
 1215015	Dieser hier, Boss?
 

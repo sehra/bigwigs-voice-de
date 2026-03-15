@@ -379,6 +379,7 @@
 1218668	Energieschneider
 1233110	Läuternder Blitzschlag
 1219471	Ausstoßzone
+1234733	Säubert die Kammer
 
 ; Boss: Loom'ithar
 1237272	Hortweben
@@ -387,17 +388,21 @@
 1226366	Lebende Seide
 1226721	Seidenfessel
 1226395	Überinfusionssprengung
+1226867	Urzeitlicher Zaubersturm
 1237212	Durchbohrender Draht
+1246921	Infusionspylonen
+1247029	Überschüssige Nova
+1247045	Hyperinfusion
 1228059	Entfesselter Zorn
 1243771	Arkanes Sekret
 1227782	Arkane Empörung
 1227226	Windende Welle
-1246921	Infusionspylonen
 
 ; Boss: Soulbinder Naazindhri
 1225582	Seelenruf
 1227048	Leerenklingenhinterhalt
 1227052	Leerenstoß
+1227848	Essenzimplosion
 1227276	Vernichtender Seelenkampf
 1223859	Arkaner Ausstoß
 1225616	Seelenfeuerkonvergenz
@@ -435,6 +440,7 @@
 1227355	Leerenschritt
 1227685	Hungernder Hieb
 1235045	Drohendes Vergessen
+1245726	Ausradieren
 1233105	Dunkle Rückstände
 1233968	Ereignishorizont
 1227809	Die Jagd
@@ -472,6 +478,7 @@
 1224812	Bezwingen
 1227549	Verbannung
 1224906	Den Eid beschwören
+1225099	Fraktalbilder
 1224827	Köpfen
 1231097	Kosmischer Riss
 1227470	Belagern
@@ -483,6 +490,7 @@
 1232399	Schreckensmörser
 1228075	Nexusstrahlen
 1230261	Netherexplosion
+1228053	Ernten
 1228265	Hunger des Königs
 1226648	Galaktisches Schmettern
 1225444	Atomisiert
@@ -492,6 +500,7 @@
 1226442	Sternentöterschwinger
 1225634	Welt im Zwielicht
 1238975	Rachsüchtiger Schwur
+1237106	Zwielichtmassaker
 
 ; Boss: Dimensius, the All-Devouring
 1230087	Massives Schmettern
@@ -511,15 +520,20 @@
 1230674	Spaghettifizierung
 1246930	Stellarkern
 1238765	Ausrottung
-1237319	Gammaexplosion
+1237325	Gammaexplosion
 1237690	Finsternis
-1237694	Massenauswurf
-1237696	Trümmerfeld
+1246145	Berührung der Vergessenheit
 1239262	Kreuz des Eroberers
 1239270	Leerenwachen
 1246541	Nullbindung
-1246145	Berührung der Vergessenheit
+1237696	Trümmerfeld
+1237694	Massenauswurf
 1237695	Sternenstaubnova
+1249423	Massenvernichtung
+1251619	Sternensplitternova
+1234242	Gravitationsverzerrung
+1234243	Zermalmende Schwerkraft
+1234244	Gravitation umkehren
 1245292	Destabilisiert
 1233292	Akkretionsscheibe
 1231716	Löscht die Sterne aus

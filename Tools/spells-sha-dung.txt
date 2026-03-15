@@ -56,6 +56,7 @@
 
 ; Boss: Trash
 326450	Treue Tiere
+329299	Rückzug
 1237602	Klaffende Wunde
 1235060	Animabefleckte Rüstung
 325876	Mal der Auslöschung
@@ -89,8 +90,9 @@
 ; Boss: High Adjudicator Aleez
 323538	Animablitz
 329340	Animabrunnen
-323597	Spektrale Prozession
 1236512	Instabile Anima
+323743	Spektrale Prozession
+323848	Gefäß der Sühne
 323650	Heimsuchende Fixierung
 
 ; Boss: Lord Chamberlain
@@ -332,6 +334,7 @@
 356407	Uralter Schrecken
 357512	Rasender Ansturm
 357508	Wildes Hauen
+357828	Wilder Sprung
 355830	Schnellklinge
 357197	Lichtsplitterrückzug
 356967	Hyperlichtrückhand
@@ -340,6 +343,7 @@
 347721	Käfig öffnen
 347775	Spamfilter
 347716	Brieföffner
+347842	Anspringen
 1240821	Energiegeladenes Schmettern
 1240912	Durchbohren
 355640	Phalanxfeld
@@ -395,6 +399,7 @@
 346296	Instabilität
 
 ; Boss: Myza's Oasis
+359019	Accelerando!
 356482	Verfaultes Essen
 353783	Teleport
 350916	Sicherheitsschmettern
@@ -420,7 +425,12 @@
 346116	Scherende Schwünge
 347094	Titanenschmettern
 346957	Läuterung durch Feuer
+346961	Läuterndes Feld
 346766	Sterilisierungszyklus
+348450	Umgehungscode: Fryse
+348437	Umgehungscode: Helvete
+348447	Umgehungscode: Lys
+348451	Umgehungscode: Morke
 358131	Blitznova
 
 ; Boss: Timecap'n Hooktail

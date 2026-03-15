@@ -10,28 +10,14 @@
 389521	Schwurbrosche des blauen Drachenschwarms
 389536	Schwurbrosche des grünen Drachenschwarms
 389501	Schwurbrosche des roten Drachenschwarms
-388863	Manaleere
-388911	Zertrennendes Schlitzen
-396812	Mystischer Schlag
-388976	Rissatem
-388984	Heimtückischer Hinterhalt
-388392	Monotone Vorlesung
-377912	Eindringlinge vertreiben
-378003	Tödliche Winde
-377991	Sturmschlitzer
-377389	Ruf des Schwarms
-377383	Windstoß
-390912	Detonationssamen
-387910	Astraler Wirbelwind
-387843	Astralbombe
-387955	Himmlischer Schild
 
 ; Boss: Vexamus
 386544	Arkane Kugeln
-391977	Aggressives Absorbieren
 388537	Arkanriss
 386173	Manabomben
 385958	Arkaner Ausstoß
+386201	Verderbtes Mana
+391977	Aggressives Absorbieren
 
 ; Boss: Overgrown Ancient
 388796	Keimen
@@ -39,26 +25,26 @@
 388623	Verästeln
 388544	Borkenbrecher
 389033	Peitschergift
-396640	Heilende Berührung
-396721	Überfluss
+396716	Splitterborke
 
 ; Boss: Crawth
-377182	Ball spielen!
 389481	Tor des sengenden Feuers
 376448	Feuersturm
 389483	Tor der rauschenden Winde
 376467	Sturmkraft
-377034	Überwältigende Böe
 377004	Ohrenbetäubendes Kreischen
+377034	Überwältigende Böe
+376760	Sturmkraft
 376997	Wildes Picken
+377009	Ohrenbetäubendes Kreischen
 
 ; Boss: Echo of Doragosa
-439488	Energie entfesseln
-389011	Überwältigende Kraft
-388901	Arkaner Riss
-374361	Astralatem
+373326	Arkane Geschosse
+1282251	Astralschock
+374343	Energiebombe
 388822	Kraftvakuum
-374352	Energiebombe
+389007	Wilde Energie
+389011	Überwältigende Kraft
 
 
 ; -------------------------------------
