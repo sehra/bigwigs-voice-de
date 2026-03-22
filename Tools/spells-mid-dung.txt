@@ -7,19 +7,26 @@
 ; Boss: Trash
 
 ; Boss: The Hoardmonger
+1253268	Erdspalterschlag
+1235118	Rasendes Gebrüll
+1234233	Verdorbene Vorräte
 1234846	Toxische Sporen
 1235125	Herzhaftes Brüllen
 
 ; Boss: Sentinel of Winter
-1235549	Eiszeitliche Folter
+1235783	Splitternder Froststachel
+1235548	Eiszeitliche Folter
+1235623	Wütender Sturm
+1235656	Ewiger Winter
 1235829	Schleier des Winters
 1235841	Schneewehe
-1235641	Wütender Sturm
 1236289	Zorn des Blizzards
 
 ; Boss: Nalorakk
-1242869	Wiederhallende Hiebe
-1243590	Überwältigender Ansturm
+1242860	Wiederhallende Hiebe
+1243569	Überwältigender Ansturm
+1255385	Kraftvolles Brüllen
+1243011	Zorn des Kriegsgottes
 1255577	Spektralschlitzer
 1262253	Demoralisierender Schrei
 1261781	Verteidigungshaltung
@@ -121,9 +128,12 @@
 1228198	Zersetzender Speichel
 
 ; Boss: Zaen Bladesorrow
+474478	Mordlust
+474765	Expresslieferung
+1214357	Feuerbombe
+1222795	Vergiften
+1218347	Tödliche Linie
 474515	Herzstillstandsgift
-474545	Tödliche Linie
-1214352	Feuerbombe
 
 ; Boss: Xathuux the Annihilator
 473898	Legionshieb

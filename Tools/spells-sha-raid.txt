@@ -519,7 +519,6 @@
 
 ; Boss: Anduin Wrynn
 362405	Königsgram hungert
-362055	Verlorene Seele
 361989	Blasphemie
 365295	Besudelte Barriere
 365021	Tückischer Stern
@@ -586,7 +585,6 @@
 366374	Weltenzermalmer
 366678	Weltenknacker
 367051	Weltzerschmetterer
-368383	Umgeleiteter Lebensschild
 360378	Meteorspalten
 368591	Todesurteil
 

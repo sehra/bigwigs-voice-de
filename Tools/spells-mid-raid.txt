@@ -50,6 +50,7 @@
 
 ; Boss: Vaelgor & Ezzorak
 1249748	Mitternachtsflammen
+1280458	Packender Schlund
 1262623	Nullstrahl
 1244221	Entsetzlicher Atem
 1265131	Vaelschwinge
@@ -81,10 +82,7 @@
 1233787	Dunkle Hand
 1243743	Unterbrechendes Beben
 1243753	Unersättlicher Abgrund
-1234569	Stellaremission
 1243982	Silberschlagbeschuss
-1235622	Singularitätsausbruch
-1238206	Flüchtiger Riss
 1237614	Mal des Waldläuferhauptmanns
 1237038	Leerenpirscherstich
 1237837	Ruf der Leere
@@ -93,7 +91,6 @@
 1245874	Umkreisende Materie
 1238843	Verschlingender Kosmos
 1239080	Aspekt des Endes
-1238708	Dunkler Rausch
 
 
 ; -------------------------------------
