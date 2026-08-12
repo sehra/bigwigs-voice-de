@@ -47,7 +47,7 @@
 233473	Heiliger Zauberschutz
 234423	Blutsauger
 234422	Aura des Verfalls
-234428	Quälendes Auge beschwören
+234428	Quälendes Auge
 234631	Schmettern
 236572	Vernichten
 234920	Schattenschwung

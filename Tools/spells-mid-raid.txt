@@ -1,6 +1,28 @@
 ; Type: Midnight Raid
 
 ; -------------------------------------
+; Zone: Midnight
+; -------------------------------------
+
+; Boss: Lu'ashal
+1258427	Strahlende Leuchtkugel
+1276427	Strahlenkranz der Morgenraserei
+1276247	Morgenfeueratem
+
+; Boss: Thorm'belan
+1257325	Leuchtpartikel
+1257825	Glitzernder Splitter
+1258641	Zerfetzende Tentakel
+
+; Boss: Predaxas
+
+; Boss: Cragpine
+1235131	Wurzelbeben
+1243594	Fixieren
+1235144	Kriegskeule
+
+
+; -------------------------------------
 ; Zone: The Dreamrift
 ; -------------------------------------
 
@@ -9,7 +31,6 @@
 ; Boss: Chimaerus the Undreamt God
 1262289	Alnstaubaufruhr
 1258610	Rissentstehung
-1264756	Risswahn
 1257087	Zehrendes Miasma
 1246653	Ätzender Auswurf
 1272726	Reißendes Schlitzen
@@ -18,6 +39,7 @@
 1245406	Gefräßiger Sturzflug
 1246621	Ätzender Auswurf
 1257085	Zehrendes Miasma
+1264756	Risswahn
 
 
 ; -------------------------------------
@@ -28,6 +50,7 @@
 
 ; Boss: Imperator Averzian
 1251361	Schattenvorstoß
+1262036	Leerenruptur
 1249262	Umbralkollaps
 1280015	Leerenmarkiert
 1260712	Zorn der Vergessenheit
@@ -52,6 +75,7 @@
 1249748	Mitternachtsflammen
 1280458	Packender Schlund
 1262623	Nullstrahl
+1244672	Nullzone
 1244221	Entsetzlicher Atem
 1265131	Vaelschwinge
 1245391	Düsternis
@@ -88,9 +112,10 @@
 1237837	Ruf der Leere
 1246918	Kosmische Barriere
 1246461	Risshieb
-1245874	Umkreisende Materie
+1261016	Risssimulakrum
 1238843	Verschlingender Kosmos
 1239080	Aspekt des Endes
+1261339	Kosmisches Portal
 
 
 ; -------------------------------------
@@ -100,15 +125,88 @@
 ; Boss: Trash
 
 ; Boss: Belo'ren, Child of Al'ar
+1242515	Leerenlichtkonvergenz
 1241282	Glut von Belo'ren
+1241292	Lichtsturz
 1242981	Strahlende Echos
 1260763	Edikt des Wächters
 1244344	Ewiger Brand
 1242260	Erfüllte Federkiele
 1246709	Todessturz
 1241313	Wiedergeburt
-1242792	Flammeninkubation
 
 ; Boss: Midnight Falls
+1253915	Gleven des Himmels
+1279420	Dunkler Quasar
+1249620	Klagelied des Todes
+1249609	Dunkelrune
+1251386	Schutzprisma
+1267049	Lanze des Himmels
+1284980	Grausige Symphonie
+1284931	Eliminierungsprisma
+1282441	Sternensplitter
+1282469	Dunkler Quasar
+1284525	Galvanisieren
+1282412	Kernernte
+1281194	Dunkle Schmelze
+1250898	Der dunkle Erzengel
+1266388	Dunkle Konstellation
+1266897	Lichtentzug
+1273158	Requiem des Todes
+1276525	Himmel & Hölle
+
+
+; -------------------------------------
+; Zone: Sporefall
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Rotmire
+1221622	Fungi erwecken
+1221637	Fungusblüte
+1222088	Schwärende Ranken
+1221787	Platzende Pusteln
+1221781	Faulige Faust
+
+
+; -------------------------------------
+; Zone: The Venomous Abyss
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Nek'zali the Soulcoiler
+
+; Boss: Entombed Sentinels
+
+; Boss: Vashnik the Malignant
+1283164	Trinken
+1282525	Bösartiger Katalysator
+1282117	Adaptive Infektion
+1281907	Seuchenschaum
+1280935	Triefende Fangzähne
+
+; Boss: The Lost Explorers
+
+; Boss: Sszorak
+
+; Boss: The Twin Fangs
+1289192	Ätzende Sintflut
+1290809	Windendes Sekret
+1291404	Giftiger Aufstieg
+1294293	Abscheuliche Flut
+1291478	Korrosiver Speichel
+1290516	Unersättliches Schmausen
+1303230	Blutstrom
+1290956	Regung in der Tiefe
+1288538	Steinbrecher
+1306872	Blutsturm
+1293792	Flut
+1308356	Die Brut aufwecken
+
+; Boss: The Coiled Altar
+
+; Boss: Ula'tek
 
 

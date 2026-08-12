@@ -120,58 +120,36 @@
 ; -------------------------------------
 
 ; Boss: Trash
-270003	Unterdrückungsknall
-270016	Inhibitoren freisetzen
-269936	Fixieren
-269976	Zorn der Ahnen
-269972	Schattenblitzsalve
-269931	Windstoßschlitzer
-270928	Klingensturm
-270920	Verführung
-270891	Blitz kanalisieren
-270084	Axthagel
-270901	Regeneration einleiten
-270931	Finsterschuss
-270503	Jagdsprung
-270865	Verborgene Klinge
-270872	Schattenwirbel
-270284	Läuterungsstrahl
-271564	Balsamierungsflüssigkeit
-271555	Bestatten
-270492	Verhexen
-270487	Trennende Klinge
-270482	Blutiger Sprung
-270499	Frostschock
-270507	Giftsperrfeuer
-270506	Zielsicherer Schuss
-270514	Bodenschmettern
-271640	Dunkle Offenbarung
 
 ; Boss: The Golden Serpent
 265773	Gold speien
-265923	Ruf des Mammons
-265781	Schlangenböe
 265910	Schwanzhieb
+265781	Schlangenböe
+265923	Ruf des Mammons
 
 ; Boss: Mchimba the Embalmer
-267639	Verderbnis verbrennen
 267618	Flüssigkeiten entziehen
+1311956	Verderbnis verbrennen
+1312146	Erweckender Schlag
 267702	Bestatten
 
 ; Boss: The Council of Tribes
 266206	Wirbelnde Äxte
 266231	Abspalteraxt
-266951	Durchstürmen
+267494	Durchstürmen
 266237	Entkräftende Rückhand
+1305810	Überspringender Blitz
 267273	Giftnova
 267060	Ruf der Elemente
 
 ; Boss: Dazar, The First King
-268586	Klingenkata
-268932	Bebensprung
-268403	Sturmhieb
-269231	Jagdsprung
+269230	Jagdsprung
 269369	Tödliches Brüllen
+1303115	Luftschlag
+268586	Klingenkata
+1303267	Goldene Zerstörung
+1303327	Bebensprung
+1303488	Wildes Zermalmen
 
 
 ; -------------------------------------
@@ -413,44 +391,28 @@
 ; -------------------------------------
 
 ; Boss: Trash
-265968	Heilende Woge
-264574	Kraftvoller Schuss
-273563	Neurotoxin
-258908	Klingenwirbel
-272659	Elektrisierte Schuppen
-272657	Giftiger Atem
-272700	Großer Heiltrank
-267237	Auslaugen
-273995	Pyrrhische Explosion
-265912	Ladung ansammeln
-268008	Schlangenbeschwörung
 
 ; Boss: Adderis and Aspix
-263246	Blitzschlagschild
-263257	Statischer Schock
-263371	Leitfähig
-263424	Bogensprung
-263309	Wirbelschlag
+1289059	Sturmkraft
+1288864	Orkanwinde
+1288049	Donner und Blitz
+1288428	Überladung
 
 ; Boss: Merektha
-263912	Giftiger Atem
-263927	Toxische Lache
-263914	Blendender Sand
-264239	Schlüpfen
-264206	Eingraben
-263958	Schlangenknäuel
+1290797	Blitzbiss
+1290029	Schlangenknäuel
+1289109	Donnerspucke
+1293048	Schlangensturm
+1289205	Schlüpfen
+264172	Eingraben
 
 ; Boss: Galvazzt
-266923	Galvanisieren
-266512	Aufladung verbrauchen
+1291618	Blitzspitze
+1309525	Induktion
 
 ; Boss: Avatar of Sethraliss
-268024	Impuls
-274149	Lebenskraft
-269688	Krötenregen
-269686	Seuche
-;268008	Schlangenbeschwörung
-268007	Herzschlag
+1301202	Schändliche Besudelung
+1273408	Phase 1
 
 
 ; -------------------------------------

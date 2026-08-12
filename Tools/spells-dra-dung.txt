@@ -16,35 +16,29 @@
 388537	Arkanriss
 386173	Manabomben
 385958	Arkaner Ausstoß
-386201	Verderbtes Mana
-391977	Aggressives Absorbieren
 
 ; Boss: Overgrown Ancient
 388796	Keimen
 388923	Explosionsartiges Erwachen
 388623	Verästeln
 388544	Borkenbrecher
-389033	Peitschergift
-396716	Splitterborke
 
 ; Boss: Crawth
+377182	Ball spielen!
 389481	Tor des sengenden Feuers
 376448	Feuersturm
+376781	Feuersturm
 389483	Tor der rauschenden Winde
 376467	Sturmkraft
 377004	Ohrenbetäubendes Kreischen
 377034	Überwältigende Böe
-376760	Sturmkraft
 376997	Wildes Picken
-377009	Ohrenbetäubendes Kreischen
 
 ; Boss: Echo of Doragosa
 373326	Arkane Geschosse
 1282251	Astralschock
 374343	Energiebombe
 388822	Kraftvakuum
-389007	Wilde Energie
-389011	Überwältigende Kraft
 
 
 ; -------------------------------------
@@ -238,49 +232,24 @@
 ; -------------------------------------
 
 ; Boss: Trash
-372696	Ausgrabungsschlag
-372735	Tektonischer Schlag
-372743	Eisschild
-372087	Lodernder Ansturm
-372047	Stahlbeschuss
-385536	Flammentanz
-373972	Feuersbrunst
-373693	Lebende Bombe
-373692	Inferno
-373614	Ausbrennen
-385313	Unglücksschlag
-392640	Rollender Donner
-391726	Sturmatem
-392395	Donnerkiefer
-391723	Flammenatem
-392569	Geschmolzenes Blut
-392394	Feuerschlund
-392486	Gewittersturm
-392451	Feuerblitz
-391050	Gewittersturmschild
 
 ; Boss: Melidrussa Chillworn
+1307297	Hagelschlag
+1307308	Kältesturm
 373046	Welpen erwecken
-372682	Urzeitliche Kälte
-372851	Kältesturm
-396044	Hagelbomben
-372988	Eisbollwerk
-373680	Frostüberladung
+373686	Frostüberladung
 
 ; Boss: Kokia Blazehoof
-372863	Ritual der Lohenbindung
-372107	Geschmolzener Brocken
+372864	Ritual der Lohenbindung
+372110	Geschmolzener Brocken
 372858	Sengende Hiebe
-373017	Loderndes Feuer
-373087	Ausbrennen
 
 ; Boss: Kyrakka and Erkhart Stormvein
-381862	Infernokern
 381525	Lodernder Feueratem
-381602	Flammenspeien
+381862	Infernospucke
+381512	Sturmknall
 381517	Winde der Veränderung
 381516	Unterbrechender Wolkenbruch
-381512	Sturmknall
 
 
 ; -------------------------------------

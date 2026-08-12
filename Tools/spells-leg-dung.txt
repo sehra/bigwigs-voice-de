@@ -592,9 +592,9 @@
 1268916	Hand der Nichtigkeit
 1263399	Triefendes Schmettern
 1263297	Hereinbrechende Leere
-244588	Leerenschlick
 
 ; Boss: Saprish
+248831	Kreischen des Grauens
 245742	Schattenhaftes Anspringen
 1248219	Leerenbombe
 1280065	Phasenspurt
@@ -606,8 +606,6 @@
 1263542	Massenleereninfusion
 1263538	Umbraltentakel
 1263528	Abstoßen
-1263532	Leerensturm
-1268733	Gedankenschinden
 
 ; Boss: L'ura
 1265421	Klagelied der Verzweiflung
@@ -615,8 +613,7 @@
 1265463	Disharmonischer Strahl
 1265689	Grimmiger Chor
 1266003	Symphonie der ewigen Nacht
-1266001	Heimzahlen
-1265650	Qual
+1265999	Leere entziehen
 
 
 ; -------------------------------------

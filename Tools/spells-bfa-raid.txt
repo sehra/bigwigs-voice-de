@@ -111,7 +111,7 @@
 274990	Aufplatzende Wunden
 
 ; Boss: Zul, Reborn
-;269936	Fixieren
+269936	Fixieren
 -18530	Diener von Zul
 273365	Dunkle Offenbarung
 273361	Lache der Dunkelheit

@@ -7,29 +7,20 @@
 ; Boss: Trash
 
 ; Boss: The Hoardmonger
-1253268	Erdspalterschlag
 1235118	Rasendes Gebrüll
+1253268	Erdspalterschlag
 1234233	Verdorbene Vorräte
-1234846	Toxische Sporen
-1235125	Herzhaftes Brüllen
 
 ; Boss: Sentinel of Winter
-1235783	Splitternder Froststachel
 1235548	Eiszeitliche Folter
 1235623	Wütender Sturm
-1235656	Ewiger Winter
-1235829	Schleier des Winters
-1235841	Schneewehe
-1236289	Zorn des Blizzards
+1235783	Splitternder Froststachel
+1235656	Gefrorener Sturm
 
 ; Boss: Nalorakk
 1242860	Wiederhallende Hiebe
 1243569	Überwältigender Ansturm
-1255385	Kraftvolles Brüllen
 1243011	Zorn des Kriegsgottes
-1255577	Spektralschlitzer
-1262253	Demoralisierender Schrei
-1261781	Verteidigungshaltung
 
 
 ; -------------------------------------
@@ -43,33 +34,23 @@
 1214081	Arkaner Ausstoß
 1214032	Ätherische Fesseln
 474345	Aufladeprotokoll
-1214089	Arkane Überreste
-1243905	Instabile Energie
 
 ; Boss: Seranel Sunlash
 1225787	Runenmal
 1224903	Unterdrückungsbereich
 1248689	Beschleunigender Zauberschutz
 1225193	Welle der Stille
-1225015	Unterdrückungsbereich
-1225205	Welle der Stille
-1246446	Nullreaktion
 
 ; Boss: Gemellus
 1223847	Verdreifachung
 1284954	Kosmischer Stich
 1253709	Neurale Verbindung
 1224299	Astraler Griff
-1224104	Leerenabsonderungen
-1224401	Kosmische Strahlung
 
 ; Boss: Degentrius
 1280113	Wuchtiges Fragment
 1215897	Verschlingende Entropie
 1215087	Instabile Leerenessenz
-1215157	Instabile Leerenessenz
-1215161	Leerenzerstörung
-1269631	Entropiekugel
 
 
 ; -------------------------------------
@@ -79,43 +60,25 @@
 ; Boss: Trash
 
 ; Boss: Muro'jin and Nekraxx
-1266480	Flankenspeer
-1246666	Infizierte Flügelspitzen
 1260731	Eiskältefalle
-1243900	Fauler Federsturm
 1260643	Sperrfeuer
+1266480	Flankenspeer
 1249479	Aasfressersturzflug
-1243741	Eiskältefalle
-1243752	Eisige Lache
-1249478	Aasfressersturzflug
-1260709	Stich der Blutfratzen
-1266488	Offene Wunde
+1243900	Fauler Federsturm
+1246666	Infizierte Flügelspitzen
+1249947	Zorn des Wildtiers
 
 ; Boss: Vordaza
 1251554	Seelendieb
 1251204	Phantome entreißen
 1252054	Zerrütten
 1250708	Nekrotische Konvergenz
-1251568	Seelendieb
 1251775	Letzte Verfolgung
-1251813	Schwelender Schrecken
-1251833	Seelenfäule
-1252130	Zerrütten
-1266706	Heimsuchende Überreste
 
 ; Boss: Rak'tul, Vessel of Souls
 1251023	Geistbrecher
 1252676	Seelen brechen
 1253788	Seelenreißendes Brüllen
-1252675	Seelen brechen
-1252777	Seelenbindung
-1252816	Kälte des Todes
-1253779	Spektraler Verfall
-1253844	Verdorrende Seele
-1254043	Ewiges Leid
-1254175	Schreie der Gefallenen
-1255629	Spektrale Rückstände
-1266188	Schattenreich
 
 
 ; -------------------------------------
@@ -125,7 +88,10 @@
 ; Boss: Trash
 
 ; Boss: Kystia Manaheart
-1228198	Zersetzender Speichel
+1253811	Teufelsgischt
+1264095	Spiegelbilder
+474240	Teufelsnova
+1230304	Lichtinfusion
 
 ; Boss: Zaen Bladesorrow
 474478	Mordlust
@@ -133,14 +99,17 @@
 1214357	Feuerbombe
 1222795	Vergiften
 1218347	Tödliche Linie
-474515	Herzstillstandsgift
 
 ; Boss: Xathuux the Annihilator
 473898	Legionshieb
-474234	Brennende Schritte
-1214650	Teufelsblitzschlag
+1214637	Axtwurf
+1295453	Höllisches Zerschmettern
+474197	Dämonenwut
 
 ; Boss: Lithiel Cinderfury
+474408	Finsteres Scheusal beschwören
+1218203	Finger von Gul'dan
+1224478	Bösartige Welle
 
 
 ; -------------------------------------
@@ -150,27 +119,23 @@
 ; Boss: Trash
 
 ; Boss: Chief Corewright Kasreth
-1251626	Leylinienmatrix
+1251579	Leylinienmatrix
 1251772	Ladungsrückstoß
-1257836	Ladungsrückstoß
-1264042	Arkanfleck
-1276485	Funkenbrand
+1264048	Fluxkollaps
+1257509	Kernfunkendetonation
 
 ; Boss: Corewarden Nysarra
 1247937	Umbralpeitsche
 1249014	Verdunkelnder Schritt
 1252703	Nullvorhut
 1264439	Lichtgezeichnete Flamme
-1252828	Leerenschnitt
+1271684	Verschlingen der Unwürdigen
 
 ; Boss: Lothraxion
 1253950	Sengende Verwundung
 1253855	Strahlende Zerstreuung
 1255531	Flackern
 1257595	Göttliche List
-1255310	Strahlende Narbe
-1255335	Sengende Verwundung
-1255503	Strahlende Zerstreuung
 
 
 ; -------------------------------------
@@ -180,27 +145,30 @@
 ; Boss: Trash
 
 ; Boss: Lightblossom Trinity
-1234802	Fruchtbarer Lehm
-1235574	Lichtblumenstrahl
-1235828	Lichtverbrannte Erde
-1235865	Dornenklinge
+1234753	Grundsteinschmettern
+1235640	Dornenklinge
+1234850	Lichtsäerspurt
+1235564	Lichtblumenstrahl
 
 ; Boss: Ikuzz the Light Hunter
-1237091	Blutrünstiger Blick
-1237267	Aufschlitzen
-1272290	Zerkaut
+1236746	Tiefgrünes Stampfen
+1236709	Dornenruferbrüllen
+1237090	Blutrünstiger Blick
 
 ; Boss: Lightwarden Ruia
-1239825	Lichtfeuer
-1239919	Lichtfeuerstrahlen
+1239882	Gestaltwandel: Mondkin
+1239824	Lichtfeuer
+1240098	Lichtregen
+1239885	Gestaltwandel: Bär
 1241058	Schreckliches Dreschen
-1251345	Seuchenharz
-1257094	Pulverisiert
+1240210	Pulverisierende Schläge
+1239883	Gestaltwandel: Haranir
 
 ; Boss: Ziekket
-1246751	Konzentrierter Lichtstrahl
-1246753	Lichtsaft
-1247746	Dornenstachel
+1246372	Erweckt die Lichtblüte
+1246858	Essenz der Lichtblüte
+1247685	Dornenstachel
+1246607	Konzentrierter Lichtstrahl
 
 
 ; -------------------------------------
@@ -210,20 +178,24 @@
 ; Boss: Trash
 
 ; Boss: Taz'Rah
-1222103	Netherspurt
-1262283	Dunkler Riss
-1222305	Dunkler Riss
+1222098	Netherspurt
+1296963	Umbralriss
+1297017	Leerenschlag
+1300259	Dunkle Blüte
 
 ; Boss: Atroxus
-1222484	Giftlache
 1222642	Bullige Klaue
-1226031	Säurespritzer
-1263971	Bleibendes Gift
+1226120	Säurespritzer
+1222371	Kriecher reizen
+1222721	Giftiger Atem
+1262497	Monströses Brüllen
 
 ; Boss: Charonus
-1227197	Kosmische Explosion
-1248130	Instabile Singularität
-1264188	Ereignishorizont
+1282770	Instabile Singularität
+1227264	Kosmischer Einschlag
+1263982	Gravitationskugeln
+1311923	Dunkle Wellen
+1222755	Leerenkaskade
 
 
 ; -------------------------------------
@@ -236,23 +208,13 @@
 466556	Flammender Aufwind
 466064	Sengender Schnabel
 465904	Brennende Bö
-466091	Sengender Schnabel
-466559	Flammender Aufwind
-470212	Flammende Wirbelstürme
-472118	Entfachte Funken
 
 ; Boss: Derelict Duo
 472745	Spritzender Auswurf
 472888	Knochenhacker
 474105	Fluch der Dunkelheit
 472736	Entkräftendes Kreischen
-472777	Verspritzte Galle
 472793	Wuchtiger Ruck
-474129	Spritzender Auswurf
-1215803	Fluch der Dunkelheit
-1219491	Entkräftendes Kreischen
-1253834	Fluch der Dunkelheit
-1282272	Vollgespritzt
 
 ; Boss: Commander Kroluk
 1250851	Schildwall
@@ -260,7 +222,6 @@
 472081	Tollkühner Sprung
 1253272	Drohruf
 470963	Klingensturm
-468659	Axt werfen
 
 ; Boss: The Restless Heart
 472556	Pfeilhagel
@@ -268,10 +229,37 @@
 1253986	Böenschuss
 468429	Zielscheibenwindstoß
 474528	Blitzbö
-468442	Wogender Wind
-1216042	Sturmböensprung
-1253979	Böenschuss
-1282911	Blitzbö
-1282955	Stürmischer Seelenquell
+
+
+; -------------------------------------
+; Zone: Altar of Fangs
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Rav'i
+1296220	Dreifachschuss
+1307703	Frischfleisch
+1296216	Aas verssschlingen
+1296050	Hochwürgen
+1307894	Gefräßiges Stampfen
+
+; Boss: The Writhing Coil
+1299154	Synchrones Gift
+1298949	Schwanzsense
+1310357	Toxische Salve
+1310547	Giftiger Schwund
+1299940	Rachsüchtiger Ansturm
+1299130	Grabender Ansturm
+1300044	Giftdüse
+1299053	Todesklappern
+1310358	Giftiger Schwund
+1300686	Assimilierung
+
+; Boss: Zul'jan
+1300876	Ritual des Fangzahns
+1301111	Scharfaxt
+1301350	Niedermähen
+1301413	Knochenschlitzer
 
 
