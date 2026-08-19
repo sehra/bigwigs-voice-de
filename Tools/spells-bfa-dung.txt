@@ -394,9 +394,9 @@
 
 ; Boss: Adderis and Aspix
 1289059	Sturmkraft
-1288864	Orkanwinde
+1311805	Orkanwinde
 1288049	Donner und Blitz
-1288428	Überladung
+1311804	Überladung
 
 ; Boss: Merektha
 1290797	Blitzbiss

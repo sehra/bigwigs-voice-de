@@ -1,0 +1,26 @@
+; Type: Midnight Delves
+
+; -------------------------------------
+; Zone: Torment's Rise
+; -------------------------------------
+
+; Boss: Nullaeus
+1280086	Inhaltslosigkeit der Leere
+1280087	Implodierender Stoß
+1280088	Verschlingende Essenz
+
+
+; -------------------------------------
+; Zone: Venomfall Deeps
+; -------------------------------------
+
+; Boss: Azta'rec
+1291555	Giftige Galle
+1293824	Leerentoxin
+1293825	Stoß der Schlange
+1294963	Seelenauslöschung
+1309418	Giftsturm
+1288103	Predigt von Ula'tek
+1288125	Echo von Ula'tek
+
+

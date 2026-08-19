@@ -186,9 +186,9 @@
 ; Boss: Atroxus
 1222642	Bullige Klaue
 1226120	Säurespritzer
-1222371	Kriecher reizen
 1222721	Giftiger Atem
 1262497	Monströses Brüllen
+1222371	Kriecher reizen
 
 ; Boss: Charonus
 1282770	Instabile Singularität

@@ -21,6 +21,15 @@
 1243594	Fixieren
 1235144	Kriegskeule
 
+; Boss: Nymrissa Wavecaller
+1276710	Verlockende Blase
+1257608	Frostsperrfeuer
+1258668	Wirbelnde Strudel
+1260837	Abyssischer Regen
+1282937	Eisklingenwirbel
+1313393	Eiseskälte
+1268562	Wasserstrahl
+
 
 ; -------------------------------------
 ; Zone: The Dreamrift
@@ -177,8 +186,25 @@
 ; Boss: Trash
 
 ; Boss: Nek'zali the Soulcoiler
+1293212	Greifende Tiefen
+1285681	Seelenwinderzündung
+1287426	Essenzzerreißen
+1295397	Ruheloser Amani
+1287533	Grabesvorstoß
+1292036	Sperrfeuer der Besessenheit
+1289696	Bindung des Erwachens
+1305421	Hungernder Scheiterhaufen
+1299673	Anrufen
 
 ; Boss: Entombed Sentinels
+1284588	Ätzende Stasis
+1296878	Unstetes Protogift
+1284251	Giftgerinnung
+1284434	Toxintropfen
+1284458	Ermächtigendes Schmettern
+1284483	Verseuchtes Blut
+1288232	Instabiles Miasma
+1284487	Blutgiftinjektion
 
 ; Boss: Vashnik the Malignant
 1283164	Trinken
@@ -188,25 +214,71 @@
 1280935	Triefende Fangzähne
 
 ; Boss: The Lost Explorers
+1296535	Widerlicher Fisch
+1297022	Mor'zahis Befehl
+1292779	Letzter Aufstieg
+1290711	Blinzelnova
+1286921	Eisgebundene Flammen
+1295854	Zerfetzende Splitter
+1295886	Frostfeuersalve
+1291390	Kataklysmische Anrufung
+1291759	Panzerwirbel
+1296092	Gewaltiger Bums
+1291933	Plunder werfen
+1295817	Fisch schleudern
+1292104	Pilzwurf
+1296249	Explosive Überraschung
 
 ; Boss: Sszorak
+1285732	Heulender Mahlstrom
+1277025	Eliteraubtier
+1305959	Giftwoge
+1285425	Tobende Scherwinde
+1296898	Unbändige Wildheit
 
 ; Boss: The Twin Fangs
+1308556	Abtauchen
 1289192	Ätzende Sintflut
-1290809	Windendes Sekret
 1291404	Giftiger Aufstieg
-1294293	Abscheuliche Flut
 1291478	Korrosiver Speichel
-1290516	Unersättliches Schmausen
-1303230	Blutstrom
 1290956	Regung in der Tiefe
+1294293	Abscheuliche Flut
+1303230	Blutstrom
+1308356	Die Brut aufwecken
+1290516	Unersättliches Schmausen
+1290809	Windendes Sekret
 1288538	Steinbrecher
 1306872	Blutsturm
-1293792	Flut
-1308356	Die Brut aufwecken
 
 ; Boss: The Coiled Altar
+1282487	Fänge des Gewundenen Altars
+1299960	Toxische Sintflut
+1283489	Guillotine
+1299680	Abtrennen
+1282281	Giftzahn
+1283832	Scharfaxt
+1289900	Schreckensmarsch
+1285911	Zermürbende Fixierung
+1286573	Seelentrennung
+1286918	Ewiger Nachteinbruch
+1286895	Düsterbombe
+1286441	Geisterhäme
+1298381	Entweihung des Gewundenen Altars
+1299266	Grauenvolle Guillotine
+1307279	Verseuchte Abtrennung
 
 ; Boss: Ula'tek
+1292999	Abtauchen
+1292188	Ätzende Wellen
+1300751	Ruf der Schlange
+1298367	Zorn der Mutter
+1298559	Blutrassel
+1296301	Verpesteter Hieb
+1300530	Spektralschlingen
+1286860	Zorn der Gefesselten
+1302982	Virulente Spucke
+1301510	Beute umkreisen
+1295905	Schlangenbiss
+1286905	Entfesselter Zorn
 
 
